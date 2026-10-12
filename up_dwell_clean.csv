@@ -1,0 +1,5480 @@
+week,terminal,dwell_hours
+2017-03-29,"Chicago (Proviso), IL",28.2
+2017-04-05,"Chicago (Proviso), IL",30.0
+2017-04-12,"Chicago (Proviso), IL",30.5
+2017-04-19,"Chicago (Proviso), IL",27.8
+2017-04-26,"Chicago (Proviso), IL",27.9
+2017-05-03,"Chicago (Proviso), IL",28.2
+2017-05-10,"Chicago (Proviso), IL",30.4
+2017-05-17,"Chicago (Proviso), IL",28.7
+2017-05-24,"Chicago (Proviso), IL",28.8
+2017-05-31,"Chicago (Proviso), IL",31.8
+2017-06-07,"Chicago (Proviso), IL",36.0
+2017-06-14,"Chicago (Proviso), IL",31.6
+2017-06-21,"Chicago (Proviso), IL",30.9
+2017-06-28,"Chicago (Proviso), IL",31.2
+2017-07-05,"Chicago (Proviso), IL",33.1
+2017-07-12,"Chicago (Proviso), IL",36.7
+2017-07-19,"Chicago (Proviso), IL",33.9
+2017-07-26,"Chicago (Proviso), IL",34.5
+2017-08-02,"Chicago (Proviso), IL",32.9
+2017-08-09,"Chicago (Proviso), IL",31.1
+2017-08-16,"Chicago (Proviso), IL",30.8
+2017-08-23,"Chicago (Proviso), IL",30.8
+2017-08-30,"Chicago (Proviso), IL",27.9
+2017-09-06,"Chicago (Proviso), IL",33.9
+2017-09-13,"Chicago (Proviso), IL",34.9
+2017-09-20,"Chicago (Proviso), IL",30.1
+2017-09-27,"Chicago (Proviso), IL",29.0
+2017-10-04,"Chicago (Proviso), IL",29.5
+2017-10-11,"Chicago (Proviso), IL",28.2
+2017-10-18,"Chicago (Proviso), IL",29.7
+2017-10-25,"Chicago (Proviso), IL",30.2
+2017-11-01,"Chicago (Proviso), IL",31.5
+2017-11-08,"Chicago (Proviso), IL",32.0
+2017-11-15,"Chicago (Proviso), IL",32.0
+2017-11-22,"Chicago (Proviso), IL",32.5
+2017-11-29,"Chicago (Proviso), IL",35.2
+2017-12-06,"Chicago (Proviso), IL",48.5
+2017-12-13,"Chicago (Proviso), IL",34.4
+2017-12-20,"Chicago (Proviso), IL",34.6
+2017-12-27,"Chicago (Proviso), IL",32.7
+2018-01-03,"Chicago (Proviso), IL",49.3
+2018-01-10,"Chicago (Proviso), IL",68.4
+2018-01-17,"Chicago (Proviso), IL",56.1
+2018-01-24,"Chicago (Proviso), IL",42.0
+2018-01-31,"Chicago (Proviso), IL",36.3
+2018-02-07,"Chicago (Proviso), IL",29.3
+2018-02-14,"Chicago (Proviso), IL",34.6
+2018-02-21,"Chicago (Proviso), IL",51.0
+2018-02-28,"Chicago (Proviso), IL",43.6
+2018-03-07,"Chicago (Proviso), IL",34.8
+2018-03-14,"Chicago (Proviso), IL",45.6
+2018-03-21,"Chicago (Proviso), IL",49.7
+2018-03-28,"Chicago (Proviso), IL",44.1
+2018-04-04,"Chicago (Proviso), IL",36.9
+2018-04-11,"Chicago (Proviso), IL",39.3
+2018-04-18,"Chicago (Proviso), IL",32.7
+2018-04-25,"Chicago (Proviso), IL",31.8
+2018-05-02,"Chicago (Proviso), IL",30.3
+2018-05-09,"Chicago (Proviso), IL",31.4
+2018-05-16,"Chicago (Proviso), IL",33.8
+2018-05-23,"Chicago (Proviso), IL",36.4
+2018-05-30,"Chicago (Proviso), IL",36.0
+2018-06-06,"Chicago (Proviso), IL",34.1
+2018-06-13,"Chicago (Proviso), IL",32.5
+2018-06-20,"Chicago (Proviso), IL",35.9
+2018-06-27,"Chicago (Proviso), IL",38.7
+2018-07-04,"Chicago (Proviso), IL",40.8
+2018-07-11,"Chicago (Proviso), IL",40.0
+2018-07-18,"Chicago (Proviso), IL",36.7
+2018-07-25,"Chicago (Proviso), IL",34.3
+2018-08-01,"Chicago (Proviso), IL",35.4
+2018-08-08,"Chicago (Proviso), IL",34.5
+2018-08-15,"Chicago (Proviso), IL",34.0
+2018-08-22,"Chicago (Proviso), IL",37.8
+2018-08-29,"Chicago (Proviso), IL",35.0
+2018-09-05,"Chicago (Proviso), IL",33.8
+2018-09-12,"Chicago (Proviso), IL",36.3
+2018-09-19,"Chicago (Proviso), IL",43.4
+2018-09-26,"Chicago (Proviso), IL",36.1
+2018-10-03,"Chicago (Proviso), IL",34.3
+2018-10-10,"Chicago (Proviso), IL",34.6
+2018-10-17,"Chicago (Proviso), IL",38.4
+2018-10-24,"Chicago (Proviso), IL",39.9
+2018-10-31,"Chicago (Proviso), IL",43.9
+2018-11-07,"Chicago (Proviso), IL",38.8
+2018-11-14,"Chicago (Proviso), IL",35.3
+2018-11-21,"Chicago (Proviso), IL",32.4
+2018-11-28,"Chicago (Proviso), IL",31.8
+2018-12-05,"Chicago (Proviso), IL",35.2
+2018-12-12,"Chicago (Proviso), IL",32.4
+2018-12-19,"Chicago (Proviso), IL",38.1
+2018-12-26,"Chicago (Proviso), IL",32.2
+2019-01-02,"Chicago (Proviso), IL",28.5
+2019-01-09,"Chicago (Proviso), IL",25.5
+2019-01-16,"Chicago (Proviso), IL",23.9
+2019-01-23,"Chicago (Proviso), IL",25.8
+2019-01-30,"Chicago (Proviso), IL",28.7
+2019-02-06,"Chicago (Proviso), IL",46.7
+2019-02-13,"Chicago (Proviso), IL",49.9
+2019-02-20,"Chicago (Proviso), IL",47.4
+2019-02-27,"Chicago (Proviso), IL",34.1
+2019-03-06,"Chicago (Proviso), IL",26.9
+2019-03-13,"Chicago (Proviso), IL",28.2
+2019-03-20,"Chicago (Proviso), IL",26.6
+2019-03-27,"Chicago (Proviso), IL",30.3
+2019-04-03,"Chicago (Proviso), IL",28.8
+2019-04-10,"Chicago (Proviso), IL",33.8
+2019-04-17,"Chicago (Proviso), IL",31.0
+2019-04-24,"Chicago (Proviso), IL",28.0
+2019-05-01,"Chicago (Proviso), IL",29.6
+2019-05-08,"Chicago (Proviso), IL",28.7
+2019-05-15,"Chicago (Proviso), IL",28.2
+2019-05-22,"Chicago (Proviso), IL",24.8
+2019-05-29,"Chicago (Proviso), IL",27.9
+2019-06-05,"Chicago (Proviso), IL",28.5
+2019-06-12,"Chicago (Proviso), IL",30.6
+2019-06-19,"Chicago (Proviso), IL",26.5
+2019-06-26,"Chicago (Proviso), IL",25.8
+2019-07-03,"Chicago (Proviso), IL",24.1
+2019-07-10,"Chicago (Proviso), IL",23.4
+2019-07-17,"Chicago (Proviso), IL",23.5
+2019-07-24,"Chicago (Proviso), IL",28.3
+2019-07-31,"Chicago (Proviso), IL",24.0
+2019-08-07,"Chicago (Proviso), IL",19.6
+2019-08-14,"Chicago (Proviso), IL",17.2
+2019-08-21,"Chicago (Proviso), IL",18.0
+2019-08-28,"Chicago (Proviso), IL",17.7
+2019-09-04,"Chicago (Proviso), IL",16.6
+2019-09-11,"Chicago (Proviso), IL",19.0
+2019-09-18,"Chicago (Proviso), IL",16.9
+2019-09-25,"Chicago (Proviso), IL",18.0
+2019-10-02,"Chicago (Proviso), IL",16.1
+2019-10-09,"Chicago (Proviso), IL",18.8
+2019-10-16,"Chicago (Proviso), IL",18.2
+2019-10-23,"Chicago (Proviso), IL",19.8
+2019-10-30,"Chicago (Proviso), IL",21.2
+2019-11-06,"Chicago (Proviso), IL",18.7
+2019-11-13,"Chicago (Proviso), IL",18.8
+2019-11-20,"Chicago (Proviso), IL",15.9
+2019-11-27,"Chicago (Proviso), IL",19.0
+2019-12-04,"Chicago (Proviso), IL",18.4
+2019-12-11,"Chicago (Proviso), IL",17.9
+2019-12-18,"Chicago (Proviso), IL",21.1
+2019-12-25,"Chicago (Proviso), IL",20.2
+2020-01-01,"Chicago (Proviso), IL",23.9
+2020-01-08,"Chicago (Proviso), IL",18.3
+2020-01-15,"Chicago (Proviso), IL",20.8
+2020-01-22,"Chicago (Proviso), IL",22.5
+2020-01-29,"Chicago (Proviso), IL",22.3
+2020-02-05,"Chicago (Proviso), IL",26.5
+2020-02-12,"Chicago (Proviso), IL",21.8
+2020-02-19,"Chicago (Proviso), IL",22.2
+2020-02-26,"Chicago (Proviso), IL",18.9
+2020-03-04,"Chicago (Proviso), IL",19.8
+2020-03-11,"Chicago (Proviso), IL",20.3
+2020-03-18,"Chicago (Proviso), IL",19.4
+2020-03-25,"Chicago (Proviso), IL",20.6
+2020-04-01,"Chicago (Proviso), IL",19.5
+2020-04-08,"Chicago (Proviso), IL",20.3
+2020-04-15,"Chicago (Proviso), IL",20.7
+2020-04-22,"Chicago (Proviso), IL",18.5
+2020-04-29,"Chicago (Proviso), IL",18.7
+2020-05-06,"Chicago (Proviso), IL",21.8
+2020-05-13,"Chicago (Proviso), IL",23.8
+2020-05-20,"Chicago (Proviso), IL",20.7
+2020-05-27,"Chicago (Proviso), IL",23.0
+2020-06-03,"Chicago (Proviso), IL",23.1
+2020-06-10,"Chicago (Proviso), IL",20.5
+2020-06-17,"Chicago (Proviso), IL",20.9
+2020-06-24,"Chicago (Proviso), IL",20.6
+2020-07-01,"Chicago (Proviso), IL",22.2
+2020-07-08,"Chicago (Proviso), IL",21.7
+2020-07-15,"Chicago (Proviso), IL",22.5
+2020-07-22,"Chicago (Proviso), IL",23.3
+2020-07-29,"Chicago (Proviso), IL",22.8
+2020-08-05,"Chicago (Proviso), IL",20.3
+2020-08-12,"Chicago (Proviso), IL",19.1
+2020-08-19,"Chicago (Proviso), IL",25.0
+2020-08-26,"Chicago (Proviso), IL",24.3
+2020-09-02,"Chicago (Proviso), IL",23.9
+2020-09-09,"Chicago (Proviso), IL",20.6
+2020-09-16,"Chicago (Proviso), IL",22.2
+2020-09-23,"Chicago (Proviso), IL",19.4
+2020-09-30,"Chicago (Proviso), IL",23.2
+2020-10-07,"Chicago (Proviso), IL",22.9
+2020-10-14,"Chicago (Proviso), IL",22.6
+2020-10-21,"Chicago (Proviso), IL",25.0
+2020-10-28,"Chicago (Proviso), IL",23.5
+2020-11-04,"Chicago (Proviso), IL",25.1
+2020-11-11,"Chicago (Proviso), IL",22.1
+2020-11-18,"Chicago (Proviso), IL",22.1
+2020-11-25,"Chicago (Proviso), IL",20.3
+2020-12-02,"Chicago (Proviso), IL",20.9
+2020-12-09,"Chicago (Proviso), IL",20.8
+2020-12-16,"Chicago (Proviso), IL",21.4
+2020-12-23,"Chicago (Proviso), IL",20.5
+2020-12-30,"Chicago (Proviso), IL",19.8
+2021-01-06,"Chicago (Proviso), IL",19.2
+2021-01-13,"Chicago (Proviso), IL",20.3
+2021-01-20,"Chicago (Proviso), IL",21.1
+2021-01-27,"Chicago (Proviso), IL",20.4
+2021-02-03,"Chicago (Proviso), IL",23.4
+2021-02-10,"Chicago (Proviso), IL",30.2
+2021-02-17,"Chicago (Proviso), IL",33.9
+2021-02-24,"Chicago (Proviso), IL",40.1
+2021-03-03,"Chicago (Proviso), IL",37.2
+2021-03-10,"Chicago (Proviso), IL",31.7
+2021-03-17,"Chicago (Proviso), IL",28.6
+2021-03-24,"Chicago (Proviso), IL",28.5
+2021-03-31,"Chicago (Proviso), IL",26.2
+2021-04-07,"Chicago (Proviso), IL",25.8
+2021-04-14,"Chicago (Proviso), IL",22.4
+2021-04-21,"Chicago (Proviso), IL",20.8
+2021-04-28,"Chicago (Proviso), IL",21.8
+2021-05-05,"Chicago (Proviso), IL",22.8
+2021-05-12,"Chicago (Proviso), IL",21.8
+2021-05-19,"Chicago (Proviso), IL",26.9
+2021-05-26,"Chicago (Proviso), IL",28.3
+2021-06-02,"Chicago (Proviso), IL",26.4
+2021-06-09,"Chicago (Proviso), IL",23.7
+2021-06-16,"Chicago (Proviso), IL",24.2
+2021-06-23,"Chicago (Proviso), IL",23.0
+2021-06-30,"Chicago (Proviso), IL",26.0
+2021-07-07,"Chicago (Proviso), IL",26.0
+2021-07-14,"Chicago (Proviso), IL",26.9
+2021-07-21,"Chicago (Proviso), IL",24.9
+2021-07-28,"Chicago (Proviso), IL",22.8
+2021-08-04,"Chicago (Proviso), IL",26.7
+2021-08-11,"Chicago (Proviso), IL",29.3
+2021-08-18,"Chicago (Proviso), IL",31.6
+2021-08-25,"Chicago (Proviso), IL",27.2
+2021-09-01,"Chicago (Proviso), IL",29.3
+2021-09-08,"Chicago (Proviso), IL",25.9
+2021-09-15,"Chicago (Proviso), IL",23.9
+2021-09-22,"Chicago (Proviso), IL",22.8
+2021-09-29,"Chicago (Proviso), IL",28.9
+2021-10-06,"Chicago (Proviso), IL",25.7
+2021-10-13,"Chicago (Proviso), IL",27.6
+2021-10-20,"Chicago (Proviso), IL",27.0
+2021-10-27,"Chicago (Proviso), IL",26.6
+2021-11-03,"Chicago (Proviso), IL",26.6
+2021-11-10,"Chicago (Proviso), IL",27.7
+2021-11-17,"Chicago (Proviso), IL",27.5
+2021-11-24,"Chicago (Proviso), IL",29.6
+2021-12-01,"Chicago (Proviso), IL",29.1
+2021-12-08,"Chicago (Proviso), IL",24.2
+2021-12-15,"Chicago (Proviso), IL",30.5
+2021-12-22,"Chicago (Proviso), IL",26.6
+2021-12-29,"Chicago (Proviso), IL",27.0
+2022-01-05,"Chicago (Proviso), IL",25.5
+2022-01-12,"Chicago (Proviso), IL",25.9
+2022-01-19,"Chicago (Proviso), IL",29.0
+2022-01-26,"Chicago (Proviso), IL",32.0
+2022-02-02,"Chicago (Proviso), IL",32.5
+2022-02-09,"Chicago (Proviso), IL",34.4
+2022-02-16,"Chicago (Proviso), IL",31.2
+2022-02-23,"Chicago (Proviso), IL",32.9
+2022-03-02,"Chicago (Proviso), IL",29.3
+2022-03-09,"Chicago (Proviso), IL",29.7
+2022-03-16,"Chicago (Proviso), IL",22.6
+2022-03-23,"Chicago (Proviso), IL",24.4
+2022-03-30,"Chicago (Proviso), IL",28.6
+2022-04-06,"Chicago (Proviso), IL",28.5
+2022-04-13,"Chicago (Proviso), IL",27.1
+2022-04-20,"Chicago (Proviso), IL",28.6
+2022-04-27,"Chicago (Proviso), IL",23.4
+2022-05-04,"Chicago (Proviso), IL",27.3
+2022-05-11,"Chicago (Proviso), IL",25.2
+2022-05-18,"Chicago (Proviso), IL",25.8
+2022-05-25,"Chicago (Proviso), IL",26.2
+2022-06-01,"Chicago (Proviso), IL",25.4
+2022-06-08,"Chicago (Proviso), IL",23.7
+2022-06-15,"Chicago (Proviso), IL",21.9
+2022-06-22,"Chicago (Proviso), IL",25.1
+2022-06-29,"Chicago (Proviso), IL",23.9
+2022-07-06,"Chicago (Proviso), IL",24.5
+2022-07-13,"Chicago (Proviso), IL",25.1
+2022-07-20,"Chicago (Proviso), IL",25.2
+2022-07-27,"Chicago (Proviso), IL",23.7
+2022-08-03,"Chicago (Proviso), IL",25.7
+2022-08-10,"Chicago (Proviso), IL",28.2
+2022-08-17,"Chicago (Proviso), IL",24.5
+2022-08-24,"Chicago (Proviso), IL",24.1
+2022-08-31,"Chicago (Proviso), IL",24.2
+2022-09-07,"Chicago (Proviso), IL",24.1
+2022-09-14,"Chicago (Proviso), IL",23.1
+2022-09-21,"Chicago (Proviso), IL",27.7
+2022-09-28,"Chicago (Proviso), IL",30.2
+2022-10-05,"Chicago (Proviso), IL",27.0
+2022-10-12,"Chicago (Proviso), IL",33.4
+2022-10-19,"Chicago (Proviso), IL",28.3
+2022-10-26,"Chicago (Proviso), IL",27.0
+2022-11-02,"Chicago (Proviso), IL",28.2
+2022-11-09,"Chicago (Proviso), IL",28.4
+2022-11-16,"Chicago (Proviso), IL",24.9
+2022-11-23,"Chicago (Proviso), IL",22.3
+2022-11-30,"Chicago (Proviso), IL",21.5
+2022-12-07,"Chicago (Proviso), IL",23.0
+2022-12-14,"Chicago (Proviso), IL",25.3
+2022-12-21,"Chicago (Proviso), IL",23.9
+2022-12-28,"Chicago (Proviso), IL",24.2
+2023-01-04,"Chicago (Proviso), IL",33.2
+2023-01-11,"Chicago (Proviso), IL",25.4
+2023-01-18,"Chicago (Proviso), IL",25.4
+2023-01-25,"Chicago (Proviso), IL",24.8
+2023-02-01,"Chicago (Proviso), IL",26.6
+2023-02-08,"Chicago (Proviso), IL",34.3
+2023-02-15,"Chicago (Proviso), IL",34.1
+2023-02-22,"Chicago (Proviso), IL",33.0
+2023-03-01,"Chicago (Proviso), IL",36.1
+2023-03-08,"Chicago (Proviso), IL",27.1
+2023-03-15,"Chicago (Proviso), IL",26.2
+2023-03-22,"Chicago (Proviso), IL",25.0
+2023-03-29,"Chicago (Proviso), IL",28.1
+2023-04-05,"Chicago (Proviso), IL",30.6
+2023-04-12,"Chicago (Proviso), IL",29.1
+2023-04-19,"Chicago (Proviso), IL",28.2
+2023-04-26,"Chicago (Proviso), IL",28.2
+2023-05-03,"Chicago (Proviso), IL",26.2
+2023-05-10,"Chicago (Proviso), IL",25.3
+2023-05-17,"Chicago (Proviso), IL",24.9
+2023-05-24,"Chicago (Proviso), IL",26.0
+2023-05-31,"Chicago (Proviso), IL",28.2
+2023-06-07,"Chicago (Proviso), IL",24.9
+2023-06-14,"Chicago (Proviso), IL",24.5
+2023-06-21,"Chicago (Proviso), IL",25.5
+2023-06-28,"Chicago (Proviso), IL",25.1
+2023-07-05,"Chicago (Proviso), IL",23.1
+2023-07-12,"Chicago (Proviso), IL",29.4
+2023-07-19,"Chicago (Proviso), IL",24.9
+2023-07-26,"Chicago (Proviso), IL",26.3
+2023-08-02,"Chicago (Proviso), IL",25.4
+2023-08-09,"Chicago (Proviso), IL",24.1
+2023-08-16,"Chicago (Proviso), IL",24.6
+2023-08-23,"Chicago (Proviso), IL",22.4
+2023-08-30,"Chicago (Proviso), IL",23.3
+2023-09-06,"Chicago (Proviso), IL",24.2
+2023-09-13,"Chicago (Proviso), IL",22.7
+2023-09-20,"Chicago (Proviso), IL",19.3
+2023-09-27,"Chicago (Proviso), IL",18.8
+2023-10-04,"Chicago (Proviso), IL",24.1
+2023-10-11,"Chicago (Proviso), IL",22.2
+2023-10-18,"Chicago (Proviso), IL",20.8
+2023-10-25,"Chicago (Proviso), IL",22.5
+2023-11-01,"Chicago (Proviso), IL",26.8
+2023-11-08,"Chicago (Proviso), IL",24.7
+2023-11-15,"Chicago (Proviso), IL",25.7
+2023-11-22,"Chicago (Proviso), IL",22.8
+2023-11-29,"Chicago (Proviso), IL",21.4
+2023-12-06,"Chicago (Proviso), IL",21.0
+2023-12-13,"Chicago (Proviso), IL",24.2
+2023-12-20,"Chicago (Proviso), IL",22.7
+2023-12-27,"Chicago (Proviso), IL",21.4
+2024-01-03,"Chicago (Proviso), IL",25.8
+2024-01-10,"Chicago (Proviso), IL",23.3
+2024-01-17,"Chicago (Proviso), IL",26.5
+2024-01-24,"Chicago (Proviso), IL",35.8
+2024-01-31,"Chicago (Proviso), IL",35.2
+2024-02-07,"Chicago (Proviso), IL",29.2
+2024-02-14,"Chicago (Proviso), IL",28.9
+2024-02-21,"Chicago (Proviso), IL",22.9
+2024-02-28,"Chicago (Proviso), IL",26.5
+2024-03-06,"Chicago (Proviso), IL",24.0
+2024-03-13,"Chicago (Proviso), IL",23.2
+2024-03-20,"Chicago (Proviso), IL",21.0
+2024-03-27,"Chicago (Proviso), IL",23.0
+2024-04-03,"Chicago (Proviso), IL",25.6
+2024-04-10,"Chicago (Proviso), IL",26.1
+2024-04-17,"Chicago (Proviso), IL",24.6
+2024-04-24,"Chicago (Proviso), IL",23.5
+2024-05-01,"Chicago (Proviso), IL",23.1
+2024-05-08,"Chicago (Proviso), IL",29.0
+2024-05-15,"Chicago (Proviso), IL",22.9
+2024-05-22,"Chicago (Proviso), IL",22.7
+2024-05-29,"Chicago (Proviso), IL",22.5
+2024-06-05,"Chicago (Proviso), IL",20.2
+2024-06-12,"Chicago (Proviso), IL",19.7
+2024-06-19,"Chicago (Proviso), IL",20.7
+2024-06-26,"Chicago (Proviso), IL",20.1
+2024-07-03,"Chicago (Proviso), IL",20.3
+2024-07-10,"Chicago (Proviso), IL",22.5
+2024-07-17,"Chicago (Proviso), IL",23.4
+2024-07-24,"Chicago (Proviso), IL",21.9
+2024-07-31,"Chicago (Proviso), IL",24.3
+2024-08-07,"Chicago (Proviso), IL",25.0
+2024-08-14,"Chicago (Proviso), IL",22.4
+2024-08-21,"Chicago (Proviso), IL",22.3
+2024-08-28,"Chicago (Proviso), IL",24.3
+2024-09-04,"Chicago (Proviso), IL",24.5
+2024-09-11,"Chicago (Proviso), IL",21.1
+2024-09-18,"Chicago (Proviso), IL",23.3
+2024-09-25,"Chicago (Proviso), IL",25.6
+2024-10-02,"Chicago (Proviso), IL",22.8
+2024-10-09,"Chicago (Proviso), IL",21.6
+2024-10-16,"Chicago (Proviso), IL",25.5
+2024-10-23,"Chicago (Proviso), IL",24.7
+2024-10-30,"Chicago (Proviso), IL",25.5
+2024-11-06,"Chicago (Proviso), IL",22.0
+2024-11-13,"Chicago (Proviso), IL",21.8
+2024-11-20,"Chicago (Proviso), IL",24.8
+2024-11-27,"Chicago (Proviso), IL",23.8
+2024-12-04,"Chicago (Proviso), IL",24.7
+2024-12-11,"Chicago (Proviso), IL",21.4
+2024-12-18,"Chicago (Proviso), IL",20.5
+2024-12-25,"Chicago (Proviso), IL",18.9
+2025-01-01,"Chicago (Proviso), IL",18.3
+2025-01-08,"Chicago (Proviso), IL",19.3
+2025-01-15,"Chicago (Proviso), IL",20.2
+2025-01-22,"Chicago (Proviso), IL",20.3
+2025-01-29,"Chicago (Proviso), IL",21.9
+2025-02-05,"Chicago (Proviso), IL",21.5
+2025-02-12,"Chicago (Proviso), IL",22.7
+2025-02-19,"Chicago (Proviso), IL",22.3
+2025-02-26,"Chicago (Proviso), IL",23.9
+2025-03-05,"Chicago (Proviso), IL",25.0
+2025-03-12,"Chicago (Proviso), IL",23.8
+2025-03-19,"Chicago (Proviso), IL",21.7
+2025-03-26,"Chicago (Proviso), IL",24.4
+2025-04-02,"Chicago (Proviso), IL",23.0
+2025-04-09,"Chicago (Proviso), IL",22.7
+2025-04-16,"Chicago (Proviso), IL",22.3
+2025-04-23,"Chicago (Proviso), IL",20.5
+2025-04-30,"Chicago (Proviso), IL",21.9
+2025-05-07,"Chicago (Proviso), IL",22.4
+2025-05-14,"Chicago (Proviso), IL",22.7
+2025-05-21,"Chicago (Proviso), IL",21.9
+2025-05-28,"Chicago (Proviso), IL",21.3
+2025-06-04,"Chicago (Proviso), IL",22.4
+2025-06-11,"Chicago (Proviso), IL",21.2
+2025-06-18,"Chicago (Proviso), IL",21.7
+2025-06-25,"Chicago (Proviso), IL",20.3
+2025-07-02,"Chicago (Proviso), IL",22.3
+2025-07-09,"Chicago (Proviso), IL",22.5
+2025-07-16,"Chicago (Proviso), IL",22.2
+2025-07-23,"Chicago (Proviso), IL",21.1
+2025-07-30,"Chicago (Proviso), IL",20.9
+2025-08-06,"Chicago (Proviso), IL",23.1
+2025-08-13,"Chicago (Proviso), IL",23.3
+2025-08-20,"Chicago (Proviso), IL",24.2
+2025-08-27,"Chicago (Proviso), IL",22.3
+2025-09-03,"Chicago (Proviso), IL",22.8
+2025-09-10,"Chicago (Proviso), IL",21.9
+2025-09-17,"Chicago (Proviso), IL",21.9
+2025-09-24,"Chicago (Proviso), IL",20.8
+2025-10-01,"Chicago (Proviso), IL",22.7
+2025-10-08,"Chicago (Proviso), IL",21.7
+2025-10-15,"Chicago (Proviso), IL",23.1
+2025-10-22,"Chicago (Proviso), IL",22.9
+2025-10-29,"Chicago (Proviso), IL",22.7
+2025-11-05,"Chicago (Proviso), IL",22.6
+2025-11-12,"Chicago (Proviso), IL",21.3
+2025-11-19,"Chicago (Proviso), IL",23.8
+2025-11-26,"Chicago (Proviso), IL",21.7
+2025-12-03,"Chicago (Proviso), IL",23.0
+2025-12-10,"Chicago (Proviso), IL",24.3
+2025-12-17,"Chicago (Proviso), IL",25.6
+2025-12-24,"Chicago (Proviso), IL",25.7
+2025-12-31,"Chicago (Proviso), IL",24.9
+2026-01-07,"Chicago (Proviso), IL",20.8
+2026-01-14,"Chicago (Proviso), IL",19.8
+2026-01-21,"Chicago (Proviso), IL",21.5
+2026-01-28,"Chicago (Proviso), IL",24.0
+2026-02-04,"Chicago (Proviso), IL",23.0
+2026-02-11,"Chicago (Proviso), IL",23.9
+2026-02-18,"Chicago (Proviso), IL",23.2
+2026-02-25,"Chicago (Proviso), IL",21.5
+2026-03-04,"Chicago (Proviso), IL",24.9
+2026-03-11,"Chicago (Proviso), IL",23.2
+2026-03-18,"Chicago (Proviso), IL",22.9
+2026-03-25,"Chicago (Proviso), IL",22.0
+2026-04-01,"Chicago (Proviso), IL",22.6
+2026-04-08,"Chicago (Proviso), IL",22.4
+2026-04-15,"Chicago (Proviso), IL",21.3
+2026-04-22,"Chicago (Proviso), IL",23.3
+2026-04-29,"Chicago (Proviso), IL",22.5
+2026-05-06,"Chicago (Proviso), IL",22.7
+2026-05-13,"Chicago (Proviso), IL",23.5
+2026-05-20,"Chicago (Proviso), IL",24.7
+2026-05-27,"Chicago (Proviso), IL",22.7
+2026-06-03,"Chicago (Proviso), IL",24.6
+2026-06-10,"Chicago (Proviso), IL",26.9
+2026-06-17,"Chicago (Proviso), IL",25.8
+2026-06-24,"Chicago (Proviso), IL",27.1
+2026-07-01,"Chicago (Proviso), IL",27.1
+2026-07-08,"Chicago (Proviso), IL",27.1
+2026-07-15,"Chicago (Proviso), IL",22.4
+2026-07-22,"Chicago (Proviso), IL",21.4
+2026-07-29,"Chicago (Proviso), IL",20.2
+2026-08-05,"Chicago (Proviso), IL",21.4
+2026-08-12,"Chicago (Proviso), IL",24.1
+2026-08-19,"Chicago (Proviso), IL",22.1
+2026-08-26,"Chicago (Proviso), IL",21.4
+2026-09-02,"Chicago (Proviso), IL",22.1
+2026-09-09,"Chicago (Proviso), IL",23.2
+2026-09-16,"Chicago (Proviso), IL",22.4
+2026-09-23,"Chicago (Proviso), IL",19.1
+2026-09-30,"Chicago (Proviso), IL",23.8
+2026-10-07,"Chicago (Proviso), IL",21.2
+2017-03-29,"Fort Worth, TX",44.1
+2017-04-05,"Fort Worth, TX",41.0
+2017-04-12,"Fort Worth, TX",39.0
+2017-04-19,"Fort Worth, TX",34.8
+2017-04-26,"Fort Worth, TX",31.2
+2017-05-03,"Fort Worth, TX",29.7
+2017-05-10,"Fort Worth, TX",30.5
+2017-05-17,"Fort Worth, TX",28.5
+2017-05-24,"Fort Worth, TX",27.8
+2017-05-31,"Fort Worth, TX",28.7
+2017-06-07,"Fort Worth, TX",34.4
+2017-06-14,"Fort Worth, TX",31.5
+2017-06-21,"Fort Worth, TX",33.0
+2017-06-28,"Fort Worth, TX",34.4
+2017-07-05,"Fort Worth, TX",35.5
+2017-07-12,"Fort Worth, TX",36.7
+2017-07-19,"Fort Worth, TX",34.9
+2017-07-26,"Fort Worth, TX",34.8
+2017-08-02,"Fort Worth, TX",33.7
+2017-08-09,"Fort Worth, TX",32.5
+2017-08-16,"Fort Worth, TX",34.8
+2017-08-23,"Fort Worth, TX",36.1
+2017-08-30,"Fort Worth, TX",38.7
+2017-09-06,"Fort Worth, TX",34.9
+2017-09-13,"Fort Worth, TX",33.6
+2017-09-20,"Fort Worth, TX",34.0
+2017-09-27,"Fort Worth, TX",36.4
+2017-10-04,"Fort Worth, TX",36.1
+2017-10-11,"Fort Worth, TX",33.7
+2017-10-18,"Fort Worth, TX",36.9
+2017-10-25,"Fort Worth, TX",33.2
+2017-11-01,"Fort Worth, TX",32.4
+2017-11-08,"Fort Worth, TX",31.9
+2017-11-15,"Fort Worth, TX",31.2
+2017-11-22,"Fort Worth, TX",19.8
+2017-11-29,"Fort Worth, TX",29.3
+2017-12-06,"Fort Worth, TX",43.7
+2017-12-13,"Fort Worth, TX",33.7
+2017-12-20,"Fort Worth, TX",37.0
+2017-12-27,"Fort Worth, TX",32.9
+2018-01-03,"Fort Worth, TX",39.3
+2018-01-10,"Fort Worth, TX",31.5
+2018-01-17,"Fort Worth, TX",27.8
+2018-01-24,"Fort Worth, TX",32.1
+2018-01-31,"Fort Worth, TX",29.9
+2018-02-07,"Fort Worth, TX",29.2
+2018-02-14,"Fort Worth, TX",33.2
+2018-02-21,"Fort Worth, TX",29.6
+2018-02-28,"Fort Worth, TX",31.1
+2018-03-07,"Fort Worth, TX",34.1
+2018-03-14,"Fort Worth, TX",33.6
+2018-03-21,"Fort Worth, TX",34.7
+2018-03-28,"Fort Worth, TX",33.5
+2018-04-04,"Fort Worth, TX",33.1
+2018-04-11,"Fort Worth, TX",34.3
+2018-04-18,"Fort Worth, TX",34.3
+2018-04-25,"Fort Worth, TX",32.8
+2018-05-02,"Fort Worth, TX",30.7
+2018-05-09,"Fort Worth, TX",28.9
+2018-05-16,"Fort Worth, TX",29.1
+2018-05-23,"Fort Worth, TX",30.0
+2018-05-30,"Fort Worth, TX",27.7
+2018-06-06,"Fort Worth, TX",26.3
+2018-06-13,"Fort Worth, TX",28.7
+2018-06-20,"Fort Worth, TX",30.2
+2018-06-27,"Fort Worth, TX",30.7
+2018-07-04,"Fort Worth, TX",30.0
+2018-07-11,"Fort Worth, TX",30.9
+2018-07-18,"Fort Worth, TX",31.4
+2018-07-25,"Fort Worth, TX",31.6
+2018-08-01,"Fort Worth, TX",34.6
+2018-08-08,"Fort Worth, TX",34.2
+2018-08-15,"Fort Worth, TX",30.7
+2018-08-22,"Fort Worth, TX",33.1
+2018-08-29,"Fort Worth, TX",33.4
+2018-09-05,"Fort Worth, TX",27.0
+2018-09-12,"Fort Worth, TX",29.8
+2018-09-19,"Fort Worth, TX",28.7
+2018-09-26,"Fort Worth, TX",27.4
+2018-10-03,"Fort Worth, TX",29.0
+2018-10-10,"Fort Worth, TX",26.2
+2018-10-17,"Fort Worth, TX",27.2
+2018-10-24,"Fort Worth, TX",28.2
+2018-10-31,"Fort Worth, TX",27.5
+2018-11-07,"Fort Worth, TX",27.2
+2018-11-14,"Fort Worth, TX",25.1
+2018-11-21,"Fort Worth, TX",25.7
+2018-11-28,"Fort Worth, TX",25.7
+2018-12-05,"Fort Worth, TX",26.0
+2018-12-12,"Fort Worth, TX",25.7
+2018-12-19,"Fort Worth, TX",26.3
+2018-12-26,"Fort Worth, TX",25.2
+2019-01-02,"Fort Worth, TX",27.2
+2019-01-09,"Fort Worth, TX",24.1
+2019-01-16,"Fort Worth, TX",24.9
+2019-01-23,"Fort Worth, TX",27.3
+2019-01-30,"Fort Worth, TX",27.5
+2019-02-06,"Fort Worth, TX",27.5
+2019-02-13,"Fort Worth, TX",28.3
+2019-02-20,"Fort Worth, TX",29.1
+2019-02-27,"Fort Worth, TX",25.4
+2019-03-06,"Fort Worth, TX",23.6
+2019-03-13,"Fort Worth, TX",24.9
+2019-03-20,"Fort Worth, TX",27.8
+2019-03-27,"Fort Worth, TX",26.2
+2019-04-03,"Fort Worth, TX",24.5
+2019-04-10,"Fort Worth, TX",27.6
+2019-04-17,"Fort Worth, TX",26.1
+2019-04-24,"Fort Worth, TX",27.2
+2019-05-01,"Fort Worth, TX",26.3
+2019-05-08,"Fort Worth, TX",25.6
+2019-05-15,"Fort Worth, TX",24.2
+2019-05-22,"Fort Worth, TX",24.7
+2019-05-29,"Fort Worth, TX",27.7
+2019-06-05,"Fort Worth, TX",25.1
+2019-06-12,"Fort Worth, TX",26.3
+2019-06-19,"Fort Worth, TX",30.1
+2019-06-26,"Fort Worth, TX",30.1
+2019-07-03,"Fort Worth, TX",26.7
+2019-07-10,"Fort Worth, TX",25.5
+2019-07-17,"Fort Worth, TX",24.5
+2019-07-24,"Fort Worth, TX",24.6
+2019-07-31,"Fort Worth, TX",24.2
+2019-08-07,"Fort Worth, TX",24.3
+2019-08-14,"Fort Worth, TX",23.1
+2019-08-21,"Fort Worth, TX",23.6
+2019-08-28,"Fort Worth, TX",24.5
+2019-09-04,"Fort Worth, TX",24.9
+2019-09-11,"Fort Worth, TX",22.7
+2019-09-18,"Fort Worth, TX",24.3
+2019-09-25,"Fort Worth, TX",23.1
+2019-10-02,"Fort Worth, TX",24.3
+2019-10-09,"Fort Worth, TX",26.7
+2019-10-16,"Fort Worth, TX",31.4
+2019-10-23,"Fort Worth, TX",26.6
+2019-10-30,"Fort Worth, TX",25.2
+2019-11-06,"Fort Worth, TX",25.0
+2019-11-13,"Fort Worth, TX",25.0
+2019-11-20,"Fort Worth, TX",23.7
+2019-11-27,"Fort Worth, TX",22.2
+2019-12-04,"Fort Worth, TX",24.1
+2019-12-11,"Fort Worth, TX",24.7
+2019-12-18,"Fort Worth, TX",22.6
+2019-12-25,"Fort Worth, TX",25.0
+2020-01-01,"Fort Worth, TX",32.3
+2020-01-08,"Fort Worth, TX",24.8
+2020-01-15,"Fort Worth, TX",26.3
+2020-01-22,"Fort Worth, TX",30.1
+2020-01-29,"Fort Worth, TX",32.0
+2020-02-05,"Fort Worth, TX",40.5
+2020-02-12,"Fort Worth, TX",45.2
+2020-02-19,"Fort Worth, TX",40.4
+2020-02-26,"Fort Worth, TX",36.0
+2020-03-04,"Fort Worth, TX",30.1
+2020-03-11,"Fort Worth, TX",31.9
+2020-03-18,"Fort Worth, TX",30.7
+2020-03-25,"Fort Worth, TX",28.3
+2020-04-01,"Fort Worth, TX",31.1
+2020-04-08,"Fort Worth, TX",27.3
+2020-04-15,"Fort Worth, TX",28.2
+2020-04-22,"Fort Worth, TX",29.7
+2020-04-29,"Fort Worth, TX",30.2
+2020-05-06,"Fort Worth, TX",20.2
+2020-05-13,"Fort Worth, TX",19.8
+2020-05-20,"Fort Worth, TX",20.6
+2020-05-27,"Fort Worth, TX",21.2
+2020-06-03,"Fort Worth, TX",20.3
+2020-06-10,"Fort Worth, TX",20.1
+2020-06-17,"Fort Worth, TX",22.0
+2020-06-24,"Fort Worth, TX",23.5
+2020-07-01,"Fort Worth, TX",25.0
+2020-07-08,"Fort Worth, TX",23.6
+2020-07-15,"Fort Worth, TX",27.1
+2020-07-22,"Fort Worth, TX",26.4
+2020-07-29,"Fort Worth, TX",29.9
+2020-08-05,"Fort Worth, TX",24.1
+2020-08-12,"Fort Worth, TX",22.4
+2020-08-19,"Fort Worth, TX",22.3
+2020-08-26,"Fort Worth, TX",22.4
+2020-09-02,"Fort Worth, TX",22.8
+2020-09-09,"Fort Worth, TX",22.6
+2020-09-16,"Fort Worth, TX",22.3
+2020-09-23,"Fort Worth, TX",22.0
+2020-09-30,"Fort Worth, TX",23.7
+2020-10-07,"Fort Worth, TX",27.4
+2020-10-14,"Fort Worth, TX",24.1
+2020-10-21,"Fort Worth, TX",21.1
+2020-10-28,"Fort Worth, TX",23.8
+2020-11-04,"Fort Worth, TX",21.2
+2020-11-11,"Fort Worth, TX",23.4
+2020-11-18,"Fort Worth, TX",23.3
+2020-11-25,"Fort Worth, TX",20.5
+2020-12-02,"Fort Worth, TX",21.4
+2020-12-09,"Fort Worth, TX",19.8
+2020-12-16,"Fort Worth, TX",21.8
+2020-12-23,"Fort Worth, TX",22.0
+2020-12-30,"Fort Worth, TX",20.8
+2021-01-06,"Fort Worth, TX",23.3
+2021-01-13,"Fort Worth, TX",24.9
+2021-01-20,"Fort Worth, TX",23.9
+2021-01-27,"Fort Worth, TX",20.3
+2021-02-03,"Fort Worth, TX",23.9
+2021-02-10,"Fort Worth, TX",23.0
+2021-02-17,"Fort Worth, TX",21.0
+2021-02-24,"Fort Worth, TX",30.0
+2021-03-03,"Fort Worth, TX",20.7
+2021-03-10,"Fort Worth, TX",28.7
+2021-03-17,"Fort Worth, TX",23.3
+2021-03-24,"Fort Worth, TX",24.0
+2021-03-31,"Fort Worth, TX",24.6
+2021-04-07,"Fort Worth, TX",20.4
+2021-04-14,"Fort Worth, TX",21.6
+2021-04-21,"Fort Worth, TX",20.3
+2021-04-28,"Fort Worth, TX",22.5
+2021-05-05,"Fort Worth, TX",24.0
+2021-05-12,"Fort Worth, TX",21.2
+2021-05-19,"Fort Worth, TX",21.0
+2021-05-26,"Fort Worth, TX",20.0
+2021-06-02,"Fort Worth, TX",21.2
+2021-06-09,"Fort Worth, TX",21.2
+2021-06-16,"Fort Worth, TX",20.4
+2021-06-23,"Fort Worth, TX",18.8
+2021-06-30,"Fort Worth, TX",21.0
+2021-07-07,"Fort Worth, TX",21.4
+2021-07-14,"Fort Worth, TX",23.9
+2021-07-21,"Fort Worth, TX",23.5
+2021-07-28,"Fort Worth, TX",21.8
+2021-08-04,"Fort Worth, TX",23.5
+2021-08-11,"Fort Worth, TX",20.6
+2021-08-18,"Fort Worth, TX",19.4
+2021-08-25,"Fort Worth, TX",21.1
+2021-09-01,"Fort Worth, TX",18.2
+2021-09-08,"Fort Worth, TX",24.7
+2021-09-15,"Fort Worth, TX",20.5
+2021-09-22,"Fort Worth, TX",19.4
+2021-09-29,"Fort Worth, TX",23.6
+2021-10-06,"Fort Worth, TX",23.5
+2021-10-13,"Fort Worth, TX",24.1
+2021-10-20,"Fort Worth, TX",24.1
+2021-10-27,"Fort Worth, TX",24.8
+2021-11-03,"Fort Worth, TX",24.9
+2021-11-10,"Fort Worth, TX",23.7
+2021-11-17,"Fort Worth, TX",22.3
+2021-11-24,"Fort Worth, TX",24.3
+2021-12-01,"Fort Worth, TX",23.5
+2021-12-08,"Fort Worth, TX",23.0
+2021-12-15,"Fort Worth, TX",22.1
+2021-12-22,"Fort Worth, TX",22.4
+2021-12-29,"Fort Worth, TX",20.8
+2022-01-05,"Fort Worth, TX",20.4
+2022-01-12,"Fort Worth, TX",21.1
+2022-01-19,"Fort Worth, TX",20.6
+2022-01-26,"Fort Worth, TX",22.3
+2022-02-02,"Fort Worth, TX",19.9
+2022-02-09,"Fort Worth, TX",21.5
+2022-02-16,"Fort Worth, TX",23.6
+2022-02-23,"Fort Worth, TX",22.7
+2022-03-02,"Fort Worth, TX",21.7
+2022-03-09,"Fort Worth, TX",19.3
+2022-03-16,"Fort Worth, TX",23.3
+2022-03-23,"Fort Worth, TX",25.2
+2022-03-30,"Fort Worth, TX",24.5
+2022-04-06,"Fort Worth, TX",22.3
+2022-04-13,"Fort Worth, TX",24.6
+2022-04-20,"Fort Worth, TX",26.2
+2022-04-27,"Fort Worth, TX",22.7
+2022-05-04,"Fort Worth, TX",23.1
+2022-05-11,"Fort Worth, TX",23.2
+2022-05-18,"Fort Worth, TX",25.5
+2022-05-25,"Fort Worth, TX",29.6
+2022-06-01,"Fort Worth, TX",26.3
+2022-06-08,"Fort Worth, TX",24.3
+2022-06-15,"Fort Worth, TX",22.2
+2022-06-22,"Fort Worth, TX",27.0
+2022-06-29,"Fort Worth, TX",27.0
+2022-07-06,"Fort Worth, TX",26.8
+2022-07-13,"Fort Worth, TX",25.2
+2022-07-20,"Fort Worth, TX",23.8
+2022-07-27,"Fort Worth, TX",25.2
+2022-08-03,"Fort Worth, TX",28.1
+2022-08-10,"Fort Worth, TX",28.7
+2022-08-17,"Fort Worth, TX",23.9
+2022-08-24,"Fort Worth, TX",23.4
+2022-08-31,"Fort Worth, TX",23.5
+2022-09-07,"Fort Worth, TX",23.3
+2022-09-14,"Fort Worth, TX",23.7
+2022-09-21,"Fort Worth, TX",25.4
+2022-09-28,"Fort Worth, TX",24.5
+2022-10-05,"Fort Worth, TX",20.8
+2022-10-12,"Fort Worth, TX",19.8
+2022-10-19,"Fort Worth, TX",21.8
+2022-10-26,"Fort Worth, TX",23.6
+2022-11-02,"Fort Worth, TX",24.0
+2022-11-09,"Fort Worth, TX",24.3
+2022-11-16,"Fort Worth, TX",25.6
+2022-11-23,"Fort Worth, TX",31.7
+2022-11-30,"Fort Worth, TX",29.7
+2022-12-07,"Fort Worth, TX",24.5
+2022-12-14,"Fort Worth, TX",22.7
+2022-12-21,"Fort Worth, TX",24.7
+2022-12-28,"Fort Worth, TX",23.5
+2023-01-04,"Fort Worth, TX",24.9
+2023-01-11,"Fort Worth, TX",21.3
+2023-01-18,"Fort Worth, TX",21.1
+2023-01-25,"Fort Worth, TX",21.8
+2023-02-01,"Fort Worth, TX",21.2
+2023-02-08,"Fort Worth, TX",25.1
+2023-02-15,"Fort Worth, TX",22.4
+2023-02-22,"Fort Worth, TX",24.6
+2023-03-01,"Fort Worth, TX",22.8
+2023-03-08,"Fort Worth, TX",22.8
+2023-03-15,"Fort Worth, TX",22.8
+2023-03-22,"Fort Worth, TX",23.8
+2023-03-29,"Fort Worth, TX",22.3
+2023-04-05,"Fort Worth, TX",22.9
+2023-04-12,"Fort Worth, TX",24.7
+2023-04-19,"Fort Worth, TX",29.2
+2023-04-26,"Fort Worth, TX",26.3
+2023-05-03,"Fort Worth, TX",24.3
+2023-05-10,"Fort Worth, TX",22.6
+2023-05-17,"Fort Worth, TX",23.7
+2023-05-24,"Fort Worth, TX",24.7
+2023-05-31,"Fort Worth, TX",25.8
+2023-06-07,"Fort Worth, TX",27.3
+2023-06-14,"Fort Worth, TX",25.3
+2023-06-21,"Fort Worth, TX",22.3
+2023-06-28,"Fort Worth, TX",21.4
+2023-07-05,"Fort Worth, TX",27.5
+2023-07-12,"Fort Worth, TX",27.2
+2023-07-19,"Fort Worth, TX",26.5
+2023-07-26,"Fort Worth, TX",27.1
+2023-08-02,"Fort Worth, TX",26.0
+2023-08-09,"Fort Worth, TX",25.3
+2023-08-16,"Fort Worth, TX",25.9
+2023-08-23,"Fort Worth, TX",23.6
+2023-08-30,"Fort Worth, TX",24.4
+2023-09-06,"Fort Worth, TX",24.9
+2023-09-13,"Fort Worth, TX",28.3
+2023-09-20,"Fort Worth, TX",27.5
+2023-09-27,"Fort Worth, TX",27.3
+2023-10-04,"Fort Worth, TX",25.1
+2023-10-11,"Fort Worth, TX",22.0
+2023-10-18,"Fort Worth, TX",22.5
+2023-10-25,"Fort Worth, TX",23.0
+2023-11-01,"Fort Worth, TX",25.3
+2023-11-08,"Fort Worth, TX",27.0
+2023-11-15,"Fort Worth, TX",25.2
+2023-11-22,"Fort Worth, TX",27.7
+2023-11-29,"Fort Worth, TX",25.2
+2023-12-06,"Fort Worth, TX",20.2
+2023-12-13,"Fort Worth, TX",20.4
+2023-12-20,"Fort Worth, TX",25.4
+2023-12-27,"Fort Worth, TX",23.9
+2024-01-03,"Fort Worth, TX",28.2
+2024-01-10,"Fort Worth, TX",19.3
+2024-01-17,"Fort Worth, TX",20.8
+2024-01-24,"Fort Worth, TX",27.3
+2024-01-31,"Fort Worth, TX",22.4
+2024-02-07,"Fort Worth, TX",22.4
+2024-02-14,"Fort Worth, TX",26.2
+2024-02-21,"Fort Worth, TX",27.1
+2024-02-28,"Fort Worth, TX",23.9
+2024-03-06,"Fort Worth, TX",22.2
+2024-03-13,"Fort Worth, TX",24.0
+2024-03-20,"Fort Worth, TX",23.1
+2024-03-27,"Fort Worth, TX",23.5
+2024-04-03,"Fort Worth, TX",22.9
+2024-04-10,"Fort Worth, TX",26.8
+2024-04-17,"Fort Worth, TX",25.8
+2024-04-24,"Fort Worth, TX",24.7
+2024-05-01,"Fort Worth, TX",27.0
+2024-05-08,"Fort Worth, TX",25.6
+2024-05-15,"Fort Worth, TX",28.5
+2024-05-22,"Fort Worth, TX",23.3
+2024-05-29,"Fort Worth, TX",21.0
+2024-06-05,"Fort Worth, TX",21.6
+2024-06-12,"Fort Worth, TX",19.4
+2024-06-19,"Fort Worth, TX",20.3
+2024-06-26,"Fort Worth, TX",19.6
+2024-07-03,"Fort Worth, TX",20.4
+2024-07-10,"Fort Worth, TX",20.5
+2024-07-17,"Fort Worth, TX",18.6
+2024-07-24,"Fort Worth, TX",20.6
+2024-07-31,"Fort Worth, TX",24.2
+2024-08-07,"Fort Worth, TX",24.5
+2024-08-14,"Fort Worth, TX",21.5
+2024-08-21,"Fort Worth, TX",22.3
+2024-08-28,"Fort Worth, TX",19.8
+2024-09-04,"Fort Worth, TX",20.3
+2024-09-11,"Fort Worth, TX",20.6
+2024-09-18,"Fort Worth, TX",19.6
+2024-09-25,"Fort Worth, TX",19.1
+2024-10-02,"Fort Worth, TX",20.1
+2024-10-09,"Fort Worth, TX",20.3
+2024-10-16,"Fort Worth, TX",19.8
+2024-10-23,"Fort Worth, TX",20.1
+2024-10-30,"Fort Worth, TX",19.8
+2024-11-06,"Fort Worth, TX",22.0
+2024-11-13,"Fort Worth, TX",22.6
+2024-11-20,"Fort Worth, TX",21.3
+2024-11-27,"Fort Worth, TX",20.2
+2024-12-04,"Fort Worth, TX",21.1
+2024-12-11,"Fort Worth, TX",19.4
+2024-12-18,"Fort Worth, TX",22.6
+2024-12-25,"Fort Worth, TX",21.8
+2025-01-01,"Fort Worth, TX",23.7
+2025-01-08,"Fort Worth, TX",18.7
+2025-01-15,"Fort Worth, TX",19.0
+2025-01-22,"Fort Worth, TX",19.3
+2025-01-29,"Fort Worth, TX",21.3
+2025-02-05,"Fort Worth, TX",20.1
+2025-02-12,"Fort Worth, TX",24.0
+2025-02-19,"Fort Worth, TX",23.1
+2025-02-26,"Fort Worth, TX",22.9
+2025-03-05,"Fort Worth, TX",20.7
+2025-03-12,"Fort Worth, TX",20.5
+2025-03-19,"Fort Worth, TX",21.2
+2025-03-26,"Fort Worth, TX",19.7
+2025-04-02,"Fort Worth, TX",21.5
+2025-04-09,"Fort Worth, TX",24.7
+2025-04-16,"Fort Worth, TX",24.7
+2025-04-23,"Fort Worth, TX",23.4
+2025-04-30,"Fort Worth, TX",20.7
+2025-05-07,"Fort Worth, TX",21.8
+2025-05-14,"Fort Worth, TX",22.1
+2025-05-21,"Fort Worth, TX",20.7
+2025-05-28,"Fort Worth, TX",20.9
+2025-06-04,"Fort Worth, TX",21.4
+2025-06-11,"Fort Worth, TX",21.4
+2025-06-18,"Fort Worth, TX",22.3
+2025-06-25,"Fort Worth, TX",21.2
+2025-07-02,"Fort Worth, TX",20.2
+2025-07-09,"Fort Worth, TX",23.0
+2025-07-16,"Fort Worth, TX",20.3
+2025-07-23,"Fort Worth, TX",20.4
+2025-07-30,"Fort Worth, TX",20.9
+2025-08-06,"Fort Worth, TX",20.5
+2025-08-13,"Fort Worth, TX",20.2
+2025-08-20,"Fort Worth, TX",19.7
+2025-08-27,"Fort Worth, TX",21.4
+2025-09-03,"Fort Worth, TX",19.7
+2025-09-10,"Fort Worth, TX",22.1
+2025-09-17,"Fort Worth, TX",20.4
+2025-09-24,"Fort Worth, TX",20.2
+2025-10-01,"Fort Worth, TX",20.7
+2025-10-08,"Fort Worth, TX",21.7
+2025-10-15,"Fort Worth, TX",20.0
+2025-10-22,"Fort Worth, TX",21.0
+2025-10-29,"Fort Worth, TX",21.1
+2025-11-05,"Fort Worth, TX",22.5
+2025-11-12,"Fort Worth, TX",20.6
+2025-11-19,"Fort Worth, TX",22.0
+2025-11-26,"Fort Worth, TX",21.6
+2025-12-03,"Fort Worth, TX",21.6
+2025-12-10,"Fort Worth, TX",21.8
+2025-12-17,"Fort Worth, TX",20.6
+2025-12-24,"Fort Worth, TX",21.6
+2025-12-31,"Fort Worth, TX",23.9
+2026-01-07,"Fort Worth, TX",21.9
+2026-01-14,"Fort Worth, TX",19.9
+2026-01-21,"Fort Worth, TX",19.7
+2026-01-28,"Fort Worth, TX",19.7
+2026-02-04,"Fort Worth, TX",21.9
+2026-02-11,"Fort Worth, TX",20.2
+2026-02-18,"Fort Worth, TX",20.6
+2026-02-25,"Fort Worth, TX",19.9
+2026-03-04,"Fort Worth, TX",20.8
+2026-03-11,"Fort Worth, TX",21.7
+2026-03-18,"Fort Worth, TX",22.3
+2026-03-25,"Fort Worth, TX",22.3
+2026-04-01,"Fort Worth, TX",21.0
+2026-04-08,"Fort Worth, TX",22.3
+2026-04-15,"Fort Worth, TX",22.7
+2026-04-22,"Fort Worth, TX",22.8
+2026-04-29,"Fort Worth, TX",21.5
+2026-05-06,"Fort Worth, TX",24.4
+2026-05-13,"Fort Worth, TX",23.6
+2026-05-20,"Fort Worth, TX",20.7
+2026-05-27,"Fort Worth, TX",19.6
+2026-06-03,"Fort Worth, TX",20.0
+2026-06-10,"Fort Worth, TX",19.8
+2026-06-17,"Fort Worth, TX",18.2
+2026-06-24,"Fort Worth, TX",18.4
+2026-07-01,"Fort Worth, TX",18.0
+2026-07-08,"Fort Worth, TX",17.8
+2026-07-15,"Fort Worth, TX",18.8
+2026-07-22,"Fort Worth, TX",20.2
+2026-07-29,"Fort Worth, TX",19.5
+2026-08-05,"Fort Worth, TX",19.2
+2026-08-12,"Fort Worth, TX",20.1
+2026-08-19,"Fort Worth, TX",19.8
+2026-08-26,"Fort Worth, TX",17.9
+2026-09-02,"Fort Worth, TX",18.5
+2026-09-09,"Fort Worth, TX",19.1
+2026-09-16,"Fort Worth, TX",18.8
+2026-09-23,"Fort Worth, TX",18.5
+2026-09-30,"Fort Worth, TX",19.2
+2026-10-07,"Fort Worth, TX",21.1
+2017-03-29,"Houston (Englewood), TX",27.0
+2017-04-05,"Houston (Englewood), TX",28.1
+2017-04-12,"Houston (Englewood), TX",27.7
+2017-04-19,"Houston (Englewood), TX",27.9
+2017-04-26,"Houston (Englewood), TX",28.0
+2017-05-03,"Houston (Englewood), TX",27.3
+2017-05-10,"Houston (Englewood), TX",26.9
+2017-05-17,"Houston (Englewood), TX",27.1
+2017-05-24,"Houston (Englewood), TX",26.5
+2017-05-31,"Houston (Englewood), TX",26.7
+2017-06-07,"Houston (Englewood), TX",32.9
+2017-06-14,"Houston (Englewood), TX",29.2
+2017-06-21,"Houston (Englewood), TX",26.3
+2017-06-28,"Houston (Englewood), TX",26.8
+2017-07-05,"Houston (Englewood), TX",29.6
+2017-07-12,"Houston (Englewood), TX",32.5
+2017-07-19,"Houston (Englewood), TX",28.1
+2017-07-26,"Houston (Englewood), TX",26.7
+2017-08-02,"Houston (Englewood), TX",26.3
+2017-08-09,"Houston (Englewood), TX",31.1
+2017-08-16,"Houston (Englewood), TX",30.4
+2017-08-23,"Houston (Englewood), TX",29.2
+2017-08-30,"Houston (Englewood), TX",28.5
+2017-09-06,"Houston (Englewood), TX",75.8
+2017-09-13,"Houston (Englewood), TX",44.5
+2017-09-20,"Houston (Englewood), TX",27.1
+2017-09-27,"Houston (Englewood), TX",29.2
+2017-10-04,"Houston (Englewood), TX",30.8
+2017-10-11,"Houston (Englewood), TX",31.5
+2017-10-18,"Houston (Englewood), TX",31.4
+2017-10-25,"Houston (Englewood), TX",33.3
+2017-11-01,"Houston (Englewood), TX",29.4
+2017-11-08,"Houston (Englewood), TX",32.2
+2017-11-15,"Houston (Englewood), TX",31.6
+2017-11-22,"Houston (Englewood), TX",33.8
+2017-11-29,"Houston (Englewood), TX",32.9
+2017-12-06,"Houston (Englewood), TX",42.7
+2017-12-13,"Houston (Englewood), TX",36.1
+2017-12-20,"Houston (Englewood), TX",35.1
+2017-12-27,"Houston (Englewood), TX",33.1
+2018-01-03,"Houston (Englewood), TX",41.0
+2018-01-10,"Houston (Englewood), TX",35.9
+2018-01-17,"Houston (Englewood), TX",33.3
+2018-01-24,"Houston (Englewood), TX",34.6
+2018-01-31,"Houston (Englewood), TX",35.3
+2018-02-07,"Houston (Englewood), TX",34.5
+2018-02-14,"Houston (Englewood), TX",32.6
+2018-02-21,"Houston (Englewood), TX",33.6
+2018-02-28,"Houston (Englewood), TX",29.9
+2018-03-07,"Houston (Englewood), TX",34.1
+2018-03-14,"Houston (Englewood), TX",35.7
+2018-03-21,"Houston (Englewood), TX",39.2
+2018-03-28,"Houston (Englewood), TX",39.2
+2018-04-04,"Houston (Englewood), TX",39.4
+2018-04-11,"Houston (Englewood), TX",35.4
+2018-04-18,"Houston (Englewood), TX",33.6
+2018-04-25,"Houston (Englewood), TX",33.9
+2018-05-02,"Houston (Englewood), TX",28.6
+2018-05-09,"Houston (Englewood), TX",29.9
+2018-05-16,"Houston (Englewood), TX",26.6
+2018-05-23,"Houston (Englewood), TX",26.9
+2018-05-30,"Houston (Englewood), TX",28.2
+2018-06-06,"Houston (Englewood), TX",27.3
+2018-06-13,"Houston (Englewood), TX",26.7
+2018-06-20,"Houston (Englewood), TX",28.9
+2018-06-27,"Houston (Englewood), TX",28.2
+2018-07-04,"Houston (Englewood), TX",29.5
+2018-07-11,"Houston (Englewood), TX",26.9
+2018-07-18,"Houston (Englewood), TX",26.8
+2018-07-25,"Houston (Englewood), TX",28.0
+2018-08-01,"Houston (Englewood), TX",28.8
+2018-08-08,"Houston (Englewood), TX",28.9
+2018-08-15,"Houston (Englewood), TX",31.2
+2018-08-22,"Houston (Englewood), TX",34.6
+2018-08-29,"Houston (Englewood), TX",34.1
+2018-09-05,"Houston (Englewood), TX",31.4
+2018-09-12,"Houston (Englewood), TX",28.6
+2018-09-19,"Houston (Englewood), TX",29.5
+2018-09-26,"Houston (Englewood), TX",30.3
+2018-10-03,"Houston (Englewood), TX",29.1
+2018-10-10,"Houston (Englewood), TX",30.9
+2018-10-17,"Houston (Englewood), TX",31.2
+2018-10-24,"Houston (Englewood), TX",28.6
+2018-10-31,"Houston (Englewood), TX",29.9
+2018-11-07,"Houston (Englewood), TX",31.2
+2018-11-14,"Houston (Englewood), TX",28.5
+2018-11-21,"Houston (Englewood), TX",31.6
+2018-11-28,"Houston (Englewood), TX",28.6
+2018-12-05,"Houston (Englewood), TX",26.9
+2018-12-12,"Houston (Englewood), TX",28.6
+2018-12-19,"Houston (Englewood), TX",27.2
+2018-12-26,"Houston (Englewood), TX",27.3
+2019-01-02,"Houston (Englewood), TX",35.7
+2019-01-09,"Houston (Englewood), TX",25.9
+2019-01-16,"Houston (Englewood), TX",25.6
+2019-01-23,"Houston (Englewood), TX",28.2
+2019-01-30,"Houston (Englewood), TX",29.7
+2019-02-06,"Houston (Englewood), TX",31.1
+2019-02-13,"Houston (Englewood), TX",28.2
+2019-02-20,"Houston (Englewood), TX",27.4
+2019-02-27,"Houston (Englewood), TX",27.9
+2019-03-06,"Houston (Englewood), TX",30.5
+2019-03-13,"Houston (Englewood), TX",30.8
+2019-03-20,"Houston (Englewood), TX",29.5
+2019-03-27,"Houston (Englewood), TX",33.2
+2019-04-03,"Houston (Englewood), TX",31.4
+2019-04-10,"Houston (Englewood), TX",32.1
+2019-04-17,"Houston (Englewood), TX",29.8
+2019-04-24,"Houston (Englewood), TX",28.1
+2019-05-01,"Houston (Englewood), TX",26.6
+2019-05-08,"Houston (Englewood), TX",26.7
+2019-05-15,"Houston (Englewood), TX",27.3
+2019-05-22,"Houston (Englewood), TX",28.7
+2019-05-29,"Houston (Englewood), TX",27.1
+2019-06-05,"Houston (Englewood), TX",25.8
+2019-06-12,"Houston (Englewood), TX",25.4
+2019-06-19,"Houston (Englewood), TX",36.1
+2019-06-26,"Houston (Englewood), TX",31.8
+2019-07-03,"Houston (Englewood), TX",29.1
+2019-07-10,"Houston (Englewood), TX",26.9
+2019-07-17,"Houston (Englewood), TX",25.4
+2019-07-24,"Houston (Englewood), TX",25.1
+2019-07-31,"Houston (Englewood), TX",25.5
+2019-08-07,"Houston (Englewood), TX",24.1
+2019-08-14,"Houston (Englewood), TX",23.2
+2019-08-21,"Houston (Englewood), TX",24.7
+2019-08-28,"Houston (Englewood), TX",25.5
+2019-09-04,"Houston (Englewood), TX",25.6
+2019-09-11,"Houston (Englewood), TX",26.4
+2019-09-18,"Houston (Englewood), TX",24.8
+2019-09-25,"Houston (Englewood), TX",23.6
+2019-10-02,"Houston (Englewood), TX",26.8
+2019-10-09,"Houston (Englewood), TX",25.5
+2019-10-16,"Houston (Englewood), TX",25.1
+2019-10-23,"Houston (Englewood), TX",23.2
+2019-10-30,"Houston (Englewood), TX",25.4
+2019-11-06,"Houston (Englewood), TX",22.8
+2019-11-13,"Houston (Englewood), TX",24.9
+2019-11-20,"Houston (Englewood), TX",24.0
+2019-11-27,"Houston (Englewood), TX",26.3
+2019-12-04,"Houston (Englewood), TX",25.7
+2019-12-11,"Houston (Englewood), TX",25.0
+2019-12-18,"Houston (Englewood), TX",23.6
+2019-12-25,"Houston (Englewood), TX",24.4
+2020-01-01,"Houston (Englewood), TX",30.0
+2020-01-08,"Houston (Englewood), TX",24.7
+2020-01-15,"Houston (Englewood), TX",23.6
+2020-01-22,"Houston (Englewood), TX",25.6
+2020-01-29,"Houston (Englewood), TX",27.2
+2020-02-05,"Houston (Englewood), TX",26.5
+2020-02-12,"Houston (Englewood), TX",26.8
+2020-02-19,"Houston (Englewood), TX",31.2
+2020-02-26,"Houston (Englewood), TX",29.7
+2020-03-04,"Houston (Englewood), TX",26.1
+2020-03-11,"Houston (Englewood), TX",24.8
+2020-03-18,"Houston (Englewood), TX",23.8
+2020-03-25,"Houston (Englewood), TX",24.8
+2020-04-01,"Houston (Englewood), TX",24.8
+2020-04-08,"Houston (Englewood), TX",22.6
+2020-04-15,"Houston (Englewood), TX",21.8
+2020-04-22,"Houston (Englewood), TX",22.5
+2020-04-29,"Houston (Englewood), TX",21.8
+2020-05-06,"Houston (Englewood), TX",20.5
+2020-05-13,"Houston (Englewood), TX",20.3
+2020-05-20,"Houston (Englewood), TX",20.6
+2020-05-27,"Houston (Englewood), TX",20.2
+2020-06-03,"Houston (Englewood), TX",19.9
+2020-06-10,"Houston (Englewood), TX",20.1
+2020-06-17,"Houston (Englewood), TX",19.7
+2020-06-24,"Houston (Englewood), TX",24.1
+2020-07-01,"Houston (Englewood), TX",21.0
+2020-07-08,"Houston (Englewood), TX",24.6
+2020-07-15,"Houston (Englewood), TX",21.7
+2020-07-22,"Houston (Englewood), TX",23.8
+2020-07-29,"Houston (Englewood), TX",24.2
+2020-08-05,"Houston (Englewood), TX",24.2
+2020-08-12,"Houston (Englewood), TX",26.3
+2020-08-19,"Houston (Englewood), TX",26.5
+2020-08-26,"Houston (Englewood), TX",25.3
+2020-09-02,"Houston (Englewood), TX",22.7
+2020-09-09,"Houston (Englewood), TX",22.9
+2020-09-16,"Houston (Englewood), TX",23.9
+2020-09-23,"Houston (Englewood), TX",22.6
+2020-09-30,"Houston (Englewood), TX",25.5
+2020-10-07,"Houston (Englewood), TX",27.9
+2020-10-14,"Houston (Englewood), TX",24.5
+2020-10-21,"Houston (Englewood), TX",20.8
+2020-10-28,"Houston (Englewood), TX",22.1
+2020-11-04,"Houston (Englewood), TX",25.3
+2020-11-11,"Houston (Englewood), TX",24.9
+2020-11-18,"Houston (Englewood), TX",24.5
+2020-11-25,"Houston (Englewood), TX",23.2
+2020-12-02,"Houston (Englewood), TX",23.8
+2020-12-09,"Houston (Englewood), TX",23.2
+2020-12-16,"Houston (Englewood), TX",24.6
+2020-12-23,"Houston (Englewood), TX",27.3
+2020-12-30,"Houston (Englewood), TX",25.0
+2021-01-06,"Houston (Englewood), TX",29.2
+2021-01-13,"Houston (Englewood), TX",23.9
+2021-01-20,"Houston (Englewood), TX",30.5
+2021-01-27,"Houston (Englewood), TX",33.7
+2021-02-03,"Houston (Englewood), TX",34.9
+2021-02-10,"Houston (Englewood), TX",36.0
+2021-02-17,"Houston (Englewood), TX",29.5
+2021-02-24,"Houston (Englewood), TX",42.0
+2021-03-03,"Houston (Englewood), TX",23.7
+2021-03-10,"Houston (Englewood), TX",26.4
+2021-03-17,"Houston (Englewood), TX",25.1
+2021-03-24,"Houston (Englewood), TX",27.6
+2021-03-31,"Houston (Englewood), TX",26.9
+2021-04-07,"Houston (Englewood), TX",28.4
+2021-04-14,"Houston (Englewood), TX",29.1
+2021-04-21,"Houston (Englewood), TX",32.4
+2021-04-28,"Houston (Englewood), TX",37.1
+2021-05-05,"Houston (Englewood), TX",33.4
+2021-05-12,"Houston (Englewood), TX",32.3
+2021-05-19,"Houston (Englewood), TX",31.4
+2021-05-26,"Houston (Englewood), TX",27.4
+2021-06-02,"Houston (Englewood), TX",27.1
+2021-06-09,"Houston (Englewood), TX",25.5
+2021-06-16,"Houston (Englewood), TX",26.3
+2021-06-23,"Houston (Englewood), TX",27.5
+2021-06-30,"Houston (Englewood), TX",25.4
+2021-07-07,"Houston (Englewood), TX",26.9
+2021-07-14,"Houston (Englewood), TX",26.0
+2021-07-21,"Houston (Englewood), TX",24.0
+2021-07-28,"Houston (Englewood), TX",25.3
+2021-08-04,"Houston (Englewood), TX",24.2
+2021-08-11,"Houston (Englewood), TX",22.7
+2021-08-18,"Houston (Englewood), TX",25.1
+2021-08-25,"Houston (Englewood), TX",25.9
+2021-09-01,"Houston (Englewood), TX",25.7
+2021-09-08,"Houston (Englewood), TX",28.4
+2021-09-15,"Houston (Englewood), TX",26.2
+2021-09-22,"Houston (Englewood), TX",26.9
+2021-09-29,"Houston (Englewood), TX",25.2
+2021-10-06,"Houston (Englewood), TX",25.4
+2021-10-13,"Houston (Englewood), TX",25.6
+2021-10-20,"Houston (Englewood), TX",26.2
+2021-10-27,"Houston (Englewood), TX",29.7
+2021-11-03,"Houston (Englewood), TX",27.9
+2021-11-10,"Houston (Englewood), TX",26.7
+2021-11-17,"Houston (Englewood), TX",24.8
+2021-11-24,"Houston (Englewood), TX",25.8
+2021-12-01,"Houston (Englewood), TX",27.1
+2021-12-08,"Houston (Englewood), TX",22.6
+2021-12-15,"Houston (Englewood), TX",24.1
+2021-12-22,"Houston (Englewood), TX",25.5
+2021-12-29,"Houston (Englewood), TX",25.7
+2022-01-05,"Houston (Englewood), TX",22.7
+2022-01-12,"Houston (Englewood), TX",22.8
+2022-01-19,"Houston (Englewood), TX",22.4
+2022-01-26,"Houston (Englewood), TX",23.9
+2022-02-02,"Houston (Englewood), TX",21.8
+2022-02-09,"Houston (Englewood), TX",22.6
+2022-02-16,"Houston (Englewood), TX",21.0
+2022-02-23,"Houston (Englewood), TX",22.3
+2022-03-02,"Houston (Englewood), TX",22.3
+2022-03-09,"Houston (Englewood), TX",22.8
+2022-03-16,"Houston (Englewood), TX",21.3
+2022-03-23,"Houston (Englewood), TX",22.8
+2022-03-30,"Houston (Englewood), TX",25.9
+2022-04-06,"Houston (Englewood), TX",24.7
+2022-04-13,"Houston (Englewood), TX",23.8
+2022-04-20,"Houston (Englewood), TX",25.0
+2022-04-27,"Houston (Englewood), TX",23.9
+2022-05-04,"Houston (Englewood), TX",24.5
+2022-05-11,"Houston (Englewood), TX",23.5
+2022-05-18,"Houston (Englewood), TX",23.6
+2022-05-25,"Houston (Englewood), TX",24.2
+2022-06-01,"Houston (Englewood), TX",25.9
+2022-06-08,"Houston (Englewood), TX",26.5
+2022-06-15,"Houston (Englewood), TX",25.0
+2022-06-22,"Houston (Englewood), TX",24.1
+2022-06-29,"Houston (Englewood), TX",23.8
+2022-07-06,"Houston (Englewood), TX",23.5
+2022-07-13,"Houston (Englewood), TX",24.0
+2022-07-20,"Houston (Englewood), TX",20.3
+2022-07-27,"Houston (Englewood), TX",24.2
+2022-08-03,"Houston (Englewood), TX",25.6
+2022-08-10,"Houston (Englewood), TX",24.5
+2022-08-17,"Houston (Englewood), TX",22.5
+2022-08-24,"Houston (Englewood), TX",23.4
+2022-08-31,"Houston (Englewood), TX",24.7
+2022-09-07,"Houston (Englewood), TX",24.8
+2022-09-14,"Houston (Englewood), TX",24.4
+2022-09-21,"Houston (Englewood), TX",23.1
+2022-09-28,"Houston (Englewood), TX",24.1
+2022-10-05,"Houston (Englewood), TX",24.0
+2022-10-12,"Houston (Englewood), TX",24.2
+2022-10-19,"Houston (Englewood), TX",21.7
+2022-10-26,"Houston (Englewood), TX",21.4
+2022-11-02,"Houston (Englewood), TX",20.8
+2022-11-09,"Houston (Englewood), TX",21.8
+2022-11-16,"Houston (Englewood), TX",20.4
+2022-11-23,"Houston (Englewood), TX",20.6
+2022-11-30,"Houston (Englewood), TX",19.8
+2022-12-07,"Houston (Englewood), TX",19.3
+2022-12-14,"Houston (Englewood), TX",19.3
+2022-12-21,"Houston (Englewood), TX",21.7
+2022-12-28,"Houston (Englewood), TX",22.8
+2023-01-04,"Houston (Englewood), TX",21.6
+2023-01-11,"Houston (Englewood), TX",21.5
+2023-01-18,"Houston (Englewood), TX",17.9
+2023-01-25,"Houston (Englewood), TX",20.0
+2023-02-01,"Houston (Englewood), TX",21.5
+2023-02-08,"Houston (Englewood), TX",22.3
+2023-02-15,"Houston (Englewood), TX",19.6
+2023-02-22,"Houston (Englewood), TX",21.9
+2023-03-01,"Houston (Englewood), TX",22.2
+2023-03-08,"Houston (Englewood), TX",25.5
+2023-03-15,"Houston (Englewood), TX",23.3
+2023-03-22,"Houston (Englewood), TX",20.9
+2023-03-29,"Houston (Englewood), TX",21.4
+2023-04-05,"Houston (Englewood), TX",20.9
+2023-04-12,"Houston (Englewood), TX",24.1
+2023-04-19,"Houston (Englewood), TX",22.3
+2023-04-26,"Houston (Englewood), TX",21.7
+2023-05-03,"Houston (Englewood), TX",22.6
+2023-05-10,"Houston (Englewood), TX",22.5
+2023-05-17,"Houston (Englewood), TX",21.1
+2023-05-24,"Houston (Englewood), TX",22.0
+2023-05-31,"Houston (Englewood), TX",21.6
+2023-06-07,"Houston (Englewood), TX",23.3
+2023-06-14,"Houston (Englewood), TX",24.1
+2023-06-21,"Houston (Englewood), TX",23.9
+2023-06-28,"Houston (Englewood), TX",23.5
+2023-07-05,"Houston (Englewood), TX",25.6
+2023-07-12,"Houston (Englewood), TX",24.8
+2023-07-19,"Houston (Englewood), TX",21.5
+2023-07-26,"Houston (Englewood), TX",23.4
+2023-08-02,"Houston (Englewood), TX",23.9
+2023-08-09,"Houston (Englewood), TX",23.8
+2023-08-16,"Houston (Englewood), TX",24.6
+2023-08-23,"Houston (Englewood), TX",22.1
+2023-08-30,"Houston (Englewood), TX",23.1
+2023-09-06,"Houston (Englewood), TX",22.9
+2023-09-13,"Houston (Englewood), TX",23.1
+2023-09-20,"Houston (Englewood), TX",20.5
+2023-09-27,"Houston (Englewood), TX",21.8
+2023-10-04,"Houston (Englewood), TX",23.1
+2023-10-11,"Houston (Englewood), TX",23.8
+2023-10-18,"Houston (Englewood), TX",25.1
+2023-10-25,"Houston (Englewood), TX",23.4
+2023-11-01,"Houston (Englewood), TX",22.9
+2023-11-08,"Houston (Englewood), TX",20.3
+2023-11-15,"Houston (Englewood), TX",21.6
+2023-11-22,"Houston (Englewood), TX",22.2
+2023-11-29,"Houston (Englewood), TX",24.1
+2023-12-06,"Houston (Englewood), TX",21.7
+2023-12-13,"Houston (Englewood), TX",27.1
+2023-12-20,"Houston (Englewood), TX",24.8
+2023-12-27,"Houston (Englewood), TX",23.8
+2024-01-03,"Houston (Englewood), TX",24.3
+2024-01-10,"Houston (Englewood), TX",20.9
+2024-01-17,"Houston (Englewood), TX",21.9
+2024-01-24,"Houston (Englewood), TX",24.9
+2024-01-31,"Houston (Englewood), TX",26.0
+2024-02-07,"Houston (Englewood), TX",25.2
+2024-02-14,"Houston (Englewood), TX",24.1
+2024-02-21,"Houston (Englewood), TX",24.7
+2024-02-28,"Houston (Englewood), TX",24.9
+2024-03-06,"Houston (Englewood), TX",24.3
+2024-03-13,"Houston (Englewood), TX",21.0
+2024-03-20,"Houston (Englewood), TX",20.3
+2024-03-27,"Houston (Englewood), TX",21.0
+2024-04-03,"Houston (Englewood), TX",25.8
+2024-04-10,"Houston (Englewood), TX",25.0
+2024-04-17,"Houston (Englewood), TX",22.9
+2024-04-24,"Houston (Englewood), TX",20.0
+2024-05-01,"Houston (Englewood), TX",21.0
+2024-05-08,"Houston (Englewood), TX",23.8
+2024-05-15,"Houston (Englewood), TX",22.3
+2024-05-22,"Houston (Englewood), TX",27.6
+2024-05-29,"Houston (Englewood), TX",29.2
+2024-06-05,"Houston (Englewood), TX",28.7
+2024-06-12,"Houston (Englewood), TX",28.8
+2024-06-19,"Houston (Englewood), TX",28.1
+2024-06-26,"Houston (Englewood), TX",23.3
+2024-07-03,"Houston (Englewood), TX",23.7
+2024-07-10,"Houston (Englewood), TX",23.9
+2024-07-17,"Houston (Englewood), TX",30.5
+2024-07-24,"Houston (Englewood), TX",25.6
+2024-07-31,"Houston (Englewood), TX",27.9
+2024-08-07,"Houston (Englewood), TX",27.4
+2024-08-14,"Houston (Englewood), TX",26.1
+2024-08-21,"Houston (Englewood), TX",23.8
+2024-08-28,"Houston (Englewood), TX",23.0
+2024-09-04,"Houston (Englewood), TX",24.3
+2024-09-11,"Houston (Englewood), TX",21.5
+2024-09-18,"Houston (Englewood), TX",19.8
+2024-09-25,"Houston (Englewood), TX",22.3
+2024-10-02,"Houston (Englewood), TX",22.2
+2024-10-09,"Houston (Englewood), TX",20.7
+2024-10-16,"Houston (Englewood), TX",19.4
+2024-10-23,"Houston (Englewood), TX",18.4
+2024-10-30,"Houston (Englewood), TX",20.9
+2024-11-06,"Houston (Englewood), TX",21.0
+2024-11-13,"Houston (Englewood), TX",19.8
+2024-11-20,"Houston (Englewood), TX",19.6
+2024-11-27,"Houston (Englewood), TX",18.6
+2024-12-04,"Houston (Englewood), TX",20.5
+2024-12-11,"Houston (Englewood), TX",18.8
+2024-12-18,"Houston (Englewood), TX",19.8
+2024-12-25,"Houston (Englewood), TX",20.5
+2025-01-01,"Houston (Englewood), TX",24.2
+2025-01-08,"Houston (Englewood), TX",18.0
+2025-01-15,"Houston (Englewood), TX",20.4
+2025-01-22,"Houston (Englewood), TX",20.1
+2025-01-29,"Houston (Englewood), TX",23.6
+2025-02-05,"Houston (Englewood), TX",20.0
+2025-02-12,"Houston (Englewood), TX",24.2
+2025-02-19,"Houston (Englewood), TX",23.1
+2025-02-26,"Houston (Englewood), TX",22.6
+2025-03-05,"Houston (Englewood), TX",22.9
+2025-03-12,"Houston (Englewood), TX",22.3
+2025-03-19,"Houston (Englewood), TX",23.3
+2025-03-26,"Houston (Englewood), TX",21.2
+2025-04-02,"Houston (Englewood), TX",21.6
+2025-04-09,"Houston (Englewood), TX",19.3
+2025-04-16,"Houston (Englewood), TX",20.3
+2025-04-23,"Houston (Englewood), TX",20.2
+2025-04-30,"Houston (Englewood), TX",18.8
+2025-05-07,"Houston (Englewood), TX",19.6
+2025-05-14,"Houston (Englewood), TX",20.7
+2025-05-21,"Houston (Englewood), TX",20.1
+2025-05-28,"Houston (Englewood), TX",21.9
+2025-06-04,"Houston (Englewood), TX",21.2
+2025-06-11,"Houston (Englewood), TX",21.4
+2025-06-18,"Houston (Englewood), TX",21.4
+2025-06-25,"Houston (Englewood), TX",21.6
+2025-07-02,"Houston (Englewood), TX",22.3
+2025-07-09,"Houston (Englewood), TX",22.6
+2025-07-16,"Houston (Englewood), TX",23.2
+2025-07-23,"Houston (Englewood), TX",21.0
+2025-07-30,"Houston (Englewood), TX",19.7
+2025-08-06,"Houston (Englewood), TX",20.3
+2025-08-13,"Houston (Englewood), TX",20.9
+2025-08-20,"Houston (Englewood), TX",19.0
+2025-08-27,"Houston (Englewood), TX",18.6
+2025-09-03,"Houston (Englewood), TX",19.6
+2025-09-10,"Houston (Englewood), TX",19.3
+2025-09-17,"Houston (Englewood), TX",19.4
+2025-09-24,"Houston (Englewood), TX",20.5
+2025-10-01,"Houston (Englewood), TX",19.4
+2025-10-08,"Houston (Englewood), TX",20.2
+2025-10-15,"Houston (Englewood), TX",19.6
+2025-10-22,"Houston (Englewood), TX",18.3
+2025-10-29,"Houston (Englewood), TX",19.8
+2025-11-05,"Houston (Englewood), TX",19.0
+2025-11-12,"Houston (Englewood), TX",20.9
+2025-11-19,"Houston (Englewood), TX",19.1
+2025-11-26,"Houston (Englewood), TX",19.2
+2025-12-03,"Houston (Englewood), TX",19.4
+2025-12-10,"Houston (Englewood), TX",18.5
+2025-12-17,"Houston (Englewood), TX",17.8
+2025-12-24,"Houston (Englewood), TX",18.6
+2025-12-31,"Houston (Englewood), TX",20.2
+2026-01-07,"Houston (Englewood), TX",18.4
+2026-01-14,"Houston (Englewood), TX",18.4
+2026-01-21,"Houston (Englewood), TX",18.7
+2026-01-28,"Houston (Englewood), TX",18.1
+2026-02-04,"Houston (Englewood), TX",18.8
+2026-02-11,"Houston (Englewood), TX",19.1
+2026-02-18,"Houston (Englewood), TX",18.3
+2026-02-25,"Houston (Englewood), TX",17.8
+2026-03-04,"Houston (Englewood), TX",20.0
+2026-03-11,"Houston (Englewood), TX",20.3
+2026-03-18,"Houston (Englewood), TX",19.2
+2026-03-25,"Houston (Englewood), TX",20.1
+2026-04-01,"Houston (Englewood), TX",19.8
+2026-04-08,"Houston (Englewood), TX",20.7
+2026-04-15,"Houston (Englewood), TX",21.2
+2026-04-22,"Houston (Englewood), TX",18.7
+2026-04-29,"Houston (Englewood), TX",19.3
+2026-05-06,"Houston (Englewood), TX",20.0
+2026-05-13,"Houston (Englewood), TX",20.6
+2026-05-20,"Houston (Englewood), TX",18.0
+2026-05-27,"Houston (Englewood), TX",17.9
+2026-06-03,"Houston (Englewood), TX",16.8
+2026-06-10,"Houston (Englewood), TX",18.9
+2026-06-17,"Houston (Englewood), TX",18.5
+2026-06-24,"Houston (Englewood), TX",19.6
+2026-07-01,"Houston (Englewood), TX",17.6
+2026-07-08,"Houston (Englewood), TX",18.6
+2026-07-15,"Houston (Englewood), TX",19.8
+2026-07-22,"Houston (Englewood), TX",19.9
+2026-07-29,"Houston (Englewood), TX",18.2
+2026-08-05,"Houston (Englewood), TX",18.8
+2026-08-12,"Houston (Englewood), TX",19.6
+2026-08-19,"Houston (Englewood), TX",18.8
+2026-08-26,"Houston (Englewood), TX",18.7
+2026-09-02,"Houston (Englewood), TX",20.0
+2026-09-09,"Houston (Englewood), TX",19.0
+2026-09-16,"Houston (Englewood), TX",17.4
+2026-09-23,"Houston (Englewood), TX",20.3
+2026-09-30,"Houston (Englewood), TX",18.7
+2026-10-07,"Houston (Englewood), TX",19.4
+2017-03-29,"Livonia, LA",29.6
+2017-04-05,"Livonia, LA",29.0
+2017-04-12,"Livonia, LA",29.4
+2017-04-19,"Livonia, LA",30.4
+2017-04-26,"Livonia, LA",28.2
+2017-05-03,"Livonia, LA",27.8
+2017-05-10,"Livonia, LA",29.6
+2017-05-17,"Livonia, LA",29.2
+2017-05-24,"Livonia, LA",29.2
+2017-05-31,"Livonia, LA",30.6
+2017-06-07,"Livonia, LA",34.4
+2017-06-14,"Livonia, LA",33.2
+2017-06-21,"Livonia, LA",30.9
+2017-06-28,"Livonia, LA",34.1
+2017-07-05,"Livonia, LA",32.0
+2017-07-12,"Livonia, LA",36.4
+2017-07-19,"Livonia, LA",30.7
+2017-07-26,"Livonia, LA",29.7
+2017-08-02,"Livonia, LA",27.1
+2017-08-09,"Livonia, LA",30.5
+2017-08-16,"Livonia, LA",28.3
+2017-08-23,"Livonia, LA",26.8
+2017-08-30,"Livonia, LA",28.5
+2017-09-06,"Livonia, LA",29.9
+2017-09-13,"Livonia, LA",35.1
+2017-09-20,"Livonia, LA",31.9
+2017-09-27,"Livonia, LA",29.7
+2017-10-04,"Livonia, LA",36.7
+2017-10-11,"Livonia, LA",38.3
+2017-10-18,"Livonia, LA",37.6
+2017-10-25,"Livonia, LA",35.1
+2017-11-01,"Livonia, LA",36.7
+2017-11-08,"Livonia, LA",29.6
+2017-11-15,"Livonia, LA",31.7
+2017-11-22,"Livonia, LA",32.3
+2017-11-29,"Livonia, LA",36.1
+2017-12-06,"Livonia, LA",41.1
+2017-12-13,"Livonia, LA",38.5
+2017-12-20,"Livonia, LA",34.1
+2017-12-27,"Livonia, LA",35.8
+2018-01-03,"Livonia, LA",38.7
+2018-01-10,"Livonia, LA",33.7
+2018-01-17,"Livonia, LA",32.2
+2018-01-24,"Livonia, LA",36.8
+2018-01-31,"Livonia, LA",36.1
+2018-02-07,"Livonia, LA",35.3
+2018-02-14,"Livonia, LA",33.9
+2018-02-21,"Livonia, LA",42.5
+2018-02-28,"Livonia, LA",41.7
+2018-03-07,"Livonia, LA",35.6
+2018-03-14,"Livonia, LA",38.2
+2018-03-21,"Livonia, LA",43.3
+2018-03-28,"Livonia, LA",40.4
+2018-04-04,"Livonia, LA",38.6
+2018-04-11,"Livonia, LA",34.7
+2018-04-18,"Livonia, LA",32.0
+2018-04-25,"Livonia, LA",31.0
+2018-05-02,"Livonia, LA",28.4
+2018-05-09,"Livonia, LA",28.4
+2018-05-16,"Livonia, LA",27.4
+2018-05-23,"Livonia, LA",28.5
+2018-05-30,"Livonia, LA",27.0
+2018-06-06,"Livonia, LA",27.3
+2018-06-13,"Livonia, LA",26.7
+2018-06-20,"Livonia, LA",29.6
+2018-06-27,"Livonia, LA",33.8
+2018-07-04,"Livonia, LA",30.0
+2018-07-11,"Livonia, LA",30.0
+2018-07-18,"Livonia, LA",26.7
+2018-07-25,"Livonia, LA",27.1
+2018-08-01,"Livonia, LA",26.1
+2018-08-08,"Livonia, LA",28.4
+2018-08-15,"Livonia, LA",28.2
+2018-08-22,"Livonia, LA",28.6
+2018-08-29,"Livonia, LA",28.2
+2018-09-05,"Livonia, LA",31.1
+2018-09-12,"Livonia, LA",29.3
+2018-09-19,"Livonia, LA",28.3
+2018-09-26,"Livonia, LA",32.8
+2018-10-03,"Livonia, LA",32.3
+2018-10-10,"Livonia, LA",31.3
+2018-10-17,"Livonia, LA",29.2
+2018-10-24,"Livonia, LA",27.9
+2018-10-31,"Livonia, LA",30.5
+2018-11-07,"Livonia, LA",27.7
+2018-11-14,"Livonia, LA",27.7
+2018-11-21,"Livonia, LA",29.1
+2018-11-28,"Livonia, LA",24.4
+2018-12-05,"Livonia, LA",24.3
+2018-12-12,"Livonia, LA",24.1
+2018-12-19,"Livonia, LA",23.8
+2018-12-26,"Livonia, LA",24.0
+2019-01-02,"Livonia, LA",28.0
+2019-01-09,"Livonia, LA",23.6
+2019-01-16,"Livonia, LA",22.9
+2019-01-23,"Livonia, LA",23.0
+2019-01-30,"Livonia, LA",22.6
+2019-02-06,"Livonia, LA",21.8
+2019-02-13,"Livonia, LA",23.7
+2019-02-20,"Livonia, LA",23.3
+2019-02-27,"Livonia, LA",25.6
+2019-03-06,"Livonia, LA",25.4
+2019-03-13,"Livonia, LA",27.7
+2019-03-20,"Livonia, LA",27.7
+2019-03-27,"Livonia, LA",26.4
+2019-04-03,"Livonia, LA",23.9
+2019-04-10,"Livonia, LA",26.5
+2019-04-17,"Livonia, LA",26.3
+2019-04-24,"Livonia, LA",25.3
+2019-05-01,"Livonia, LA",23.6
+2019-05-08,"Livonia, LA",24.9
+2019-05-15,"Livonia, LA",24.6
+2019-05-22,"Livonia, LA",26.1
+2019-05-29,"Livonia, LA",26.3
+2019-06-05,"Livonia, LA",25.9
+2019-06-12,"Livonia, LA",26.6
+2019-06-19,"Livonia, LA",28.0
+2019-06-26,"Livonia, LA",26.9
+2019-07-03,"Livonia, LA",30.5
+2019-07-10,"Livonia, LA",27.7
+2019-07-17,"Livonia, LA",25.4
+2019-07-24,"Livonia, LA",34.8
+2019-07-31,"Livonia, LA",24.5
+2019-08-07,"Livonia, LA",23.4
+2019-08-14,"Livonia, LA",22.7
+2019-08-21,"Livonia, LA",25.2
+2019-08-28,"Livonia, LA",25.6
+2019-09-04,"Livonia, LA",26.9
+2019-09-11,"Livonia, LA",28.9
+2019-09-18,"Livonia, LA",26.7
+2019-09-25,"Livonia, LA",25.3
+2019-10-02,"Livonia, LA",23.9
+2019-10-09,"Livonia, LA",24.4
+2019-10-16,"Livonia, LA",23.9
+2019-10-23,"Livonia, LA",23.0
+2019-10-30,"Livonia, LA",22.2
+2019-11-06,"Livonia, LA",22.5
+2019-11-13,"Livonia, LA",24.3
+2019-11-20,"Livonia, LA",24.5
+2019-11-27,"Livonia, LA",24.4
+2019-12-04,"Livonia, LA",23.4
+2019-12-11,"Livonia, LA",21.6
+2019-12-18,"Livonia, LA",21.9
+2019-12-25,"Livonia, LA",23.2
+2020-01-01,"Livonia, LA",28.4
+2020-01-08,"Livonia, LA",21.2
+2020-01-15,"Livonia, LA",20.6
+2020-01-22,"Livonia, LA",24.2
+2020-01-29,"Livonia, LA",23.4
+2020-02-05,"Livonia, LA",23.5
+2020-02-12,"Livonia, LA",22.8
+2020-02-19,"Livonia, LA",24.2
+2020-02-26,"Livonia, LA",25.7
+2020-03-04,"Livonia, LA",26.3
+2020-03-11,"Livonia, LA",26.7
+2020-03-18,"Livonia, LA",24.4
+2020-03-25,"Livonia, LA",23.7
+2020-04-01,"Livonia, LA",24.4
+2020-04-08,"Livonia, LA",21.9
+2020-04-15,"Livonia, LA",22.5
+2020-04-22,"Livonia, LA",19.6
+2020-04-29,"Livonia, LA",18.4
+2020-05-06,"Livonia, LA",18.4
+2020-05-13,"Livonia, LA",18.7
+2020-05-20,"Livonia, LA",18.4
+2020-05-27,"Livonia, LA",19.5
+2020-06-03,"Livonia, LA",19.8
+2020-06-10,"Livonia, LA",19.4
+2020-06-17,"Livonia, LA",21.5
+2020-06-24,"Livonia, LA",19.8
+2020-07-01,"Livonia, LA",19.2
+2020-07-08,"Livonia, LA",20.8
+2020-07-15,"Livonia, LA",24.2
+2020-07-22,"Livonia, LA",20.8
+2020-07-29,"Livonia, LA",20.9
+2020-08-05,"Livonia, LA",22.0
+2020-08-12,"Livonia, LA",24.3
+2020-08-19,"Livonia, LA",23.1
+2020-08-26,"Livonia, LA",20.6
+2020-09-02,"Livonia, LA",23.0
+2020-09-09,"Livonia, LA",25.9
+2020-09-16,"Livonia, LA",24.1
+2020-09-23,"Livonia, LA",21.5
+2020-09-30,"Livonia, LA",22.6
+2020-10-07,"Livonia, LA",23.8
+2020-10-14,"Livonia, LA",22.9
+2020-10-21,"Livonia, LA",29.3
+2020-10-28,"Livonia, LA",23.9
+2020-11-04,"Livonia, LA",21.4
+2020-11-11,"Livonia, LA",22.2
+2020-11-18,"Livonia, LA",21.3
+2020-11-25,"Livonia, LA",24.9
+2020-12-02,"Livonia, LA",26.0
+2020-12-09,"Livonia, LA",22.4
+2020-12-16,"Livonia, LA",28.7
+2020-12-23,"Livonia, LA",24.5
+2020-12-30,"Livonia, LA",23.2
+2021-01-06,"Livonia, LA",25.7
+2021-01-13,"Livonia, LA",21.6
+2021-01-20,"Livonia, LA",24.5
+2021-01-27,"Livonia, LA",22.3
+2021-02-03,"Livonia, LA",20.8
+2021-02-10,"Livonia, LA",20.4
+2021-02-17,"Livonia, LA",23.2
+2021-02-24,"Livonia, LA",27.3
+2021-03-03,"Livonia, LA",20.5
+2021-03-10,"Livonia, LA",19.8
+2021-03-17,"Livonia, LA",19.7
+2021-03-24,"Livonia, LA",19.7
+2021-03-31,"Livonia, LA",19.7
+2021-04-07,"Livonia, LA",19.5
+2021-04-14,"Livonia, LA",23.3
+2021-04-21,"Livonia, LA",24.5
+2021-04-28,"Livonia, LA",24.1
+2021-05-05,"Livonia, LA",23.4
+2021-05-12,"Livonia, LA",22.4
+2021-05-19,"Livonia, LA",26.4
+2021-05-26,"Livonia, LA",22.6
+2021-06-02,"Livonia, LA",21.6
+2021-06-09,"Livonia, LA",21.6
+2021-06-16,"Livonia, LA",22.6
+2021-06-23,"Livonia, LA",25.3
+2021-06-30,"Livonia, LA",23.6
+2021-07-07,"Livonia, LA",21.9
+2021-07-14,"Livonia, LA",21.6
+2021-07-21,"Livonia, LA",20.2
+2021-07-28,"Livonia, LA",22.5
+2021-08-04,"Livonia, LA",23.3
+2021-08-11,"Livonia, LA",24.0
+2021-08-18,"Livonia, LA",26.8
+2021-08-25,"Livonia, LA",30.6
+2021-09-01,"Livonia, LA",30.3
+2021-09-08,"Livonia, LA",37.5
+2021-09-15,"Livonia, LA",20.9
+2021-09-22,"Livonia, LA",20.4
+2021-09-29,"Livonia, LA",24.2
+2021-10-06,"Livonia, LA",28.3
+2021-10-13,"Livonia, LA",34.6
+2021-10-20,"Livonia, LA",27.9
+2021-10-27,"Livonia, LA",30.7
+2021-11-03,"Livonia, LA",28.4
+2021-11-10,"Livonia, LA",30.5
+2021-11-17,"Livonia, LA",29.6
+2021-11-24,"Livonia, LA",35.2
+2021-12-01,"Livonia, LA",35.6
+2021-12-08,"Livonia, LA",27.8
+2021-12-15,"Livonia, LA",27.6
+2021-12-22,"Livonia, LA",23.6
+2021-12-29,"Livonia, LA",25.1
+2022-01-05,"Livonia, LA",23.4
+2022-01-12,"Livonia, LA",21.5
+2022-01-19,"Livonia, LA",22.4
+2022-01-26,"Livonia, LA",23.8
+2022-02-02,"Livonia, LA",23.4
+2022-02-09,"Livonia, LA",23.1
+2022-02-16,"Livonia, LA",22.1
+2022-02-23,"Livonia, LA",22.2
+2022-03-02,"Livonia, LA",24.6
+2022-03-09,"Livonia, LA",26.3
+2022-03-16,"Livonia, LA",29.4
+2022-03-23,"Livonia, LA",28.5
+2022-03-30,"Livonia, LA",28.7
+2022-04-06,"Livonia, LA",27.5
+2022-04-13,"Livonia, LA",26.4
+2022-04-20,"Livonia, LA",27.0
+2022-04-27,"Livonia, LA",27.7
+2022-05-04,"Livonia, LA",29.0
+2022-05-11,"Livonia, LA",25.0
+2022-05-18,"Livonia, LA",24.8
+2022-05-25,"Livonia, LA",24.6
+2022-06-01,"Livonia, LA",26.2
+2022-06-08,"Livonia, LA",25.2
+2022-06-15,"Livonia, LA",23.1
+2022-06-22,"Livonia, LA",27.3
+2022-06-29,"Livonia, LA",27.2
+2022-07-06,"Livonia, LA",24.1
+2022-07-13,"Livonia, LA",26.6
+2022-07-20,"Livonia, LA",26.7
+2022-07-27,"Livonia, LA",29.2
+2022-08-03,"Livonia, LA",30.5
+2022-08-10,"Livonia, LA",26.4
+2022-08-17,"Livonia, LA",26.7
+2022-08-24,"Livonia, LA",24.9
+2022-08-31,"Livonia, LA",28.0
+2022-09-07,"Livonia, LA",29.2
+2022-09-14,"Livonia, LA",27.9
+2022-09-21,"Livonia, LA",27.9
+2022-09-28,"Livonia, LA",25.4
+2022-10-05,"Livonia, LA",24.7
+2022-10-12,"Livonia, LA",25.1
+2022-10-19,"Livonia, LA",23.2
+2022-10-26,"Livonia, LA",27.3
+2022-11-02,"Livonia, LA",29.9
+2022-11-09,"Livonia, LA",27.4
+2022-11-16,"Livonia, LA",28.1
+2022-11-23,"Livonia, LA",34.0
+2022-11-30,"Livonia, LA",29.8
+2022-12-07,"Livonia, LA",25.1
+2022-12-14,"Livonia, LA",24.0
+2022-12-21,"Livonia, LA",24.2
+2022-12-28,"Livonia, LA",25.1
+2023-01-04,"Livonia, LA",26.6
+2023-01-11,"Livonia, LA",21.9
+2023-01-18,"Livonia, LA",22.7
+2023-01-25,"Livonia, LA",25.4
+2023-02-01,"Livonia, LA",24.6
+2023-02-08,"Livonia, LA",26.6
+2023-02-15,"Livonia, LA",25.5
+2023-02-22,"Livonia, LA",21.7
+2023-03-01,"Livonia, LA",22.2
+2023-03-08,"Livonia, LA",22.1
+2023-03-15,"Livonia, LA",23.7
+2023-03-22,"Livonia, LA",23.1
+2023-03-29,"Livonia, LA",22.5
+2023-04-05,"Livonia, LA",23.2
+2023-04-12,"Livonia, LA",24.3
+2023-04-19,"Livonia, LA",26.2
+2023-04-26,"Livonia, LA",24.6
+2023-05-03,"Livonia, LA",24.7
+2023-05-10,"Livonia, LA",22.7
+2023-05-17,"Livonia, LA",24.8
+2023-05-24,"Livonia, LA",21.9
+2023-05-31,"Livonia, LA",21.3
+2023-06-07,"Livonia, LA",22.0
+2023-06-14,"Livonia, LA",21.3
+2023-06-21,"Livonia, LA",20.4
+2023-06-28,"Livonia, LA",20.5
+2023-07-05,"Livonia, LA",21.1
+2023-07-12,"Livonia, LA",22.3
+2023-07-19,"Livonia, LA",20.3
+2023-07-26,"Livonia, LA",19.9
+2023-08-02,"Livonia, LA",20.3
+2023-08-09,"Livonia, LA",20.4
+2023-08-16,"Livonia, LA",23.3
+2023-08-23,"Livonia, LA",24.3
+2023-08-30,"Livonia, LA",29.3
+2023-09-06,"Livonia, LA",25.9
+2023-09-13,"Livonia, LA",25.9
+2023-09-20,"Livonia, LA",23.2
+2023-09-27,"Livonia, LA",21.4
+2023-10-04,"Livonia, LA",20.9
+2023-10-11,"Livonia, LA",21.7
+2023-10-18,"Livonia, LA",24.2
+2023-10-25,"Livonia, LA",23.3
+2023-11-01,"Livonia, LA",24.0
+2023-11-08,"Livonia, LA",25.0
+2023-11-15,"Livonia, LA",26.6
+2023-11-22,"Livonia, LA",27.8
+2023-11-29,"Livonia, LA",26.1
+2023-12-06,"Livonia, LA",23.9
+2023-12-13,"Livonia, LA",23.6
+2023-12-20,"Livonia, LA",25.9
+2023-12-27,"Livonia, LA",23.0
+2024-01-03,"Livonia, LA",26.4
+2024-01-10,"Livonia, LA",24.1
+2024-01-17,"Livonia, LA",19.1
+2024-01-24,"Livonia, LA",21.9
+2024-01-31,"Livonia, LA",20.0
+2024-02-07,"Livonia, LA",22.9
+2024-02-14,"Livonia, LA",24.1
+2024-02-21,"Livonia, LA",21.8
+2024-02-28,"Livonia, LA",27.7
+2024-03-06,"Livonia, LA",28.8
+2024-03-13,"Livonia, LA",25.5
+2024-03-20,"Livonia, LA",24.8
+2024-03-27,"Livonia, LA",25.5
+2024-04-03,"Livonia, LA",27.3
+2024-04-10,"Livonia, LA",27.0
+2024-04-17,"Livonia, LA",25.3
+2024-04-24,"Livonia, LA",27.0
+2024-05-01,"Livonia, LA",29.7
+2024-05-08,"Livonia, LA",29.1
+2024-05-15,"Livonia, LA",28.0
+2024-05-22,"Livonia, LA",32.7
+2024-05-29,"Livonia, LA",31.1
+2024-06-05,"Livonia, LA",29.8
+2024-06-12,"Livonia, LA",26.6
+2024-06-19,"Livonia, LA",26.8
+2024-06-26,"Livonia, LA",30.5
+2024-07-03,"Livonia, LA",30.6
+2024-07-10,"Livonia, LA",28.2
+2024-07-17,"Livonia, LA",27.4
+2024-07-24,"Livonia, LA",23.9
+2024-07-31,"Livonia, LA",28.1
+2024-08-07,"Livonia, LA",25.7
+2024-08-14,"Livonia, LA",26.1
+2024-08-21,"Livonia, LA",27.8
+2024-08-28,"Livonia, LA",28.4
+2024-09-04,"Livonia, LA",25.4
+2024-09-11,"Livonia, LA",25.7
+2024-09-18,"Livonia, LA",25.6
+2024-09-25,"Livonia, LA",22.7
+2024-10-02,"Livonia, LA",21.9
+2024-10-09,"Livonia, LA",21.0
+2024-10-16,"Livonia, LA",21.8
+2024-10-23,"Livonia, LA",23.0
+2024-10-30,"Livonia, LA",23.2
+2024-11-06,"Livonia, LA",23.5
+2024-11-13,"Livonia, LA",24.0
+2024-11-20,"Livonia, LA",22.7
+2024-11-27,"Livonia, LA",26.2
+2024-12-04,"Livonia, LA",24.6
+2024-12-11,"Livonia, LA",23.3
+2024-12-18,"Livonia, LA",21.9
+2024-12-25,"Livonia, LA",24.1
+2025-01-01,"Livonia, LA",28.8
+2025-01-08,"Livonia, LA",23.9
+2025-01-15,"Livonia, LA",22.2
+2025-01-22,"Livonia, LA",23.1
+2025-01-29,"Livonia, LA",29.2
+2025-02-05,"Livonia, LA",23.8
+2025-02-12,"Livonia, LA",25.2
+2025-02-19,"Livonia, LA",25.5
+2025-02-26,"Livonia, LA",24.8
+2025-03-05,"Livonia, LA",23.3
+2025-03-12,"Livonia, LA",20.9
+2025-03-19,"Livonia, LA",22.2
+2025-03-26,"Livonia, LA",22.4
+2025-04-02,"Livonia, LA",22.9
+2025-04-09,"Livonia, LA",24.8
+2025-04-16,"Livonia, LA",24.1
+2025-04-23,"Livonia, LA",23.6
+2025-04-30,"Livonia, LA",22.9
+2025-05-07,"Livonia, LA",23.1
+2025-05-14,"Livonia, LA",25.5
+2025-05-21,"Livonia, LA",22.1
+2025-05-28,"Livonia, LA",21.5
+2025-06-04,"Livonia, LA",22.5
+2025-06-11,"Livonia, LA",22.1
+2025-06-18,"Livonia, LA",23.1
+2025-06-25,"Livonia, LA",20.9
+2025-07-02,"Livonia, LA",22.7
+2025-07-09,"Livonia, LA",23.4
+2025-07-16,"Livonia, LA",23.4
+2025-07-23,"Livonia, LA",20.6
+2025-07-30,"Livonia, LA",20.1
+2025-08-06,"Livonia, LA",20.9
+2025-08-13,"Livonia, LA",20.5
+2025-08-20,"Livonia, LA",20.7
+2025-08-27,"Livonia, LA",19.8
+2025-09-03,"Livonia, LA",20.1
+2025-09-10,"Livonia, LA",21.5
+2025-09-17,"Livonia, LA",20.1
+2025-09-24,"Livonia, LA",21.7
+2025-10-01,"Livonia, LA",21.2
+2025-10-08,"Livonia, LA",20.3
+2025-10-15,"Livonia, LA",21.6
+2025-10-22,"Livonia, LA",19.8
+2025-10-29,"Livonia, LA",20.7
+2025-11-05,"Livonia, LA",21.6
+2025-11-12,"Livonia, LA",20.3
+2025-11-19,"Livonia, LA",22.6
+2025-11-26,"Livonia, LA",20.0
+2025-12-03,"Livonia, LA",19.3
+2025-12-10,"Livonia, LA",19.8
+2025-12-17,"Livonia, LA",19.4
+2025-12-24,"Livonia, LA",19.1
+2025-12-31,"Livonia, LA",20.8
+2026-01-07,"Livonia, LA",17.8
+2026-01-14,"Livonia, LA",17.6
+2026-01-21,"Livonia, LA",18.6
+2026-01-28,"Livonia, LA",19.1
+2026-02-04,"Livonia, LA",19.9
+2026-02-11,"Livonia, LA",21.0
+2026-02-18,"Livonia, LA",19.9
+2026-02-25,"Livonia, LA",20.5
+2026-03-04,"Livonia, LA",20.9
+2026-03-11,"Livonia, LA",21.6
+2026-03-18,"Livonia, LA",20.0
+2026-03-25,"Livonia, LA",20.4
+2026-04-01,"Livonia, LA",21.3
+2026-04-08,"Livonia, LA",21.2
+2026-04-15,"Livonia, LA",20.5
+2026-04-22,"Livonia, LA",20.5
+2026-04-29,"Livonia, LA",22.3
+2026-05-06,"Livonia, LA",22.4
+2026-05-13,"Livonia, LA",21.7
+2026-05-20,"Livonia, LA",23.0
+2026-05-27,"Livonia, LA",24.0
+2026-06-03,"Livonia, LA",21.1
+2026-06-10,"Livonia, LA",20.0
+2026-06-17,"Livonia, LA",21.2
+2026-06-24,"Livonia, LA",21.8
+2026-07-01,"Livonia, LA",19.5
+2026-07-08,"Livonia, LA",20.7
+2026-07-15,"Livonia, LA",25.6
+2026-07-22,"Livonia, LA",22.5
+2026-07-29,"Livonia, LA",20.7
+2026-08-05,"Livonia, LA",23.9
+2026-08-12,"Livonia, LA",21.7
+2026-08-19,"Livonia, LA",22.9
+2026-08-26,"Livonia, LA",21.2
+2026-09-02,"Livonia, LA",21.9
+2026-09-09,"Livonia, LA",21.8
+2026-09-16,"Livonia, LA",22.2
+2026-09-23,"Livonia, LA",20.9
+2026-09-30,"Livonia, LA",22.5
+2026-10-07,"Livonia, LA",19.8
+2017-03-29,"North Little Rock, AR",27.4
+2017-04-05,"North Little Rock, AR",31.9
+2017-04-12,"North Little Rock, AR",28.5
+2017-04-19,"North Little Rock, AR",28.6
+2017-04-26,"North Little Rock, AR",27.8
+2017-05-03,"North Little Rock, AR",25.3
+2017-05-10,"North Little Rock, AR",27.6
+2017-05-17,"North Little Rock, AR",29.2
+2017-05-24,"North Little Rock, AR",26.3
+2017-05-31,"North Little Rock, AR",28.1
+2017-06-07,"North Little Rock, AR",36.5
+2017-06-14,"North Little Rock, AR",31.2
+2017-06-21,"North Little Rock, AR",27.3
+2017-06-28,"North Little Rock, AR",31.9
+2017-07-05,"North Little Rock, AR",30.1
+2017-07-12,"North Little Rock, AR",34.4
+2017-07-19,"North Little Rock, AR",30.4
+2017-07-26,"North Little Rock, AR",33.2
+2017-08-02,"North Little Rock, AR",29.1
+2017-08-09,"North Little Rock, AR",28.0
+2017-08-16,"North Little Rock, AR",30.2
+2017-08-23,"North Little Rock, AR",28.8
+2017-08-30,"North Little Rock, AR",31.0
+2017-09-06,"North Little Rock, AR",30.2
+2017-09-13,"North Little Rock, AR",25.2
+2017-09-20,"North Little Rock, AR",25.9
+2017-09-27,"North Little Rock, AR",30.1
+2017-10-04,"North Little Rock, AR",29.2
+2017-10-11,"North Little Rock, AR",30.4
+2017-10-18,"North Little Rock, AR",30.2
+2017-10-25,"North Little Rock, AR",26.4
+2017-11-01,"North Little Rock, AR",25.1
+2017-11-08,"North Little Rock, AR",27.2
+2017-11-15,"North Little Rock, AR",28.7
+2017-11-22,"North Little Rock, AR",26.1
+2017-11-29,"North Little Rock, AR",26.9
+2017-12-06,"North Little Rock, AR",35.0
+2017-12-13,"North Little Rock, AR",27.2
+2017-12-20,"North Little Rock, AR",29.1
+2017-12-27,"North Little Rock, AR",28.4
+2018-01-03,"North Little Rock, AR",40.6
+2018-01-10,"North Little Rock, AR",42.6
+2018-01-17,"North Little Rock, AR",32.0
+2018-01-24,"North Little Rock, AR",33.9
+2018-01-31,"North Little Rock, AR",29.2
+2018-02-07,"North Little Rock, AR",29.9
+2018-02-14,"North Little Rock, AR",27.7
+2018-02-21,"North Little Rock, AR",29.4
+2018-02-28,"North Little Rock, AR",29.9
+2018-03-07,"North Little Rock, AR",29.2
+2018-03-14,"North Little Rock, AR",33.5
+2018-03-21,"North Little Rock, AR",32.0
+2018-03-28,"North Little Rock, AR",29.6
+2018-04-04,"North Little Rock, AR",29.2
+2018-04-11,"North Little Rock, AR",29.9
+2018-04-18,"North Little Rock, AR",32.1
+2018-04-25,"North Little Rock, AR",33.0
+2018-05-02,"North Little Rock, AR",30.8
+2018-05-09,"North Little Rock, AR",31.8
+2018-05-16,"North Little Rock, AR",32.6
+2018-05-23,"North Little Rock, AR",33.7
+2018-05-30,"North Little Rock, AR",32.3
+2018-06-06,"North Little Rock, AR",29.9
+2018-06-13,"North Little Rock, AR",28.9
+2018-06-20,"North Little Rock, AR",34.1
+2018-06-27,"North Little Rock, AR",31.8
+2018-07-04,"North Little Rock, AR",33.0
+2018-07-11,"North Little Rock, AR",31.9
+2018-07-18,"North Little Rock, AR",32.1
+2018-07-25,"North Little Rock, AR",30.1
+2018-08-01,"North Little Rock, AR",29.7
+2018-08-08,"North Little Rock, AR",30.5
+2018-08-15,"North Little Rock, AR",29.7
+2018-08-22,"North Little Rock, AR",33.0
+2018-08-29,"North Little Rock, AR",37.8
+2018-09-05,"North Little Rock, AR",34.7
+2018-09-12,"North Little Rock, AR",32.5
+2018-09-19,"North Little Rock, AR",28.9
+2018-09-26,"North Little Rock, AR",30.0
+2018-10-03,"North Little Rock, AR",29.9
+2018-10-10,"North Little Rock, AR",32.7
+2018-10-17,"North Little Rock, AR",32.4
+2018-10-24,"North Little Rock, AR",34.0
+2018-10-31,"North Little Rock, AR",30.7
+2018-11-07,"North Little Rock, AR",28.5
+2018-11-14,"North Little Rock, AR",28.6
+2018-11-21,"North Little Rock, AR",30.9
+2018-11-28,"North Little Rock, AR",32.6
+2018-12-05,"North Little Rock, AR",27.7
+2018-12-12,"North Little Rock, AR",29.4
+2018-12-19,"North Little Rock, AR",29.1
+2018-12-26,"North Little Rock, AR",25.2
+2019-01-02,"North Little Rock, AR",30.9
+2019-01-09,"North Little Rock, AR",24.0
+2019-01-16,"North Little Rock, AR",23.5
+2019-01-23,"North Little Rock, AR",23.7
+2019-01-30,"North Little Rock, AR",23.7
+2019-02-06,"North Little Rock, AR",23.7
+2019-02-13,"North Little Rock, AR",27.9
+2019-02-20,"North Little Rock, AR",24.0
+2019-02-27,"North Little Rock, AR",24.6
+2019-03-06,"North Little Rock, AR",27.1
+2019-03-13,"North Little Rock, AR",28.5
+2019-03-20,"North Little Rock, AR",29.0
+2019-03-27,"North Little Rock, AR",31.0
+2019-04-03,"North Little Rock, AR",31.2
+2019-04-10,"North Little Rock, AR",27.1
+2019-04-17,"North Little Rock, AR",24.5
+2019-04-24,"North Little Rock, AR",24.3
+2019-05-01,"North Little Rock, AR",21.6
+2019-05-08,"North Little Rock, AR",21.6
+2019-05-15,"North Little Rock, AR",22.1
+2019-05-22,"North Little Rock, AR",22.0
+2019-05-29,"North Little Rock, AR",22.8
+2019-06-05,"North Little Rock, AR",21.7
+2019-06-12,"North Little Rock, AR",21.5
+2019-06-19,"North Little Rock, AR",23.1
+2019-06-26,"North Little Rock, AR",23.9
+2019-07-03,"North Little Rock, AR",23.2
+2019-07-10,"North Little Rock, AR",26.6
+2019-07-17,"North Little Rock, AR",22.9
+2019-07-24,"North Little Rock, AR",24.0
+2019-07-31,"North Little Rock, AR",24.9
+2019-08-07,"North Little Rock, AR",24.6
+2019-08-14,"North Little Rock, AR",24.1
+2019-08-21,"North Little Rock, AR",24.7
+2019-08-28,"North Little Rock, AR",25.6
+2019-09-04,"North Little Rock, AR",25.7
+2019-09-11,"North Little Rock, AR",26.3
+2019-09-18,"North Little Rock, AR",24.9
+2019-09-25,"North Little Rock, AR",23.0
+2019-10-02,"North Little Rock, AR",21.5
+2019-10-09,"North Little Rock, AR",22.8
+2019-10-16,"North Little Rock, AR",22.3
+2019-10-23,"North Little Rock, AR",20.5
+2019-10-30,"North Little Rock, AR",21.4
+2019-11-06,"North Little Rock, AR",20.9
+2019-11-13,"North Little Rock, AR",23.8
+2019-11-20,"North Little Rock, AR",22.1
+2019-11-27,"North Little Rock, AR",21.5
+2019-12-04,"North Little Rock, AR",22.8
+2019-12-11,"North Little Rock, AR",21.4
+2019-12-18,"North Little Rock, AR",21.7
+2019-12-25,"North Little Rock, AR",31.5
+2020-01-01,"North Little Rock, AR",33.6
+2020-01-08,"North Little Rock, AR",23.3
+2020-01-15,"North Little Rock, AR",20.6
+2020-01-22,"North Little Rock, AR",23.5
+2020-01-29,"North Little Rock, AR",24.8
+2020-02-05,"North Little Rock, AR",26.0
+2020-02-12,"North Little Rock, AR",25.6
+2020-02-19,"North Little Rock, AR",25.5
+2020-02-26,"North Little Rock, AR",26.3
+2020-03-04,"North Little Rock, AR",24.7
+2020-03-11,"North Little Rock, AR",25.2
+2020-03-18,"North Little Rock, AR",25.5
+2020-03-25,"North Little Rock, AR",24.7
+2020-04-01,"North Little Rock, AR",24.0
+2020-04-08,"North Little Rock, AR",23.3
+2020-04-15,"North Little Rock, AR",21.5
+2020-04-22,"North Little Rock, AR",19.1
+2020-04-29,"North Little Rock, AR",19.2
+2020-05-06,"North Little Rock, AR",18.5
+2020-05-13,"North Little Rock, AR",20.0
+2020-05-20,"North Little Rock, AR",19.2
+2020-05-27,"North Little Rock, AR",18.3
+2020-06-03,"North Little Rock, AR",18.3
+2020-06-10,"North Little Rock, AR",18.6
+2020-06-17,"North Little Rock, AR",20.1
+2020-06-24,"North Little Rock, AR",20.2
+2020-07-01,"North Little Rock, AR",21.0
+2020-07-08,"North Little Rock, AR",20.7
+2020-07-15,"North Little Rock, AR",20.4
+2020-07-22,"North Little Rock, AR",20.3
+2020-07-29,"North Little Rock, AR",20.6
+2020-08-05,"North Little Rock, AR",21.4
+2020-08-12,"North Little Rock, AR",21.2
+2020-08-19,"North Little Rock, AR",23.1
+2020-08-26,"North Little Rock, AR",21.7
+2020-09-02,"North Little Rock, AR",24.1
+2020-09-09,"North Little Rock, AR",22.1
+2020-09-16,"North Little Rock, AR",21.3
+2020-09-23,"North Little Rock, AR",21.5
+2020-09-30,"North Little Rock, AR",22.4
+2020-10-07,"North Little Rock, AR",22.0
+2020-10-14,"North Little Rock, AR",20.5
+2020-10-21,"North Little Rock, AR",20.6
+2020-10-28,"North Little Rock, AR",20.7
+2020-11-04,"North Little Rock, AR",22.1
+2020-11-11,"North Little Rock, AR",22.2
+2020-11-18,"North Little Rock, AR",20.1
+2020-11-25,"North Little Rock, AR",25.6
+2020-12-02,"North Little Rock, AR",24.0
+2020-12-09,"North Little Rock, AR",23.7
+2020-12-16,"North Little Rock, AR",21.8
+2020-12-23,"North Little Rock, AR",23.7
+2020-12-30,"North Little Rock, AR",24.7
+2021-01-06,"North Little Rock, AR",23.0
+2021-01-13,"North Little Rock, AR",19.6
+2021-01-20,"North Little Rock, AR",23.3
+2021-01-27,"North Little Rock, AR",20.7
+2021-02-03,"North Little Rock, AR",22.2
+2021-02-10,"North Little Rock, AR",23.3
+2021-02-17,"North Little Rock, AR",27.6
+2021-02-24,"North Little Rock, AR",37.6
+2021-03-03,"North Little Rock, AR",29.1
+2021-03-10,"North Little Rock, AR",24.2
+2021-03-17,"North Little Rock, AR",26.8
+2021-03-24,"North Little Rock, AR",23.1
+2021-03-31,"North Little Rock, AR",24.3
+2021-04-07,"North Little Rock, AR",22.7
+2021-04-14,"North Little Rock, AR",25.0
+2021-04-21,"North Little Rock, AR",23.8
+2021-04-28,"North Little Rock, AR",24.1
+2021-05-05,"North Little Rock, AR",24.3
+2021-05-12,"North Little Rock, AR",23.1
+2021-05-19,"North Little Rock, AR",24.3
+2021-05-26,"North Little Rock, AR",24.5
+2021-06-02,"North Little Rock, AR",22.2
+2021-06-09,"North Little Rock, AR",26.0
+2021-06-16,"North Little Rock, AR",21.3
+2021-06-23,"North Little Rock, AR",26.1
+2021-06-30,"North Little Rock, AR",26.7
+2021-07-07,"North Little Rock, AR",27.8
+2021-07-14,"North Little Rock, AR",26.4
+2021-07-21,"North Little Rock, AR",24.9
+2021-07-28,"North Little Rock, AR",23.2
+2021-08-04,"North Little Rock, AR",24.2
+2021-08-11,"North Little Rock, AR",25.0
+2021-08-18,"North Little Rock, AR",24.4
+2021-08-25,"North Little Rock, AR",23.7
+2021-09-01,"North Little Rock, AR",23.1
+2021-09-08,"North Little Rock, AR",27.8
+2021-09-15,"North Little Rock, AR",26.6
+2021-09-22,"North Little Rock, AR",29.4
+2021-09-29,"North Little Rock, AR",29.2
+2021-10-06,"North Little Rock, AR",26.0
+2021-10-13,"North Little Rock, AR",29.3
+2021-10-20,"North Little Rock, AR",29.6
+2021-10-27,"North Little Rock, AR",27.5
+2021-11-03,"North Little Rock, AR",23.8
+2021-11-10,"North Little Rock, AR",21.4
+2021-11-17,"North Little Rock, AR",22.2
+2021-11-24,"North Little Rock, AR",20.0
+2021-12-01,"North Little Rock, AR",21.2
+2021-12-08,"North Little Rock, AR",20.4
+2021-12-15,"North Little Rock, AR",24.2
+2021-12-22,"North Little Rock, AR",22.6
+2021-12-29,"North Little Rock, AR",20.2
+2022-01-05,"North Little Rock, AR",20.2
+2022-01-12,"North Little Rock, AR",18.9
+2022-01-19,"North Little Rock, AR",18.4
+2022-01-26,"North Little Rock, AR",20.5
+2022-02-02,"North Little Rock, AR",18.8
+2022-02-09,"North Little Rock, AR",20.7
+2022-02-16,"North Little Rock, AR",19.1
+2022-02-23,"North Little Rock, AR",19.2
+2022-03-02,"North Little Rock, AR",19.1
+2022-03-09,"North Little Rock, AR",20.4
+2022-03-16,"North Little Rock, AR",24.3
+2022-03-23,"North Little Rock, AR",23.5
+2022-03-30,"North Little Rock, AR",21.7
+2022-04-06,"North Little Rock, AR",20.9
+2022-04-13,"North Little Rock, AR",20.2
+2022-04-20,"North Little Rock, AR",22.2
+2022-04-27,"North Little Rock, AR",23.7
+2022-05-04,"North Little Rock, AR",24.7
+2022-05-11,"North Little Rock, AR",22.6
+2022-05-18,"North Little Rock, AR",21.9
+2022-05-25,"North Little Rock, AR",23.4
+2022-06-01,"North Little Rock, AR",21.8
+2022-06-08,"North Little Rock, AR",19.8
+2022-06-15,"North Little Rock, AR",21.6
+2022-06-22,"North Little Rock, AR",23.4
+2022-06-29,"North Little Rock, AR",23.9
+2022-07-06,"North Little Rock, AR",23.5
+2022-07-13,"North Little Rock, AR",24.1
+2022-07-20,"North Little Rock, AR",19.1
+2022-07-27,"North Little Rock, AR",18.7
+2022-08-03,"North Little Rock, AR",19.4
+2022-08-10,"North Little Rock, AR",20.7
+2022-08-17,"North Little Rock, AR",21.1
+2022-08-24,"North Little Rock, AR",22.7
+2022-08-31,"North Little Rock, AR",23.2
+2022-09-07,"North Little Rock, AR",25.0
+2022-09-14,"North Little Rock, AR",25.6
+2022-09-21,"North Little Rock, AR",19.4
+2022-09-28,"North Little Rock, AR",20.3
+2022-10-05,"North Little Rock, AR",23.8
+2022-10-12,"North Little Rock, AR",21.5
+2022-10-19,"North Little Rock, AR",20.1
+2022-10-26,"North Little Rock, AR",22.2
+2022-11-02,"North Little Rock, AR",22.2
+2022-11-09,"North Little Rock, AR",19.9
+2022-11-16,"North Little Rock, AR",21.2
+2022-11-23,"North Little Rock, AR",20.8
+2022-11-30,"North Little Rock, AR",19.7
+2022-12-07,"North Little Rock, AR",19.3
+2022-12-14,"North Little Rock, AR",20.3
+2022-12-21,"North Little Rock, AR",22.7
+2022-12-28,"North Little Rock, AR",19.5
+2023-01-04,"North Little Rock, AR",19.6
+2023-01-11,"North Little Rock, AR",18.6
+2023-01-18,"North Little Rock, AR",18.8
+2023-01-25,"North Little Rock, AR",20.1
+2023-02-01,"North Little Rock, AR",20.0
+2023-02-08,"North Little Rock, AR",20.1
+2023-02-15,"North Little Rock, AR",20.8
+2023-02-22,"North Little Rock, AR",23.7
+2023-03-01,"North Little Rock, AR",18.6
+2023-03-08,"North Little Rock, AR",19.9
+2023-03-15,"North Little Rock, AR",19.8
+2023-03-22,"North Little Rock, AR",20.1
+2023-03-29,"North Little Rock, AR",21.3
+2023-04-05,"North Little Rock, AR",22.3
+2023-04-12,"North Little Rock, AR",21.2
+2023-04-19,"North Little Rock, AR",19.9
+2023-04-26,"North Little Rock, AR",19.6
+2023-05-03,"North Little Rock, AR",20.5
+2023-05-10,"North Little Rock, AR",19.3
+2023-05-17,"North Little Rock, AR",19.7
+2023-05-24,"North Little Rock, AR",19.4
+2023-05-31,"North Little Rock, AR",21.0
+2023-06-07,"North Little Rock, AR",20.3
+2023-06-14,"North Little Rock, AR",18.2
+2023-06-21,"North Little Rock, AR",19.1
+2023-06-28,"North Little Rock, AR",18.3
+2023-07-05,"North Little Rock, AR",18.5
+2023-07-12,"North Little Rock, AR",18.2
+2023-07-19,"North Little Rock, AR",17.5
+2023-07-26,"North Little Rock, AR",19.2
+2023-08-02,"North Little Rock, AR",19.8
+2023-08-09,"North Little Rock, AR",20.3
+2023-08-16,"North Little Rock, AR",19.3
+2023-08-23,"North Little Rock, AR",18.5
+2023-08-30,"North Little Rock, AR",20.2
+2023-09-06,"North Little Rock, AR",20.7
+2023-09-13,"North Little Rock, AR",19.0
+2023-09-20,"North Little Rock, AR",18.7
+2023-09-27,"North Little Rock, AR",20.5
+2023-10-04,"North Little Rock, AR",20.9
+2023-10-11,"North Little Rock, AR",20.8
+2023-10-18,"North Little Rock, AR",19.4
+2023-10-25,"North Little Rock, AR",19.1
+2023-11-01,"North Little Rock, AR",20.5
+2023-11-08,"North Little Rock, AR",21.2
+2023-11-15,"North Little Rock, AR",20.8
+2023-11-22,"North Little Rock, AR",19.3
+2023-11-29,"North Little Rock, AR",18.7
+2023-12-06,"North Little Rock, AR",17.5
+2023-12-13,"North Little Rock, AR",18.3
+2023-12-20,"North Little Rock, AR",20.9
+2023-12-27,"North Little Rock, AR",19.1
+2024-01-03,"North Little Rock, AR",22.8
+2024-01-10,"North Little Rock, AR",19.3
+2024-01-17,"North Little Rock, AR",18.8
+2024-01-24,"North Little Rock, AR",23.1
+2024-01-31,"North Little Rock, AR",20.1
+2024-02-07,"North Little Rock, AR",20.5
+2024-02-14,"North Little Rock, AR",20.9
+2024-02-21,"North Little Rock, AR",18.7
+2024-02-28,"North Little Rock, AR",20.3
+2024-03-06,"North Little Rock, AR",19.5
+2024-03-13,"North Little Rock, AR",21.6
+2024-03-20,"North Little Rock, AR",21.7
+2024-03-27,"North Little Rock, AR",21.8
+2024-04-03,"North Little Rock, AR",21.0
+2024-04-10,"North Little Rock, AR",19.9
+2024-04-17,"North Little Rock, AR",19.5
+2024-04-24,"North Little Rock, AR",21.2
+2024-05-01,"North Little Rock, AR",19.6
+2024-05-08,"North Little Rock, AR",23.3
+2024-05-15,"North Little Rock, AR",20.6
+2024-05-22,"North Little Rock, AR",18.8
+2024-05-29,"North Little Rock, AR",17.2
+2024-06-05,"North Little Rock, AR",18.0
+2024-06-12,"North Little Rock, AR",21.6
+2024-06-19,"North Little Rock, AR",22.3
+2024-06-26,"North Little Rock, AR",21.2
+2024-07-03,"North Little Rock, AR",20.1
+2024-07-10,"North Little Rock, AR",19.1
+2024-07-17,"North Little Rock, AR",18.8
+2024-07-24,"North Little Rock, AR",18.6
+2024-07-31,"North Little Rock, AR",20.9
+2024-08-07,"North Little Rock, AR",21.6
+2024-08-14,"North Little Rock, AR",20.5
+2024-08-21,"North Little Rock, AR",25.0
+2024-08-28,"North Little Rock, AR",23.6
+2024-09-04,"North Little Rock, AR",21.9
+2024-09-11,"North Little Rock, AR",21.6
+2024-09-18,"North Little Rock, AR",21.3
+2024-09-25,"North Little Rock, AR",23.1
+2024-10-02,"North Little Rock, AR",24.5
+2024-10-09,"North Little Rock, AR",24.2
+2024-10-16,"North Little Rock, AR",25.9
+2024-10-23,"North Little Rock, AR",24.3
+2024-10-30,"North Little Rock, AR",25.7
+2024-11-06,"North Little Rock, AR",24.5
+2024-11-13,"North Little Rock, AR",21.2
+2024-11-20,"North Little Rock, AR",21.9
+2024-11-27,"North Little Rock, AR",23.6
+2024-12-04,"North Little Rock, AR",24.3
+2024-12-11,"North Little Rock, AR",21.4
+2024-12-18,"North Little Rock, AR",23.0
+2024-12-25,"North Little Rock, AR",24.2
+2025-01-01,"North Little Rock, AR",31.2
+2025-01-08,"North Little Rock, AR",24.2
+2025-01-15,"North Little Rock, AR",24.0
+2025-01-22,"North Little Rock, AR",26.2
+2025-01-29,"North Little Rock, AR",26.5
+2025-02-05,"North Little Rock, AR",23.8
+2025-02-12,"North Little Rock, AR",25.9
+2025-02-19,"North Little Rock, AR",27.7
+2025-02-26,"North Little Rock, AR",28.9
+2025-03-05,"North Little Rock, AR",27.4
+2025-03-12,"North Little Rock, AR",26.7
+2025-03-19,"North Little Rock, AR",24.9
+2025-03-26,"North Little Rock, AR",24.5
+2025-04-02,"North Little Rock, AR",24.3
+2025-04-09,"North Little Rock, AR",26.8
+2025-04-16,"North Little Rock, AR",26.2
+2025-04-23,"North Little Rock, AR",23.6
+2025-04-30,"North Little Rock, AR",22.0
+2025-05-07,"North Little Rock, AR",23.5
+2025-05-14,"North Little Rock, AR",21.9
+2025-05-21,"North Little Rock, AR",23.3
+2025-05-28,"North Little Rock, AR",24.7
+2025-06-04,"North Little Rock, AR",24.4
+2025-06-11,"North Little Rock, AR",22.6
+2025-06-18,"North Little Rock, AR",24.9
+2025-06-25,"North Little Rock, AR",23.0
+2025-07-02,"North Little Rock, AR",23.2
+2025-07-09,"North Little Rock, AR",22.2
+2025-07-16,"North Little Rock, AR",24.2
+2025-07-23,"North Little Rock, AR",20.5
+2025-07-30,"North Little Rock, AR",20.9
+2025-08-06,"North Little Rock, AR",21.8
+2025-08-13,"North Little Rock, AR",25.3
+2025-08-20,"North Little Rock, AR",25.0
+2025-08-27,"North Little Rock, AR",22.7
+2025-09-03,"North Little Rock, AR",23.2
+2025-09-10,"North Little Rock, AR",24.2
+2025-09-17,"North Little Rock, AR",21.6
+2025-09-24,"North Little Rock, AR",21.5
+2025-10-01,"North Little Rock, AR",23.6
+2025-10-08,"North Little Rock, AR",22.1
+2025-10-15,"North Little Rock, AR",22.4
+2025-10-22,"North Little Rock, AR",22.6
+2025-10-29,"North Little Rock, AR",20.6
+2025-11-05,"North Little Rock, AR",22.9
+2025-11-12,"North Little Rock, AR",22.3
+2025-11-19,"North Little Rock, AR",22.8
+2025-11-26,"North Little Rock, AR",21.0
+2025-12-03,"North Little Rock, AR",21.2
+2025-12-10,"North Little Rock, AR",19.8
+2025-12-17,"North Little Rock, AR",19.7
+2025-12-24,"North Little Rock, AR",22.7
+2025-12-31,"North Little Rock, AR",24.8
+2026-01-07,"North Little Rock, AR",18.8
+2026-01-14,"North Little Rock, AR",17.8
+2026-01-21,"North Little Rock, AR",20.1
+2026-01-28,"North Little Rock, AR",22.0
+2026-02-04,"North Little Rock, AR",27.0
+2026-02-11,"North Little Rock, AR",21.9
+2026-02-18,"North Little Rock, AR",21.0
+2026-02-25,"North Little Rock, AR",21.1
+2026-03-04,"North Little Rock, AR",20.7
+2026-03-11,"North Little Rock, AR",22.1
+2026-03-18,"North Little Rock, AR",21.8
+2026-03-25,"North Little Rock, AR",20.2
+2026-04-01,"North Little Rock, AR",21.0
+2026-04-08,"North Little Rock, AR",20.8
+2026-04-15,"North Little Rock, AR",21.2
+2026-04-22,"North Little Rock, AR",21.1
+2026-04-29,"North Little Rock, AR",21.5
+2026-05-06,"North Little Rock, AR",21.2
+2026-05-13,"North Little Rock, AR",21.3
+2026-05-20,"North Little Rock, AR",20.5
+2026-05-27,"North Little Rock, AR",22.4
+2026-06-03,"North Little Rock, AR",22.6
+2026-06-10,"North Little Rock, AR",22.0
+2026-06-17,"North Little Rock, AR",21.4
+2026-06-24,"North Little Rock, AR",21.3
+2026-07-01,"North Little Rock, AR",19.6
+2026-07-08,"North Little Rock, AR",19.4
+2026-07-15,"North Little Rock, AR",21.8
+2026-07-22,"North Little Rock, AR",19.6
+2026-07-29,"North Little Rock, AR",20.4
+2026-08-05,"North Little Rock, AR",19.8
+2026-08-12,"North Little Rock, AR",20.4
+2026-08-19,"North Little Rock, AR",20.8
+2026-08-26,"North Little Rock, AR",20.8
+2026-09-02,"North Little Rock, AR",21.5
+2026-09-09,"North Little Rock, AR",20.9
+2026-09-16,"North Little Rock, AR",20.2
+2026-09-23,"North Little Rock, AR",18.5
+2026-09-30,"North Little Rock, AR",18.9
+2026-10-07,"North Little Rock, AR",19.1
+2017-03-29,"North Platte East, NE",29.7
+2017-04-05,"North Platte East, NE",28.5
+2017-04-12,"North Platte East, NE",25.5
+2017-04-19,"North Platte East, NE",25.9
+2017-04-26,"North Platte East, NE",25.6
+2017-05-03,"North Platte East, NE",26.7
+2017-05-10,"North Platte East, NE",28.5
+2017-05-17,"North Platte East, NE",26.0
+2017-05-24,"North Platte East, NE",26.1
+2017-05-31,"North Platte East, NE",26.1
+2017-06-07,"North Platte East, NE",30.6
+2017-06-14,"North Platte East, NE",25.8
+2017-06-21,"North Platte East, NE",27.7
+2017-06-28,"North Platte East, NE",28.8
+2017-07-05,"North Platte East, NE",26.5
+2017-07-12,"North Platte East, NE",33.7
+2017-07-19,"North Platte East, NE",27.8
+2017-07-26,"North Platte East, NE",28.4
+2017-08-02,"North Platte East, NE",28.3
+2017-08-09,"North Platte East, NE",28.2
+2017-08-16,"North Platte East, NE",27.2
+2017-08-23,"North Platte East, NE",27.8
+2017-08-30,"North Platte East, NE",27.7
+2017-09-06,"North Platte East, NE",28.7
+2017-09-13,"North Platte East, NE",29.4
+2017-09-20,"North Platte East, NE",27.0
+2017-09-27,"North Platte East, NE",26.7
+2017-10-04,"North Platte East, NE",28.2
+2017-10-11,"North Platte East, NE",27.8
+2017-10-18,"North Platte East, NE",27.7
+2017-10-25,"North Platte East, NE",27.4
+2017-11-01,"North Platte East, NE",30.8
+2017-11-08,"North Platte East, NE",32.4
+2017-11-15,"North Platte East, NE",30.3
+2017-11-22,"North Platte East, NE",30.4
+2017-11-29,"North Platte East, NE",31.1
+2017-12-06,"North Platte East, NE",34.2
+2017-12-13,"North Platte East, NE",30.3
+2017-12-20,"North Platte East, NE",29.6
+2017-12-27,"North Platte East, NE",28.4
+2018-01-03,"North Platte East, NE",54.7
+2018-01-10,"North Platte East, NE",48.7
+2018-01-17,"North Platte East, NE",32.8
+2018-01-24,"North Platte East, NE",33.7
+2018-01-31,"North Platte East, NE",31.2
+2018-02-07,"North Platte East, NE",30.0
+2018-02-14,"North Platte East, NE",34.0
+2018-02-21,"North Platte East, NE",39.1
+2018-02-28,"North Platte East, NE",39.0
+2018-03-07,"North Platte East, NE",31.6
+2018-03-14,"North Platte East, NE",27.7
+2018-03-21,"North Platte East, NE",26.7
+2018-03-28,"North Platte East, NE",24.7
+2018-04-04,"North Platte East, NE",24.6
+2018-04-11,"North Platte East, NE",26.7
+2018-04-18,"North Platte East, NE",26.3
+2018-04-25,"North Platte East, NE",27.3
+2018-05-02,"North Platte East, NE",25.7
+2018-05-09,"North Platte East, NE",25.9
+2018-05-16,"North Platte East, NE",26.1
+2018-05-23,"North Platte East, NE",28.7
+2018-05-30,"North Platte East, NE",27.2
+2018-06-06,"North Platte East, NE",26.7
+2018-06-13,"North Platte East, NE",24.3
+2018-06-20,"North Platte East, NE",25.7
+2018-06-27,"North Platte East, NE",23.6
+2018-07-04,"North Platte East, NE",25.7
+2018-07-11,"North Platte East, NE",25.9
+2018-07-18,"North Platte East, NE",24.0
+2018-07-25,"North Platte East, NE",23.1
+2018-08-01,"North Platte East, NE",24.9
+2018-08-08,"North Platte East, NE",24.5
+2018-08-15,"North Platte East, NE",24.2
+2018-08-22,"North Platte East, NE",24.5
+2018-08-29,"North Platte East, NE",25.9
+2018-09-05,"North Platte East, NE",25.1
+2018-09-12,"North Platte East, NE",25.3
+2018-09-19,"North Platte East, NE",24.3
+2018-09-26,"North Platte East, NE",24.7
+2018-10-03,"North Platte East, NE",24.3
+2018-10-10,"North Platte East, NE",24.0
+2018-10-17,"North Platte East, NE",23.9
+2018-10-24,"North Platte East, NE",26.7
+2018-10-31,"North Platte East, NE",24.9
+2018-11-07,"North Platte East, NE",23.8
+2018-11-14,"North Platte East, NE",24.2
+2018-11-21,"North Platte East, NE",23.4
+2018-11-28,"North Platte East, NE",23.2
+2018-12-05,"North Platte East, NE",22.0
+2018-12-12,"North Platte East, NE",25.5
+2018-12-19,"North Platte East, NE",23.9
+2018-12-26,"North Platte East, NE",23.9
+2019-01-02,"North Platte East, NE",23.0
+2019-01-09,"North Platte East, NE",23.0
+2019-01-16,"North Platte East, NE",21.5
+2019-01-23,"North Platte East, NE",23.1
+2019-01-30,"North Platte East, NE",23.8
+2019-02-06,"North Platte East, NE",26.8
+2019-02-13,"North Platte East, NE",26.0
+2019-02-20,"North Platte East, NE",24.1
+2019-02-27,"North Platte East, NE",26.5
+2019-03-06,"North Platte East, NE",26.9
+2019-03-13,"North Platte East, NE",27.9
+2019-03-20,"North Platte East, NE",27.5
+2019-03-27,"North Platte East, NE",24.1
+2019-04-03,"North Platte East, NE",23.5
+2019-04-10,"North Platte East, NE",23.0
+2019-04-17,"North Platte East, NE",21.5
+2019-04-24,"North Platte East, NE",22.2
+2019-05-01,"North Platte East, NE",21.9
+2019-05-08,"North Platte East, NE",21.5
+2019-05-15,"North Platte East, NE",24.8
+2019-05-22,"North Platte East, NE",23.6
+2019-05-29,"North Platte East, NE",23.7
+2019-06-05,"North Platte East, NE",22.8
+2019-06-12,"North Platte East, NE",22.7
+2019-06-19,"North Platte East, NE",23.9
+2019-06-26,"North Platte East, NE",24.3
+2019-07-03,"North Platte East, NE",25.4
+2019-07-10,"North Platte East, NE",25.4
+2019-07-17,"North Platte East, NE",24.1
+2019-07-24,"North Platte East, NE",24.7
+2019-07-31,"North Platte East, NE",26.3
+2019-08-07,"North Platte East, NE",24.7
+2019-08-14,"North Platte East, NE",23.2
+2019-08-21,"North Platte East, NE",22.5
+2019-08-28,"North Platte East, NE",22.9
+2019-09-04,"North Platte East, NE",22.1
+2019-09-11,"North Platte East, NE",22.6
+2019-09-18,"North Platte East, NE",20.4
+2019-09-25,"North Platte East, NE",22.5
+2019-10-02,"North Platte East, NE",22.0
+2019-10-09,"North Platte East, NE",21.7
+2019-10-16,"North Platte East, NE",22.0
+2019-10-23,"North Platte East, NE",21.2
+2019-10-30,"North Platte East, NE",21.6
+2019-11-06,"North Platte East, NE",21.0
+2019-11-13,"North Platte East, NE",22.1
+2019-11-20,"North Platte East, NE",25.3
+2019-11-27,"North Platte East, NE",24.3
+2019-12-04,"North Platte East, NE",21.5
+2019-12-11,"North Platte East, NE",21.0
+2019-12-18,"North Platte East, NE",21.6
+2019-12-25,"North Platte East, NE",22.9
+2020-01-01,"North Platte East, NE",23.1
+2020-01-08,"North Platte East, NE",23.5
+2020-01-15,"North Platte East, NE",20.1
+2020-01-22,"North Platte East, NE",23.7
+2020-01-29,"North Platte East, NE",21.0
+2020-02-05,"North Platte East, NE",22.2
+2020-02-12,"North Platte East, NE",20.4
+2020-02-19,"North Platte East, NE",21.2
+2020-02-26,"North Platte East, NE",20.6
+2020-03-04,"North Platte East, NE",19.3
+2020-03-11,"North Platte East, NE",18.3
+2020-03-18,"North Platte East, NE",20.5
+2020-03-25,"North Platte East, NE",18.9
+2020-04-01,"North Platte East, NE",19.6
+2020-04-08,"North Platte East, NE",18.1
+2020-04-15,"North Platte East, NE",20.5
+2020-04-22,"North Platte East, NE",19.8
+2020-04-29,"North Platte East, NE",20.5
+2020-05-06,"North Platte East, NE",19.2
+2020-05-13,"North Platte East, NE",20.0
+2020-05-20,"North Platte East, NE",18.8
+2020-05-27,"North Platte East, NE",19.8
+2020-06-03,"North Platte East, NE",20.3
+2020-06-10,"North Platte East, NE",19.6
+2020-06-17,"North Platte East, NE",20.4
+2020-06-24,"North Platte East, NE",19.8
+2020-07-01,"North Platte East, NE",19.9
+2020-07-08,"North Platte East, NE",21.1
+2020-07-15,"North Platte East, NE",19.5
+2020-07-22,"North Platte East, NE",20.7
+2020-07-29,"North Platte East, NE",20.3
+2020-08-05,"North Platte East, NE",20.6
+2020-08-12,"North Platte East, NE",20.3
+2020-08-19,"North Platte East, NE",20.7
+2020-08-26,"North Platte East, NE",20.4
+2020-09-02,"North Platte East, NE",23.5
+2020-09-09,"North Platte East, NE",21.0
+2020-09-16,"North Platte East, NE",20.5
+2020-09-23,"North Platte East, NE",29.1
+2020-09-30,"North Platte East, NE",43.9
+2023-04-19,"North Platte East, NE",0.0
+2017-03-29,"North Platte West, NE",28.1
+2017-04-05,"North Platte West, NE",31.3
+2017-04-12,"North Platte West, NE",29.7
+2017-04-19,"North Platte West, NE",29.6
+2017-04-26,"North Platte West, NE",31.9
+2017-05-03,"North Platte West, NE",31.8
+2017-05-10,"North Platte West, NE",33.9
+2017-05-17,"North Platte West, NE",29.7
+2017-05-24,"North Platte West, NE",32.1
+2017-05-31,"North Platte West, NE",29.9
+2017-06-07,"North Platte West, NE",32.8
+2017-06-14,"North Platte West, NE",28.5
+2017-06-21,"North Platte West, NE",32.0
+2017-06-28,"North Platte West, NE",31.4
+2017-07-05,"North Platte West, NE",29.8
+2017-07-12,"North Platte West, NE",36.3
+2017-07-19,"North Platte West, NE",33.7
+2017-07-26,"North Platte West, NE",29.9
+2017-08-02,"North Platte West, NE",29.1
+2017-08-09,"North Platte West, NE",33.7
+2017-08-16,"North Platte West, NE",32.9
+2017-08-23,"North Platte West, NE",32.1
+2017-08-30,"North Platte West, NE",28.9
+2017-09-06,"North Platte West, NE",36.3
+2017-09-13,"North Platte West, NE",37.1
+2017-09-20,"North Platte West, NE",33.2
+2017-09-27,"North Platte West, NE",29.8
+2017-10-04,"North Platte West, NE",30.1
+2017-10-11,"North Platte West, NE",29.9
+2017-10-18,"North Platte West, NE",30.3
+2017-10-25,"North Platte West, NE",32.8
+2017-11-01,"North Platte West, NE",34.0
+2017-11-08,"North Platte West, NE",38.2
+2017-11-15,"North Platte West, NE",45.3
+2017-11-22,"North Platte West, NE",49.3
+2017-11-29,"North Platte West, NE",40.3
+2017-12-06,"North Platte West, NE",36.8
+2017-12-13,"North Platte West, NE",38.7
+2017-12-20,"North Platte West, NE",38.9
+2017-12-27,"North Platte West, NE",31.3
+2018-01-03,"North Platte West, NE",64.5
+2018-01-10,"North Platte West, NE",60.8
+2018-01-17,"North Platte West, NE",44.4
+2018-01-24,"North Platte West, NE",44.2
+2018-01-31,"North Platte West, NE",40.5
+2018-02-07,"North Platte West, NE",40.9
+2018-02-14,"North Platte West, NE",44.1
+2018-02-21,"North Platte West, NE",39.9
+2018-02-28,"North Platte West, NE",40.1
+2018-03-07,"North Platte West, NE",39.1
+2018-03-14,"North Platte West, NE",28.2
+2018-03-21,"North Platte West, NE",27.5
+2018-03-28,"North Platte West, NE",27.3
+2018-04-04,"North Platte West, NE",27.3
+2018-04-11,"North Platte West, NE",25.8
+2018-04-18,"North Platte West, NE",27.8
+2018-04-25,"North Platte West, NE",32.6
+2018-05-02,"North Platte West, NE",28.1
+2018-05-09,"North Platte West, NE",30.7
+2018-05-16,"North Platte West, NE",30.6
+2018-05-23,"North Platte West, NE",28.5
+2018-05-30,"North Platte West, NE",28.7
+2018-06-06,"North Platte West, NE",28.9
+2018-06-13,"North Platte West, NE",27.2
+2018-06-20,"North Platte West, NE",27.2
+2018-06-27,"North Platte West, NE",27.3
+2018-07-04,"North Platte West, NE",27.1
+2018-07-11,"North Platte West, NE",27.5
+2018-07-18,"North Platte West, NE",26.5
+2018-07-25,"North Platte West, NE",26.9
+2018-08-01,"North Platte West, NE",28.1
+2018-08-08,"North Platte West, NE",26.6
+2018-08-15,"North Platte West, NE",27.6
+2018-08-22,"North Platte West, NE",27.5
+2018-08-29,"North Platte West, NE",27.0
+2018-09-05,"North Platte West, NE",27.6
+2018-09-12,"North Platte West, NE",27.4
+2018-09-19,"North Platte West, NE",26.3
+2018-09-26,"North Platte West, NE",25.9
+2018-10-03,"North Platte West, NE",26.1
+2018-10-10,"North Platte West, NE",26.0
+2018-10-17,"North Platte West, NE",30.4
+2018-10-24,"North Platte West, NE",28.9
+2018-10-31,"North Platte West, NE",25.5
+2018-11-07,"North Platte West, NE",27.0
+2018-11-14,"North Platte West, NE",26.7
+2018-11-21,"North Platte West, NE",26.4
+2018-11-28,"North Platte West, NE",25.2
+2018-12-05,"North Platte West, NE",29.6
+2018-12-12,"North Platte West, NE",28.4
+2018-12-19,"North Platte West, NE",32.8
+2018-12-26,"North Platte West, NE",30.1
+2019-01-02,"North Platte West, NE",27.6
+2019-01-09,"North Platte West, NE",26.8
+2019-01-16,"North Platte West, NE",23.4
+2019-01-23,"North Platte West, NE",26.1
+2019-01-30,"North Platte West, NE",26.6
+2019-02-06,"North Platte West, NE",27.3
+2019-02-13,"North Platte West, NE",30.2
+2019-02-20,"North Platte West, NE",31.0
+2019-02-27,"North Platte West, NE",36.6
+2019-03-06,"North Platte West, NE",33.3
+2019-03-13,"North Platte West, NE",33.3
+2019-03-20,"North Platte West, NE",37.2
+2019-03-27,"North Platte West, NE",27.6
+2019-04-03,"North Platte West, NE",23.5
+2019-04-10,"North Platte West, NE",28.5
+2019-04-17,"North Platte West, NE",24.3
+2019-04-24,"North Platte West, NE",24.6
+2019-05-01,"North Platte West, NE",24.3
+2019-05-08,"North Platte West, NE",27.9
+2019-05-15,"North Platte West, NE",32.1
+2019-05-22,"North Platte West, NE",30.0
+2019-05-29,"North Platte West, NE",27.1
+2019-06-05,"North Platte West, NE",22.8
+2019-06-12,"North Platte West, NE",22.8
+2019-06-19,"North Platte West, NE",25.0
+2019-06-26,"North Platte West, NE",23.4
+2019-07-03,"North Platte West, NE",24.4
+2019-07-10,"North Platte West, NE",26.1
+2019-07-17,"North Platte West, NE",22.9
+2019-07-24,"North Platte West, NE",23.7
+2019-07-31,"North Platte West, NE",30.9
+2019-08-07,"North Platte West, NE",32.8
+2019-08-14,"North Platte West, NE",23.5
+2019-08-21,"North Platte West, NE",23.7
+2019-08-28,"North Platte West, NE",24.5
+2019-09-04,"North Platte West, NE",23.7
+2019-09-11,"North Platte West, NE",22.6
+2019-09-18,"North Platte West, NE",20.6
+2019-09-25,"North Platte West, NE",22.4
+2019-10-02,"North Platte West, NE",24.6
+2019-10-09,"North Platte West, NE",22.1
+2019-10-16,"North Platte West, NE",20.5
+2019-10-23,"North Platte West, NE",22.3
+2019-10-30,"North Platte West, NE",21.5
+2019-11-06,"North Platte West, NE",22.0
+2019-11-13,"North Platte West, NE",21.3
+2019-11-20,"North Platte West, NE",24.0
+2019-11-27,"North Platte West, NE",23.0
+2019-12-04,"North Platte West, NE",24.3
+2019-12-11,"North Platte West, NE",22.8
+2019-12-18,"North Platte West, NE",22.1
+2019-12-25,"North Platte West, NE",25.2
+2020-01-01,"North Platte West, NE",24.8
+2020-01-08,"North Platte West, NE",24.3
+2020-01-15,"North Platte West, NE",19.8
+2020-01-22,"North Platte West, NE",23.2
+2020-01-29,"North Platte West, NE",22.7
+2020-02-05,"North Platte West, NE",22.8
+2020-02-12,"North Platte West, NE",22.5
+2020-02-19,"North Platte West, NE",23.0
+2020-02-26,"North Platte West, NE",23.9
+2020-03-04,"North Platte West, NE",24.5
+2020-03-11,"North Platte West, NE",21.7
+2020-03-18,"North Platte West, NE",23.1
+2020-03-25,"North Platte West, NE",23.1
+2020-04-01,"North Platte West, NE",21.8
+2020-04-08,"North Platte West, NE",19.8
+2020-04-15,"North Platte West, NE",20.5
+2020-04-22,"North Platte West, NE",21.5
+2020-04-29,"North Platte West, NE",22.5
+2020-05-06,"North Platte West, NE",21.6
+2020-05-13,"North Platte West, NE",20.4
+2020-05-20,"North Platte West, NE",21.6
+2020-05-27,"North Platte West, NE",24.0
+2020-06-03,"North Platte West, NE",24.6
+2020-06-10,"North Platte West, NE",23.5
+2020-06-17,"North Platte West, NE",23.9
+2020-06-24,"North Platte West, NE",28.8
+2020-07-01,"North Platte West, NE",27.1
+2020-07-08,"North Platte West, NE",25.8
+2020-07-15,"North Platte West, NE",24.1
+2020-07-22,"North Platte West, NE",22.6
+2020-07-29,"North Platte West, NE",21.5
+2020-08-05,"North Platte West, NE",22.3
+2020-08-12,"North Platte West, NE",20.9
+2020-08-19,"North Platte West, NE",21.2
+2020-08-26,"North Platte West, NE",21.1
+2020-09-02,"North Platte West, NE",23.7
+2020-09-09,"North Platte West, NE",22.6
+2020-09-16,"North Platte West, NE",23.8
+2020-09-23,"North Platte West, NE",28.9
+2020-09-30,"North Platte West, NE",26.6
+2020-10-07,"North Platte West, NE",30.6
+2020-10-14,"North Platte West, NE",29.9
+2020-10-21,"North Platte West, NE",29.1
+2020-10-28,"North Platte West, NE",26.8
+2020-11-04,"North Platte West, NE",29.7
+2020-11-11,"North Platte West, NE",25.2
+2020-11-18,"North Platte West, NE",26.8
+2020-11-25,"North Platte West, NE",24.0
+2020-12-02,"North Platte West, NE",22.5
+2020-12-09,"North Platte West, NE",20.8
+2020-12-16,"North Platte West, NE",22.3
+2020-12-23,"North Platte West, NE",23.0
+2020-12-30,"North Platte West, NE",22.7
+2021-01-06,"North Platte West, NE",23.3
+2021-01-13,"North Platte West, NE",21.3
+2021-01-20,"North Platte West, NE",23.3
+2021-01-27,"North Platte West, NE",25.9
+2021-02-03,"North Platte West, NE",27.0
+2021-02-10,"North Platte West, NE",24.8
+2021-02-17,"North Platte West, NE",36.5
+2021-02-24,"North Platte West, NE",52.4
+2021-03-03,"North Platte West, NE",36.4
+2021-03-10,"North Platte West, NE",29.8
+2021-03-17,"North Platte West, NE",32.3
+2021-03-24,"North Platte West, NE",45.3
+2021-03-31,"North Platte West, NE",42.8
+2021-04-07,"North Platte West, NE",40.6
+2021-04-14,"North Platte West, NE",34.5
+2021-04-21,"North Platte West, NE",29.4
+2021-04-28,"North Platte West, NE",31.8
+2021-05-05,"North Platte West, NE",28.8
+2021-05-12,"North Platte West, NE",28.2
+2021-05-19,"North Platte West, NE",23.6
+2021-05-26,"North Platte West, NE",29.0
+2021-06-02,"North Platte West, NE",32.9
+2021-06-09,"North Platte West, NE",33.1
+2021-06-16,"North Platte West, NE",32.0
+2021-06-23,"North Platte West, NE",33.5
+2021-06-30,"North Platte West, NE",40.0
+2021-07-07,"North Platte West, NE",31.6
+2021-07-14,"North Platte West, NE",29.1
+2021-07-21,"North Platte West, NE",30.1
+2021-07-28,"North Platte West, NE",35.9
+2021-08-04,"North Platte West, NE",31.1
+2021-08-11,"North Platte West, NE",34.3
+2021-08-18,"North Platte West, NE",32.0
+2021-08-25,"North Platte West, NE",34.7
+2021-09-01,"North Platte West, NE",34.3
+2021-09-08,"North Platte West, NE",37.4
+2021-09-15,"North Platte West, NE",35.0
+2021-09-22,"North Platte West, NE",31.8
+2021-09-29,"North Platte West, NE",25.4
+2021-10-06,"North Platte West, NE",27.2
+2021-10-13,"North Platte West, NE",36.4
+2021-10-20,"North Platte West, NE",41.6
+2021-10-27,"North Platte West, NE",41.5
+2021-11-03,"North Platte West, NE",39.2
+2021-11-10,"North Platte West, NE",43.7
+2021-11-17,"North Platte West, NE",34.8
+2021-11-24,"North Platte West, NE",26.8
+2021-12-01,"North Platte West, NE",29.7
+2021-12-08,"North Platte West, NE",31.8
+2021-12-15,"North Platte West, NE",28.6
+2021-12-22,"North Platte West, NE",33.5
+2021-12-29,"North Platte West, NE",35.3
+2022-01-05,"North Platte West, NE",37.7
+2022-01-12,"North Platte West, NE",44.2
+2022-01-19,"North Platte West, NE",30.9
+2022-01-26,"North Platte West, NE",23.6
+2022-02-02,"North Platte West, NE",23.6
+2022-02-09,"North Platte West, NE",26.2
+2022-02-16,"North Platte West, NE",25.6
+2022-02-23,"North Platte West, NE",27.7
+2022-03-02,"North Platte West, NE",30.3
+2022-03-09,"North Platte West, NE",35.9
+2022-03-16,"North Platte West, NE",39.5
+2022-03-23,"North Platte West, NE",32.5
+2022-03-30,"North Platte West, NE",32.2
+2022-04-06,"North Platte West, NE",34.0
+2022-04-13,"North Platte West, NE",38.2
+2022-04-20,"North Platte West, NE",39.0
+2022-04-27,"North Platte West, NE",38.5
+2022-05-04,"North Platte West, NE",36.8
+2022-05-11,"North Platte West, NE",32.7
+2022-05-18,"North Platte West, NE",27.1
+2022-05-25,"North Platte West, NE",27.8
+2022-06-01,"North Platte West, NE",28.9
+2022-06-08,"North Platte West, NE",26.4
+2022-06-15,"North Platte West, NE",25.7
+2022-06-22,"North Platte West, NE",27.2
+2022-06-29,"North Platte West, NE",27.3
+2022-07-06,"North Platte West, NE",26.1
+2022-07-13,"North Platte West, NE",25.7
+2022-07-20,"North Platte West, NE",30.6
+2022-07-27,"North Platte West, NE",34.9
+2022-08-03,"North Platte West, NE",31.5
+2022-08-10,"North Platte West, NE",36.6
+2022-08-17,"North Platte West, NE",35.0
+2022-08-24,"North Platte West, NE",34.0
+2022-08-31,"North Platte West, NE",35.0
+2022-09-07,"North Platte West, NE",26.9
+2022-09-14,"North Platte West, NE",27.1
+2022-09-21,"North Platte West, NE",32.7
+2022-09-28,"North Platte West, NE",34.4
+2022-10-05,"North Platte West, NE",30.4
+2022-10-12,"North Platte West, NE",23.3
+2022-10-19,"North Platte West, NE",21.7
+2022-10-26,"North Platte West, NE",25.5
+2022-11-02,"North Platte West, NE",24.7
+2022-11-09,"North Platte West, NE",29.4
+2022-11-16,"North Platte West, NE",28.9
+2022-11-23,"North Platte West, NE",27.9
+2022-11-30,"North Platte West, NE",23.5
+2022-12-07,"North Platte West, NE",27.5
+2022-12-14,"North Platte West, NE",28.2
+2022-12-21,"North Platte West, NE",29.8
+2022-12-28,"North Platte West, NE",35.0
+2023-01-04,"North Platte West, NE",35.6
+2023-01-11,"North Platte West, NE",30.4
+2023-01-18,"North Platte West, NE",24.2
+2023-01-25,"North Platte West, NE",33.7
+2023-02-01,"North Platte West, NE",37.2
+2023-02-08,"North Platte West, NE",36.0
+2023-02-15,"North Platte West, NE",30.9
+2023-02-22,"North Platte West, NE",26.2
+2023-03-01,"North Platte West, NE",33.7
+2023-03-08,"North Platte West, NE",36.8
+2023-03-15,"North Platte West, NE",35.0
+2023-03-22,"North Platte West, NE",38.3
+2023-03-29,"North Platte West, NE",39.3
+2023-04-05,"North Platte West, NE",35.3
+2023-04-12,"North Platte West, NE",30.6
+2023-04-19,"North Platte West, NE",23.6
+2023-04-26,"North Platte West, NE",20.8
+2023-05-03,"North Platte West, NE",22.7
+2023-05-10,"North Platte West, NE",22.9
+2023-05-17,"North Platte West, NE",23.2
+2023-05-24,"North Platte West, NE",24.7
+2023-05-31,"North Platte West, NE",27.5
+2023-06-07,"North Platte West, NE",25.8
+2023-06-14,"North Platte West, NE",23.1
+2023-06-21,"North Platte West, NE",22.3
+2023-06-28,"North Platte West, NE",31.1
+2023-07-05,"North Platte West, NE",23.6
+2023-07-12,"North Platte West, NE",32.7
+2023-07-19,"North Platte West, NE",34.3
+2023-07-26,"North Platte West, NE",28.1
+2023-08-02,"North Platte West, NE",30.6
+2023-08-09,"North Platte West, NE",30.2
+2023-08-16,"North Platte West, NE",30.7
+2023-08-23,"North Platte West, NE",23.4
+2023-08-30,"North Platte West, NE",29.2
+2023-09-06,"North Platte West, NE",29.6
+2023-09-13,"North Platte West, NE",27.8
+2023-09-20,"North Platte West, NE",27.0
+2023-09-27,"North Platte West, NE",36.4
+2023-10-04,"North Platte West, NE",33.4
+2023-10-11,"North Platte West, NE",34.0
+2023-10-18,"North Platte West, NE",27.8
+2023-10-25,"North Platte West, NE",24.6
+2023-11-01,"North Platte West, NE",24.8
+2023-11-08,"North Platte West, NE",29.9
+2023-11-15,"North Platte West, NE",23.8
+2023-11-22,"North Platte West, NE",20.5
+2023-11-29,"North Platte West, NE",20.4
+2023-12-06,"North Platte West, NE",20.7
+2023-12-13,"North Platte West, NE",19.7
+2023-12-20,"North Platte West, NE",21.4
+2023-12-27,"North Platte West, NE",23.3
+2024-01-03,"North Platte West, NE",26.7
+2024-01-10,"North Platte West, NE",19.5
+2024-01-17,"North Platte West, NE",24.8
+2024-01-24,"North Platte West, NE",32.8
+2024-01-31,"North Platte West, NE",29.5
+2024-02-07,"North Platte West, NE",30.8
+2024-02-14,"North Platte West, NE",30.3
+2024-02-21,"North Platte West, NE",25.9
+2024-02-28,"North Platte West, NE",28.3
+2024-03-06,"North Platte West, NE",24.3
+2024-03-13,"North Platte West, NE",24.4
+2024-03-20,"North Platte West, NE",31.5
+2024-03-27,"North Platte West, NE",23.7
+2024-04-03,"North Platte West, NE",24.4
+2024-04-10,"North Platte West, NE",23.2
+2024-04-17,"North Platte West, NE",23.9
+2024-04-24,"North Platte West, NE",27.4
+2024-05-01,"North Platte West, NE",26.3
+2024-05-08,"North Platte West, NE",22.8
+2024-05-15,"North Platte West, NE",28.9
+2024-05-22,"North Platte West, NE",24.6
+2024-05-29,"North Platte West, NE",22.5
+2024-06-05,"North Platte West, NE",21.3
+2024-06-12,"North Platte West, NE",20.1
+2024-06-19,"North Platte West, NE",24.1
+2024-06-26,"North Platte West, NE",21.1
+2024-07-03,"North Platte West, NE",25.7
+2024-07-10,"North Platte West, NE",23.7
+2024-07-17,"North Platte West, NE",20.1
+2024-07-24,"North Platte West, NE",22.9
+2024-07-31,"North Platte West, NE",24.8
+2024-08-07,"North Platte West, NE",22.4
+2024-08-14,"North Platte West, NE",28.3
+2024-08-21,"North Platte West, NE",26.8
+2024-08-28,"North Platte West, NE",28.6
+2024-09-04,"North Platte West, NE",28.0
+2024-09-11,"North Platte West, NE",24.5
+2024-09-18,"North Platte West, NE",21.2
+2024-09-25,"North Platte West, NE",23.7
+2024-10-02,"North Platte West, NE",23.6
+2024-10-09,"North Platte West, NE",24.0
+2024-10-16,"North Platte West, NE",23.7
+2024-10-23,"North Platte West, NE",22.5
+2024-10-30,"North Platte West, NE",26.0
+2024-11-06,"North Platte West, NE",23.5
+2024-11-13,"North Platte West, NE",26.1
+2024-11-20,"North Platte West, NE",27.1
+2024-11-27,"North Platte West, NE",28.6
+2024-12-04,"North Platte West, NE",22.9
+2024-12-11,"North Platte West, NE",20.2
+2024-12-18,"North Platte West, NE",24.0
+2024-12-25,"North Platte West, NE",24.1
+2025-01-01,"North Platte West, NE",24.7
+2025-01-08,"North Platte West, NE",21.5
+2025-01-15,"North Platte West, NE",19.0
+2025-01-22,"North Platte West, NE",20.9
+2025-01-29,"North Platte West, NE",23.8
+2025-02-05,"North Platte West, NE",22.8
+2025-02-12,"North Platte West, NE",23.9
+2025-02-19,"North Platte West, NE",31.7
+2025-02-26,"North Platte West, NE",34.8
+2025-03-05,"North Platte West, NE",23.0
+2025-03-12,"North Platte West, NE",19.5
+2025-03-19,"North Platte West, NE",21.1
+2025-03-26,"North Platte West, NE",20.0
+2025-04-02,"North Platte West, NE",23.6
+2025-04-09,"North Platte West, NE",23.3
+2025-04-16,"North Platte West, NE",21.9
+2025-04-23,"North Platte West, NE",21.9
+2025-04-30,"North Platte West, NE",21.0
+2025-05-07,"North Platte West, NE",19.3
+2025-05-14,"North Platte West, NE",19.5
+2025-05-21,"North Platte West, NE",19.3
+2025-05-28,"North Platte West, NE",19.4
+2025-06-04,"North Platte West, NE",19.3
+2025-06-11,"North Platte West, NE",20.6
+2025-06-18,"North Platte West, NE",20.1
+2025-06-25,"North Platte West, NE",20.3
+2025-07-02,"North Platte West, NE",20.8
+2025-07-09,"North Platte West, NE",22.5
+2025-07-16,"North Platte West, NE",19.6
+2025-07-23,"North Platte West, NE",20.1
+2025-07-30,"North Platte West, NE",21.3
+2025-08-06,"North Platte West, NE",19.7
+2025-08-13,"North Platte West, NE",19.7
+2025-08-20,"North Platte West, NE",20.0
+2025-08-27,"North Platte West, NE",18.8
+2025-09-03,"North Platte West, NE",19.1
+2025-09-10,"North Platte West, NE",20.2
+2025-09-17,"North Platte West, NE",18.4
+2025-09-24,"North Platte West, NE",19.9
+2025-10-01,"North Platte West, NE",19.3
+2025-10-08,"North Platte West, NE",19.7
+2025-10-15,"North Platte West, NE",18.1
+2025-10-22,"North Platte West, NE",17.3
+2025-10-29,"North Platte West, NE",20.3
+2025-11-05,"North Platte West, NE",19.2
+2025-11-12,"North Platte West, NE",20.1
+2025-11-19,"North Platte West, NE",18.2
+2025-11-26,"North Platte West, NE",19.8
+2025-12-03,"North Platte West, NE",19.2
+2025-12-10,"North Platte West, NE",19.1
+2025-12-17,"North Platte West, NE",18.5
+2025-12-24,"North Platte West, NE",19.4
+2025-12-31,"North Platte West, NE",22.3
+2026-01-07,"North Platte West, NE",18.4
+2026-01-14,"North Platte West, NE",17.3
+2026-01-21,"North Platte West, NE",18.0
+2026-01-28,"North Platte West, NE",19.6
+2026-02-04,"North Platte West, NE",20.5
+2026-02-11,"North Platte West, NE",19.2
+2026-02-18,"North Platte West, NE",19.7
+2026-02-25,"North Platte West, NE",21.6
+2026-03-04,"North Platte West, NE",20.8
+2026-03-11,"North Platte West, NE",18.9
+2026-03-18,"North Platte West, NE",23.1
+2026-03-25,"North Platte West, NE",20.8
+2026-04-01,"North Platte West, NE",19.8
+2026-04-08,"North Platte West, NE",19.5
+2026-04-15,"North Platte West, NE",18.8
+2026-04-22,"North Platte West, NE",18.7
+2026-04-29,"North Platte West, NE",19.3
+2026-05-06,"North Platte West, NE",21.8
+2026-05-13,"North Platte West, NE",17.9
+2026-05-20,"North Platte West, NE",18.0
+2026-05-27,"North Platte West, NE",18.3
+2026-06-03,"North Platte West, NE",18.3
+2026-06-10,"North Platte West, NE",19.1
+2026-06-17,"North Platte West, NE",20.7
+2026-06-24,"North Platte West, NE",19.3
+2026-07-01,"North Platte West, NE",18.2
+2026-07-08,"North Platte West, NE",18.1
+2026-07-15,"North Platte West, NE",19.0
+2026-07-22,"North Platte West, NE",18.6
+2026-07-29,"North Platte West, NE",17.8
+2026-08-05,"North Platte West, NE",19.6
+2026-08-12,"North Platte West, NE",20.4
+2026-08-19,"North Platte West, NE",20.7
+2026-08-26,"North Platte West, NE",19.1
+2026-09-02,"North Platte West, NE",19.4
+2026-09-09,"North Platte West, NE",20.0
+2026-09-16,"North Platte West, NE",19.1
+2026-09-23,"North Platte West, NE",18.7
+2026-09-30,"North Platte West, NE",19.7
+2026-10-07,"North Platte West, NE",19.3
+2017-03-29,"Pine Bluff, AR",28.7
+2017-04-05,"Pine Bluff, AR",29.9
+2017-04-12,"Pine Bluff, AR",31.4
+2017-04-19,"Pine Bluff, AR",31.9
+2017-04-26,"Pine Bluff, AR",30.7
+2017-05-03,"Pine Bluff, AR",28.1
+2017-05-10,"Pine Bluff, AR",28.5
+2017-05-17,"Pine Bluff, AR",27.5
+2017-05-24,"Pine Bluff, AR",27.8
+2017-05-31,"Pine Bluff, AR",27.4
+2017-06-07,"Pine Bluff, AR",33.2
+2017-06-14,"Pine Bluff, AR",29.8
+2017-06-21,"Pine Bluff, AR",29.4
+2017-06-28,"Pine Bluff, AR",28.7
+2017-07-05,"Pine Bluff, AR",28.2
+2017-07-12,"Pine Bluff, AR",41.3
+2017-07-19,"Pine Bluff, AR",31.4
+2017-07-26,"Pine Bluff, AR",28.4
+2017-08-02,"Pine Bluff, AR",27.5
+2017-08-09,"Pine Bluff, AR",26.0
+2017-08-16,"Pine Bluff, AR",27.8
+2017-08-23,"Pine Bluff, AR",28.6
+2017-08-30,"Pine Bluff, AR",28.8
+2017-09-06,"Pine Bluff, AR",31.6
+2017-09-13,"Pine Bluff, AR",33.6
+2017-09-20,"Pine Bluff, AR",27.1
+2017-09-27,"Pine Bluff, AR",29.1
+2017-10-04,"Pine Bluff, AR",28.5
+2017-10-11,"Pine Bluff, AR",30.7
+2017-10-18,"Pine Bluff, AR",31.1
+2017-10-25,"Pine Bluff, AR",29.7
+2017-11-01,"Pine Bluff, AR",27.9
+2017-11-08,"Pine Bluff, AR",29.4
+2017-11-15,"Pine Bluff, AR",29.3
+2017-11-22,"Pine Bluff, AR",32.0
+2017-11-29,"Pine Bluff, AR",29.2
+2017-12-06,"Pine Bluff, AR",39.5
+2017-12-13,"Pine Bluff, AR",30.6
+2017-12-20,"Pine Bluff, AR",30.9
+2017-12-27,"Pine Bluff, AR",34.5
+2018-01-03,"Pine Bluff, AR",48.7
+2018-01-10,"Pine Bluff, AR",40.7
+2018-01-17,"Pine Bluff, AR",32.3
+2018-01-24,"Pine Bluff, AR",33.9
+2018-01-31,"Pine Bluff, AR",35.9
+2018-02-07,"Pine Bluff, AR",31.8
+2018-02-14,"Pine Bluff, AR",30.9
+2018-02-21,"Pine Bluff, AR",31.2
+2018-02-28,"Pine Bluff, AR",31.7
+2018-03-07,"Pine Bluff, AR",32.6
+2018-03-14,"Pine Bluff, AR",33.8
+2018-03-21,"Pine Bluff, AR",32.4
+2018-03-28,"Pine Bluff, AR",34.3
+2018-04-04,"Pine Bluff, AR",37.6
+2018-04-11,"Pine Bluff, AR",32.4
+2018-04-18,"Pine Bluff, AR",30.6
+2018-04-25,"Pine Bluff, AR",33.1
+2018-05-02,"Pine Bluff, AR",31.8
+2018-05-09,"Pine Bluff, AR",32.6
+2018-05-16,"Pine Bluff, AR",34.2
+2018-05-23,"Pine Bluff, AR",37.3
+2018-05-30,"Pine Bluff, AR",32.1
+2018-06-06,"Pine Bluff, AR",31.5
+2018-06-13,"Pine Bluff, AR",30.3
+2018-06-20,"Pine Bluff, AR",31.1
+2018-06-27,"Pine Bluff, AR",34.0
+2018-07-04,"Pine Bluff, AR",36.3
+2018-07-11,"Pine Bluff, AR",37.2
+2018-07-18,"Pine Bluff, AR",32.3
+2018-07-25,"Pine Bluff, AR",31.0
+2018-08-01,"Pine Bluff, AR",32.9
+2018-08-08,"Pine Bluff, AR",31.2
+2018-08-15,"Pine Bluff, AR",28.4
+2018-08-22,"Pine Bluff, AR",31.5
+2018-08-29,"Pine Bluff, AR",30.1
+2018-09-05,"Pine Bluff, AR",30.4
+2018-09-12,"Pine Bluff, AR",33.0
+2018-09-19,"Pine Bluff, AR",33.4
+2018-09-26,"Pine Bluff, AR",31.1
+2018-10-03,"Pine Bluff, AR",34.7
+2018-10-10,"Pine Bluff, AR",31.3
+2018-10-17,"Pine Bluff, AR",33.2
+2018-10-24,"Pine Bluff, AR",30.9
+2018-10-31,"Pine Bluff, AR",30.1
+2018-11-07,"Pine Bluff, AR",30.2
+2018-11-14,"Pine Bluff, AR",32.4
+2018-11-21,"Pine Bluff, AR",26.7
+2018-11-28,"Pine Bluff, AR",26.7
+2018-12-05,"Pine Bluff, AR",25.6
+2018-12-12,"Pine Bluff, AR",24.3
+2018-12-19,"Pine Bluff, AR",24.9
+2018-12-26,"Pine Bluff, AR",24.0
+2019-01-02,"Pine Bluff, AR",29.3
+2019-01-09,"Pine Bluff, AR",25.4
+2019-01-16,"Pine Bluff, AR",25.0
+2019-01-23,"Pine Bluff, AR",25.1
+2019-01-30,"Pine Bluff, AR",25.9
+2019-02-06,"Pine Bluff, AR",25.3
+2019-02-13,"Pine Bluff, AR",29.0
+2019-02-20,"Pine Bluff, AR",36.0
+2019-02-27,"Pine Bluff, AR",37.7
+2019-03-06,"Pine Bluff, AR",38.4
+2019-03-13,"Pine Bluff, AR",35.0
+2019-03-20,"Pine Bluff, AR",41.3
+2019-03-27,"Pine Bluff, AR",44.9
+2019-04-03,"Pine Bluff, AR",37.5
+2019-04-10,"Pine Bluff, AR",29.5
+2019-04-17,"Pine Bluff, AR",24.5
+2019-04-24,"Pine Bluff, AR",22.5
+2019-05-01,"Pine Bluff, AR",24.6
+2019-05-08,"Pine Bluff, AR",29.5
+2019-05-15,"Pine Bluff, AR",24.0
+2019-05-22,"Pine Bluff, AR",24.1
+2019-05-29,"Pine Bluff, AR",25.0
+2019-06-05,"Pine Bluff, AR",21.9
+2019-06-12,"Pine Bluff, AR",26.3
+2019-06-19,"Pine Bluff, AR",26.7
+2019-06-26,"Pine Bluff, AR",25.4
+2019-07-03,"Pine Bluff, AR",26.4
+2019-07-10,"Pine Bluff, AR",26.0
+2019-07-17,"Pine Bluff, AR",22.0
+2019-07-24,"Pine Bluff, AR",18.3
+2019-07-31,"Pine Bluff, AR",21.4
+2019-08-07,"Pine Bluff, AR",21.7
+2019-08-14,"Pine Bluff, AR",22.1
+2019-08-21,"Pine Bluff, AR",29.4
+2019-08-28,"Pine Bluff, AR",22.7
+2019-09-04,"Pine Bluff, AR",30.9
+2019-09-11,"Pine Bluff, AR",24.4
+2019-09-18,"Pine Bluff, AR",29.8
+2019-09-25,"Pine Bluff, AR",27.5
+2019-10-02,"Pine Bluff, AR",22.0
+2019-10-09,"Pine Bluff, AR",21.5
+2019-10-16,"Pine Bluff, AR",23.8
+2019-10-23,"Pine Bluff, AR",23.0
+2019-10-30,"Pine Bluff, AR",22.3
+2019-11-06,"Pine Bluff, AR",27.0
+2019-11-13,"Pine Bluff, AR",20.1
+2019-11-20,"Pine Bluff, AR",26.3
+2019-11-27,"Pine Bluff, AR",24.6
+2019-12-04,"Pine Bluff, AR",26.4
+2019-12-11,"Pine Bluff, AR",20.9
+2019-12-18,"Pine Bluff, AR",20.8
+2019-12-25,"Pine Bluff, AR",26.9
+2020-01-01,"Pine Bluff, AR",38.8
+2020-01-08,"Pine Bluff, AR",30.5
+2020-01-15,"Pine Bluff, AR",21.1
+2020-01-22,"Pine Bluff, AR",22.7
+2020-01-29,"Pine Bluff, AR",32.6
+2020-02-05,"Pine Bluff, AR",30.9
+2020-02-12,"Pine Bluff, AR",28.4
+2020-02-19,"Pine Bluff, AR",32.0
+2020-02-26,"Pine Bluff, AR",24.8
+2020-03-04,"Pine Bluff, AR",29.1
+2020-03-11,"Pine Bluff, AR",29.9
+2020-03-18,"Pine Bluff, AR",29.8
+2020-03-25,"Pine Bluff, AR",28.6
+2020-04-01,"Pine Bluff, AR",27.0
+2020-04-08,"Pine Bluff, AR",25.4
+2020-04-15,"Pine Bluff, AR",19.8
+2020-04-22,"Pine Bluff, AR",19.7
+2020-04-29,"Pine Bluff, AR",20.5
+2020-05-06,"Pine Bluff, AR",20.8
+2020-05-13,"Pine Bluff, AR",17.9
+2020-05-20,"Pine Bluff, AR",21.4
+2020-05-27,"Pine Bluff, AR",17.1
+2020-06-03,"Pine Bluff, AR",18.5
+2020-06-10,"Pine Bluff, AR",20.7
+2020-06-17,"Pine Bluff, AR",23.4
+2020-06-24,"Pine Bluff, AR",21.0
+2020-07-01,"Pine Bluff, AR",24.3
+2020-07-08,"Pine Bluff, AR",22.4
+2020-07-15,"Pine Bluff, AR",22.3
+2020-07-22,"Pine Bluff, AR",23.2
+2020-07-29,"Pine Bluff, AR",24.0
+2020-08-05,"Pine Bluff, AR",25.0
+2020-08-12,"Pine Bluff, AR",24.8
+2020-08-19,"Pine Bluff, AR",25.8
+2020-08-26,"Pine Bluff, AR",26.5
+2020-09-02,"Pine Bluff, AR",25.0
+2020-09-09,"Pine Bluff, AR",27.4
+2020-09-16,"Pine Bluff, AR",23.9
+2020-09-23,"Pine Bluff, AR",25.8
+2020-09-30,"Pine Bluff, AR",24.7
+2020-10-07,"Pine Bluff, AR",23.6
+2020-10-14,"Pine Bluff, AR",22.7
+2020-10-21,"Pine Bluff, AR",23.0
+2020-10-28,"Pine Bluff, AR",22.0
+2020-11-04,"Pine Bluff, AR",23.7
+2020-11-11,"Pine Bluff, AR",25.1
+2020-11-18,"Pine Bluff, AR",26.2
+2020-11-25,"Pine Bluff, AR",22.9
+2020-12-02,"Pine Bluff, AR",29.1
+2020-12-09,"Pine Bluff, AR",25.1
+2020-12-16,"Pine Bluff, AR",24.3
+2020-12-23,"Pine Bluff, AR",24.6
+2020-12-30,"Pine Bluff, AR",30.8
+2021-01-06,"Pine Bluff, AR",24.3
+2021-01-13,"Pine Bluff, AR",20.1
+2021-01-20,"Pine Bluff, AR",20.7
+2021-01-27,"Pine Bluff, AR",22.8
+2021-02-03,"Pine Bluff, AR",23.9
+2021-02-10,"Pine Bluff, AR",23.9
+2021-02-17,"Pine Bluff, AR",26.3
+2021-02-24,"Pine Bluff, AR",37.2
+2021-03-03,"Pine Bluff, AR",32.7
+2021-03-10,"Pine Bluff, AR",31.4
+2021-03-17,"Pine Bluff, AR",26.3
+2021-03-24,"Pine Bluff, AR",23.9
+2021-03-31,"Pine Bluff, AR",20.9
+2021-04-07,"Pine Bluff, AR",23.9
+2021-04-14,"Pine Bluff, AR",22.7
+2021-04-21,"Pine Bluff, AR",21.1
+2021-04-28,"Pine Bluff, AR",20.0
+2021-05-05,"Pine Bluff, AR",25.0
+2021-05-12,"Pine Bluff, AR",23.3
+2021-05-19,"Pine Bluff, AR",22.1
+2021-05-26,"Pine Bluff, AR",23.8
+2021-06-02,"Pine Bluff, AR",24.9
+2021-06-09,"Pine Bluff, AR",28.1
+2021-06-16,"Pine Bluff, AR",27.4
+2021-06-23,"Pine Bluff, AR",28.4
+2021-06-30,"Pine Bluff, AR",34.1
+2021-07-07,"Pine Bluff, AR",33.1
+2021-07-14,"Pine Bluff, AR",25.5
+2021-07-21,"Pine Bluff, AR",23.7
+2021-07-28,"Pine Bluff, AR",29.6
+2021-08-04,"Pine Bluff, AR",26.9
+2021-08-11,"Pine Bluff, AR",29.2
+2021-08-18,"Pine Bluff, AR",29.2
+2021-08-25,"Pine Bluff, AR",30.8
+2021-09-01,"Pine Bluff, AR",27.1
+2021-09-08,"Pine Bluff, AR",32.0
+2021-09-15,"Pine Bluff, AR",24.4
+2021-09-22,"Pine Bluff, AR",19.7
+2021-09-29,"Pine Bluff, AR",25.4
+2021-10-06,"Pine Bluff, AR",27.8
+2021-10-13,"Pine Bluff, AR",25.4
+2021-10-20,"Pine Bluff, AR",28.2
+2021-10-27,"Pine Bluff, AR",33.9
+2021-11-03,"Pine Bluff, AR",27.7
+2021-11-10,"Pine Bluff, AR",28.2
+2021-11-17,"Pine Bluff, AR",25.0
+2021-11-24,"Pine Bluff, AR",28.1
+2021-12-01,"Pine Bluff, AR",30.6
+2021-12-08,"Pine Bluff, AR",23.1
+2021-12-15,"Pine Bluff, AR",28.1
+2021-12-22,"Pine Bluff, AR",27.2
+2021-12-29,"Pine Bluff, AR",30.4
+2022-01-05,"Pine Bluff, AR",27.3
+2022-01-12,"Pine Bluff, AR",22.8
+2022-01-19,"Pine Bluff, AR",22.0
+2022-01-26,"Pine Bluff, AR",22.9
+2022-02-02,"Pine Bluff, AR",23.0
+2022-02-09,"Pine Bluff, AR",23.7
+2022-02-16,"Pine Bluff, AR",25.7
+2022-02-23,"Pine Bluff, AR",26.9
+2022-03-02,"Pine Bluff, AR",33.8
+2022-03-09,"Pine Bluff, AR",31.2
+2022-03-16,"Pine Bluff, AR",30.6
+2022-03-23,"Pine Bluff, AR",27.3
+2022-03-30,"Pine Bluff, AR",28.8
+2022-04-06,"Pine Bluff, AR",32.9
+2022-04-13,"Pine Bluff, AR",31.0
+2022-04-20,"Pine Bluff, AR",27.9
+2022-04-27,"Pine Bluff, AR",28.1
+2022-05-04,"Pine Bluff, AR",29.0
+2022-05-11,"Pine Bluff, AR",33.9
+2022-05-18,"Pine Bluff, AR",34.6
+2022-05-25,"Pine Bluff, AR",34.4
+2022-06-01,"Pine Bluff, AR",34.1
+2022-06-08,"Pine Bluff, AR",22.8
+2022-06-15,"Pine Bluff, AR",22.4
+2022-06-22,"Pine Bluff, AR",24.1
+2022-06-29,"Pine Bluff, AR",26.8
+2022-07-06,"Pine Bluff, AR",29.0
+2022-07-13,"Pine Bluff, AR",36.9
+2022-07-20,"Pine Bluff, AR",30.2
+2022-07-27,"Pine Bluff, AR",28.9
+2022-08-03,"Pine Bluff, AR",29.6
+2022-08-10,"Pine Bluff, AR",29.4
+2022-08-17,"Pine Bluff, AR",30.5
+2022-08-24,"Pine Bluff, AR",34.5
+2022-08-31,"Pine Bluff, AR",28.9
+2022-09-07,"Pine Bluff, AR",29.8
+2022-09-14,"Pine Bluff, AR",30.0
+2022-09-21,"Pine Bluff, AR",32.9
+2022-09-28,"Pine Bluff, AR",38.1
+2022-10-05,"Pine Bluff, AR",37.6
+2022-10-12,"Pine Bluff, AR",38.4
+2022-10-19,"Pine Bluff, AR",33.0
+2022-10-26,"Pine Bluff, AR",33.7
+2022-11-02,"Pine Bluff, AR",30.6
+2022-11-09,"Pine Bluff, AR",28.8
+2022-11-16,"Pine Bluff, AR",27.9
+2022-11-23,"Pine Bluff, AR",25.9
+2022-11-30,"Pine Bluff, AR",30.0
+2022-12-07,"Pine Bluff, AR",28.9
+2022-12-14,"Pine Bluff, AR",31.3
+2022-12-21,"Pine Bluff, AR",29.2
+2022-12-28,"Pine Bluff, AR",32.7
+2023-01-04,"Pine Bluff, AR",33.3
+2023-01-11,"Pine Bluff, AR",22.3
+2023-01-18,"Pine Bluff, AR",23.8
+2023-01-25,"Pine Bluff, AR",27.0
+2023-02-01,"Pine Bluff, AR",28.4
+2023-02-08,"Pine Bluff, AR",31.7
+2023-02-15,"Pine Bluff, AR",34.4
+2023-02-22,"Pine Bluff, AR",27.9
+2023-03-01,"Pine Bluff, AR",24.2
+2023-03-08,"Pine Bluff, AR",26.8
+2023-03-15,"Pine Bluff, AR",27.0
+2023-03-22,"Pine Bluff, AR",25.1
+2023-03-29,"Pine Bluff, AR",24.0
+2023-04-05,"Pine Bluff, AR",24.8
+2023-04-12,"Pine Bluff, AR",27.2
+2023-04-19,"Pine Bluff, AR",26.0
+2023-04-26,"Pine Bluff, AR",24.0
+2023-05-03,"Pine Bluff, AR",21.8
+2023-05-10,"Pine Bluff, AR",23.4
+2023-05-17,"Pine Bluff, AR",26.7
+2023-05-24,"Pine Bluff, AR",27.0
+2023-05-31,"Pine Bluff, AR",28.0
+2023-06-07,"Pine Bluff, AR",27.9
+2023-06-14,"Pine Bluff, AR",26.3
+2023-06-21,"Pine Bluff, AR",26.6
+2023-06-28,"Pine Bluff, AR",28.7
+2023-07-05,"Pine Bluff, AR",30.3
+2023-07-12,"Pine Bluff, AR",28.5
+2023-07-19,"Pine Bluff, AR",26.6
+2023-07-26,"Pine Bluff, AR",26.3
+2023-08-02,"Pine Bluff, AR",22.9
+2023-08-09,"Pine Bluff, AR",24.1
+2023-08-16,"Pine Bluff, AR",25.1
+2023-08-23,"Pine Bluff, AR",23.6
+2023-08-30,"Pine Bluff, AR",26.0
+2023-09-06,"Pine Bluff, AR",30.8
+2023-09-13,"Pine Bluff, AR",25.2
+2023-09-20,"Pine Bluff, AR",26.7
+2023-09-27,"Pine Bluff, AR",25.1
+2023-10-04,"Pine Bluff, AR",26.0
+2023-10-11,"Pine Bluff, AR",24.9
+2023-10-18,"Pine Bluff, AR",29.0
+2023-10-25,"Pine Bluff, AR",25.4
+2023-11-01,"Pine Bluff, AR",30.1
+2023-11-08,"Pine Bluff, AR",25.2
+2023-11-15,"Pine Bluff, AR",27.6
+2023-11-22,"Pine Bluff, AR",24.6
+2023-11-29,"Pine Bluff, AR",26.4
+2023-12-06,"Pine Bluff, AR",25.5
+2023-12-13,"Pine Bluff, AR",24.6
+2023-12-20,"Pine Bluff, AR",27.9
+2023-12-27,"Pine Bluff, AR",28.4
+2024-01-03,"Pine Bluff, AR",26.3
+2024-01-10,"Pine Bluff, AR",19.5
+2024-01-17,"Pine Bluff, AR",22.9
+2024-01-24,"Pine Bluff, AR",34.3
+2024-01-31,"Pine Bluff, AR",25.7
+2024-02-07,"Pine Bluff, AR",29.6
+2024-02-14,"Pine Bluff, AR",27.9
+2024-02-21,"Pine Bluff, AR",28.7
+2024-02-28,"Pine Bluff, AR",28.4
+2024-03-06,"Pine Bluff, AR",21.0
+2024-03-13,"Pine Bluff, AR",22.4
+2024-03-20,"Pine Bluff, AR",25.3
+2024-03-27,"Pine Bluff, AR",27.1
+2024-04-03,"Pine Bluff, AR",32.0
+2024-04-10,"Pine Bluff, AR",27.9
+2024-04-17,"Pine Bluff, AR",28.4
+2024-04-24,"Pine Bluff, AR",29.7
+2024-05-01,"Pine Bluff, AR",27.3
+2024-05-08,"Pine Bluff, AR",31.4
+2024-05-15,"Pine Bluff, AR",31.9
+2024-05-22,"Pine Bluff, AR",27.9
+2024-05-29,"Pine Bluff, AR",26.6
+2024-06-05,"Pine Bluff, AR",36.2
+2024-06-12,"Pine Bluff, AR",31.8
+2024-06-19,"Pine Bluff, AR",26.7
+2024-06-26,"Pine Bluff, AR",25.8
+2024-07-03,"Pine Bluff, AR",29.9
+2024-07-10,"Pine Bluff, AR",26.0
+2024-07-17,"Pine Bluff, AR",26.8
+2024-07-24,"Pine Bluff, AR",23.5
+2024-07-31,"Pine Bluff, AR",25.5
+2024-08-07,"Pine Bluff, AR",26.0
+2024-08-14,"Pine Bluff, AR",24.2
+2024-08-21,"Pine Bluff, AR",25.2
+2024-08-28,"Pine Bluff, AR",28.0
+2024-09-04,"Pine Bluff, AR",28.4
+2024-09-11,"Pine Bluff, AR",27.3
+2024-09-18,"Pine Bluff, AR",26.5
+2024-09-25,"Pine Bluff, AR",27.3
+2024-10-02,"Pine Bluff, AR",34.3
+2024-10-09,"Pine Bluff, AR",29.1
+2024-10-16,"Pine Bluff, AR",26.0
+2024-10-23,"Pine Bluff, AR",23.8
+2024-10-30,"Pine Bluff, AR",25.9
+2024-11-06,"Pine Bluff, AR",25.0
+2024-11-13,"Pine Bluff, AR",27.5
+2024-11-20,"Pine Bluff, AR",25.5
+2024-11-27,"Pine Bluff, AR",27.8
+2024-12-04,"Pine Bluff, AR",26.9
+2024-12-11,"Pine Bluff, AR",28.7
+2024-12-18,"Pine Bluff, AR",26.1
+2024-12-25,"Pine Bluff, AR",25.4
+2025-01-01,"Pine Bluff, AR",31.8
+2025-01-08,"Pine Bluff, AR",27.2
+2025-01-15,"Pine Bluff, AR",23.4
+2025-01-22,"Pine Bluff, AR",31.1
+2025-01-29,"Pine Bluff, AR",33.7
+2025-02-05,"Pine Bluff, AR",26.8
+2025-02-12,"Pine Bluff, AR",27.9
+2025-02-19,"Pine Bluff, AR",31.8
+2025-02-26,"Pine Bluff, AR",33.7
+2025-03-05,"Pine Bluff, AR",37.7
+2025-03-12,"Pine Bluff, AR",41.1
+2025-03-19,"Pine Bluff, AR",31.7
+2025-03-26,"Pine Bluff, AR",27.4
+2025-04-02,"Pine Bluff, AR",28.9
+2025-04-09,"Pine Bluff, AR",28.8
+2025-04-16,"Pine Bluff, AR",33.9
+2025-04-23,"Pine Bluff, AR",30.4
+2025-04-30,"Pine Bluff, AR",27.9
+2025-05-07,"Pine Bluff, AR",24.1
+2025-05-14,"Pine Bluff, AR",22.1
+2025-05-21,"Pine Bluff, AR",21.9
+2025-05-28,"Pine Bluff, AR",21.5
+2025-06-04,"Pine Bluff, AR",24.5
+2025-06-11,"Pine Bluff, AR",22.9
+2025-06-18,"Pine Bluff, AR",23.9
+2025-06-25,"Pine Bluff, AR",25.5
+2025-07-02,"Pine Bluff, AR",24.1
+2025-07-09,"Pine Bluff, AR",26.1
+2025-07-16,"Pine Bluff, AR",22.8
+2025-07-23,"Pine Bluff, AR",22.6
+2025-07-30,"Pine Bluff, AR",24.4
+2025-08-06,"Pine Bluff, AR",22.5
+2025-08-13,"Pine Bluff, AR",21.5
+2025-08-20,"Pine Bluff, AR",22.6
+2025-08-27,"Pine Bluff, AR",23.8
+2025-09-03,"Pine Bluff, AR",25.7
+2025-09-10,"Pine Bluff, AR",24.7
+2025-09-17,"Pine Bluff, AR",21.0
+2025-09-24,"Pine Bluff, AR",24.6
+2025-10-01,"Pine Bluff, AR",23.1
+2025-10-08,"Pine Bluff, AR",23.6
+2025-10-15,"Pine Bluff, AR",21.5
+2025-10-22,"Pine Bluff, AR",25.9
+2025-10-29,"Pine Bluff, AR",22.6
+2025-11-05,"Pine Bluff, AR",21.0
+2025-11-12,"Pine Bluff, AR",20.5
+2025-11-19,"Pine Bluff, AR",21.0
+2025-11-26,"Pine Bluff, AR",22.0
+2025-12-03,"Pine Bluff, AR",20.2
+2025-12-10,"Pine Bluff, AR",20.8
+2025-12-17,"Pine Bluff, AR",19.1
+2025-12-24,"Pine Bluff, AR",20.2
+2025-12-31,"Pine Bluff, AR",23.7
+2026-01-07,"Pine Bluff, AR",21.9
+2026-01-14,"Pine Bluff, AR",18.4
+2026-01-21,"Pine Bluff, AR",20.5
+2026-01-28,"Pine Bluff, AR",21.0
+2026-02-04,"Pine Bluff, AR",44.6
+2026-02-11,"Pine Bluff, AR",23.9
+2026-02-18,"Pine Bluff, AR",21.0
+2026-02-25,"Pine Bluff, AR",19.8
+2026-03-04,"Pine Bluff, AR",19.3
+2026-03-11,"Pine Bluff, AR",20.5
+2026-03-18,"Pine Bluff, AR",22.7
+2026-03-25,"Pine Bluff, AR",23.5
+2026-04-01,"Pine Bluff, AR",23.7
+2026-04-08,"Pine Bluff, AR",20.9
+2026-04-15,"Pine Bluff, AR",20.6
+2026-04-22,"Pine Bluff, AR",22.3
+2026-04-29,"Pine Bluff, AR",22.2
+2026-05-06,"Pine Bluff, AR",22.1
+2026-05-13,"Pine Bluff, AR",21.1
+2026-05-20,"Pine Bluff, AR",21.3
+2026-05-27,"Pine Bluff, AR",23.2
+2026-06-03,"Pine Bluff, AR",25.7
+2026-06-10,"Pine Bluff, AR",23.8
+2026-06-17,"Pine Bluff, AR",22.9
+2026-06-24,"Pine Bluff, AR",22.8
+2026-07-01,"Pine Bluff, AR",24.0
+2026-07-08,"Pine Bluff, AR",24.0
+2026-07-15,"Pine Bluff, AR",22.9
+2026-07-22,"Pine Bluff, AR",24.5
+2026-07-29,"Pine Bluff, AR",20.6
+2026-08-05,"Pine Bluff, AR",22.0
+2026-08-12,"Pine Bluff, AR",25.0
+2026-08-19,"Pine Bluff, AR",25.6
+2026-08-26,"Pine Bluff, AR",22.7
+2026-09-02,"Pine Bluff, AR",21.8
+2026-09-09,"Pine Bluff, AR",24.1
+2026-09-16,"Pine Bluff, AR",22.7
+2026-09-23,"Pine Bluff, AR",20.8
+2026-09-30,"Pine Bluff, AR",21.6
+2026-10-07,"Pine Bluff, AR",22.2
+2017-03-29,"Roseville, CA",42.8
+2017-04-05,"Roseville, CA",45.1
+2017-04-12,"Roseville, CA",37.7
+2017-04-19,"Roseville, CA",32.4
+2017-04-26,"Roseville, CA",38.2
+2017-05-03,"Roseville, CA",43.1
+2017-05-10,"Roseville, CA",35.8
+2017-05-17,"Roseville, CA",30.7
+2017-05-24,"Roseville, CA",30.5
+2017-05-31,"Roseville, CA",32.3
+2017-06-07,"Roseville, CA",37.5
+2017-06-14,"Roseville, CA",34.0
+2017-06-21,"Roseville, CA",38.2
+2017-06-28,"Roseville, CA",39.3
+2017-07-05,"Roseville, CA",35.7
+2017-07-12,"Roseville, CA",38.8
+2017-07-19,"Roseville, CA",31.4
+2017-07-26,"Roseville, CA",36.8
+2017-08-02,"Roseville, CA",38.3
+2017-08-09,"Roseville, CA",38.7
+2017-08-16,"Roseville, CA",42.0
+2017-08-23,"Roseville, CA",40.2
+2017-08-30,"Roseville, CA",42.0
+2017-09-06,"Roseville, CA",40.6
+2017-09-13,"Roseville, CA",46.4
+2017-09-20,"Roseville, CA",33.8
+2017-09-27,"Roseville, CA",37.2
+2017-10-04,"Roseville, CA",39.7
+2017-10-11,"Roseville, CA",38.4
+2017-10-18,"Roseville, CA",41.2
+2017-10-25,"Roseville, CA",38.2
+2017-11-01,"Roseville, CA",37.6
+2017-11-08,"Roseville, CA",39.9
+2017-11-15,"Roseville, CA",41.5
+2017-11-22,"Roseville, CA",45.9
+2017-11-29,"Roseville, CA",44.3
+2017-12-06,"Roseville, CA",43.8
+2017-12-13,"Roseville, CA",43.8
+2017-12-20,"Roseville, CA",51.2
+2017-12-27,"Roseville, CA",52.3
+2018-01-03,"Roseville, CA",69.5
+2018-01-10,"Roseville, CA",58.2
+2018-01-17,"Roseville, CA",52.4
+2018-01-24,"Roseville, CA",46.9
+2018-01-31,"Roseville, CA",44.2
+2018-02-07,"Roseville, CA",46.1
+2018-02-14,"Roseville, CA",38.9
+2018-02-21,"Roseville, CA",42.4
+2018-02-28,"Roseville, CA",41.2
+2018-03-07,"Roseville, CA",44.8
+2018-03-14,"Roseville, CA",34.9
+2018-03-21,"Roseville, CA",37.4
+2018-03-28,"Roseville, CA",36.4
+2018-04-04,"Roseville, CA",34.8
+2018-04-11,"Roseville, CA",40.2
+2018-04-18,"Roseville, CA",40.0
+2018-04-25,"Roseville, CA",37.2
+2018-05-02,"Roseville, CA",34.7
+2018-05-09,"Roseville, CA",37.2
+2018-05-16,"Roseville, CA",36.0
+2018-05-23,"Roseville, CA",32.2
+2018-05-30,"Roseville, CA",34.5
+2018-06-06,"Roseville, CA",34.2
+2018-06-13,"Roseville, CA",30.8
+2018-06-20,"Roseville, CA",33.0
+2018-06-27,"Roseville, CA",30.3
+2018-07-04,"Roseville, CA",30.7
+2018-07-11,"Roseville, CA",31.7
+2018-07-18,"Roseville, CA",33.2
+2018-07-25,"Roseville, CA",36.2
+2018-08-01,"Roseville, CA",33.0
+2018-08-08,"Roseville, CA",31.5
+2018-08-15,"Roseville, CA",30.9
+2018-08-22,"Roseville, CA",30.1
+2018-08-29,"Roseville, CA",29.6
+2018-09-05,"Roseville, CA",30.0
+2018-09-12,"Roseville, CA",32.1
+2018-09-19,"Roseville, CA",27.8
+2018-09-26,"Roseville, CA",28.4
+2018-10-03,"Roseville, CA",28.6
+2018-10-10,"Roseville, CA",27.2
+2018-10-17,"Roseville, CA",29.2
+2018-10-24,"Roseville, CA",28.1
+2018-10-31,"Roseville, CA",30.8
+2018-11-07,"Roseville, CA",26.8
+2018-11-14,"Roseville, CA",28.1
+2018-11-21,"Roseville, CA",27.5
+2018-11-28,"Roseville, CA",28.0
+2018-12-05,"Roseville, CA",27.9
+2018-12-12,"Roseville, CA",26.9
+2018-12-19,"Roseville, CA",27.8
+2018-12-26,"Roseville, CA",26.4
+2019-01-02,"Roseville, CA",29.8
+2019-01-09,"Roseville, CA",26.0
+2019-01-16,"Roseville, CA",26.1
+2019-01-23,"Roseville, CA",27.3
+2019-01-30,"Roseville, CA",28.7
+2019-02-06,"Roseville, CA",28.9
+2019-02-13,"Roseville, CA",28.0
+2019-02-20,"Roseville, CA",27.2
+2019-02-27,"Roseville, CA",28.0
+2019-03-06,"Roseville, CA",27.3
+2019-03-13,"Roseville, CA",29.4
+2019-03-20,"Roseville, CA",29.2
+2019-03-27,"Roseville, CA",26.8
+2019-04-03,"Roseville, CA",25.8
+2019-04-10,"Roseville, CA",28.9
+2019-04-17,"Roseville, CA",26.4
+2019-04-24,"Roseville, CA",26.0
+2019-05-01,"Roseville, CA",26.2
+2019-05-08,"Roseville, CA",26.7
+2019-05-15,"Roseville, CA",25.7
+2019-05-22,"Roseville, CA",26.1
+2019-05-29,"Roseville, CA",28.0
+2019-06-05,"Roseville, CA",27.7
+2019-06-12,"Roseville, CA",24.7
+2019-06-19,"Roseville, CA",26.2
+2019-06-26,"Roseville, CA",28.9
+2019-07-03,"Roseville, CA",25.4
+2019-07-10,"Roseville, CA",26.4
+2019-07-17,"Roseville, CA",23.9
+2019-07-24,"Roseville, CA",26.5
+2019-07-31,"Roseville, CA",26.3
+2019-08-07,"Roseville, CA",26.9
+2019-08-14,"Roseville, CA",25.6
+2019-08-21,"Roseville, CA",24.8
+2019-08-28,"Roseville, CA",23.2
+2019-09-04,"Roseville, CA",22.1
+2019-09-11,"Roseville, CA",20.5
+2019-09-18,"Roseville, CA",22.4
+2019-09-25,"Roseville, CA",21.8
+2019-10-02,"Roseville, CA",22.9
+2019-10-09,"Roseville, CA",22.4
+2019-10-16,"Roseville, CA",24.1
+2019-10-23,"Roseville, CA",22.4
+2019-10-30,"Roseville, CA",22.2
+2019-11-06,"Roseville, CA",22.5
+2019-11-13,"Roseville, CA",21.6
+2019-11-20,"Roseville, CA",22.6
+2019-11-27,"Roseville, CA",23.2
+2019-12-04,"Roseville, CA",24.6
+2019-12-11,"Roseville, CA",22.1
+2019-12-18,"Roseville, CA",24.6
+2019-12-25,"Roseville, CA",26.5
+2020-01-01,"Roseville, CA",30.2
+2020-01-08,"Roseville, CA",22.9
+2020-01-15,"Roseville, CA",22.2
+2020-01-22,"Roseville, CA",28.0
+2020-01-29,"Roseville, CA",25.5
+2020-02-05,"Roseville, CA",24.2
+2020-02-12,"Roseville, CA",23.2
+2020-02-19,"Roseville, CA",23.7
+2020-02-26,"Roseville, CA",22.3
+2020-03-04,"Roseville, CA",21.8
+2020-03-11,"Roseville, CA",22.1
+2020-03-18,"Roseville, CA",21.9
+2020-03-25,"Roseville, CA",23.8
+2020-04-01,"Roseville, CA",22.8
+2020-04-08,"Roseville, CA",22.0
+2020-04-15,"Roseville, CA",22.2
+2020-04-22,"Roseville, CA",20.6
+2020-04-29,"Roseville, CA",22.1
+2020-05-06,"Roseville, CA",23.0
+2020-05-13,"Roseville, CA",22.6
+2020-05-20,"Roseville, CA",24.5
+2020-05-27,"Roseville, CA",21.1
+2020-06-03,"Roseville, CA",22.2
+2020-06-10,"Roseville, CA",20.6
+2020-06-17,"Roseville, CA",21.3
+2020-06-24,"Roseville, CA",22.1
+2020-07-01,"Roseville, CA",22.3
+2020-07-08,"Roseville, CA",23.9
+2020-07-15,"Roseville, CA",23.1
+2020-07-22,"Roseville, CA",21.9
+2020-07-29,"Roseville, CA",21.5
+2020-08-05,"Roseville, CA",22.7
+2020-08-12,"Roseville, CA",22.9
+2020-08-19,"Roseville, CA",23.1
+2020-08-26,"Roseville, CA",24.2
+2020-09-02,"Roseville, CA",24.3
+2020-09-09,"Roseville, CA",24.5
+2020-09-16,"Roseville, CA",23.2
+2020-09-23,"Roseville, CA",23.1
+2020-09-30,"Roseville, CA",29.1
+2020-10-07,"Roseville, CA",26.7
+2020-10-14,"Roseville, CA",25.4
+2020-10-21,"Roseville, CA",22.0
+2020-10-28,"Roseville, CA",21.8
+2020-11-04,"Roseville, CA",23.2
+2020-11-11,"Roseville, CA",25.4
+2020-11-18,"Roseville, CA",25.5
+2020-11-25,"Roseville, CA",26.9
+2020-12-02,"Roseville, CA",26.5
+2020-12-09,"Roseville, CA",21.5
+2020-12-16,"Roseville, CA",23.9
+2020-12-23,"Roseville, CA",26.5
+2020-12-30,"Roseville, CA",25.0
+2021-01-06,"Roseville, CA",25.5
+2021-01-13,"Roseville, CA",22.1
+2021-01-20,"Roseville, CA",24.0
+2021-01-27,"Roseville, CA",26.1
+2021-02-03,"Roseville, CA",27.8
+2021-02-10,"Roseville, CA",27.8
+2021-02-17,"Roseville, CA",24.0
+2021-02-24,"Roseville, CA",21.9
+2021-03-03,"Roseville, CA",21.7
+2021-03-10,"Roseville, CA",21.3
+2021-03-17,"Roseville, CA",23.5
+2021-03-24,"Roseville, CA",25.5
+2021-03-31,"Roseville, CA",24.6
+2021-04-07,"Roseville, CA",26.9
+2021-04-14,"Roseville, CA",23.1
+2021-04-21,"Roseville, CA",22.1
+2021-04-28,"Roseville, CA",23.8
+2021-05-05,"Roseville, CA",21.6
+2021-05-12,"Roseville, CA",22.5
+2021-05-19,"Roseville, CA",24.8
+2021-05-26,"Roseville, CA",23.8
+2021-06-02,"Roseville, CA",22.0
+2021-06-09,"Roseville, CA",20.2
+2021-06-16,"Roseville, CA",21.8
+2021-06-23,"Roseville, CA",22.2
+2021-06-30,"Roseville, CA",21.5
+2021-07-07,"Roseville, CA",22.2
+2021-07-14,"Roseville, CA",22.3
+2021-07-21,"Roseville, CA",23.9
+2021-07-28,"Roseville, CA",25.7
+2021-08-04,"Roseville, CA",24.2
+2021-08-11,"Roseville, CA",28.3
+2021-08-18,"Roseville, CA",33.7
+2021-08-25,"Roseville, CA",37.5
+2021-09-01,"Roseville, CA",32.2
+2021-09-08,"Roseville, CA",31.6
+2021-09-15,"Roseville, CA",29.3
+2021-09-22,"Roseville, CA",29.8
+2021-09-29,"Roseville, CA",28.0
+2021-10-06,"Roseville, CA",28.1
+2021-10-13,"Roseville, CA",25.3
+2021-10-20,"Roseville, CA",24.7
+2021-10-27,"Roseville, CA",27.4
+2021-11-03,"Roseville, CA",31.1
+2021-11-10,"Roseville, CA",28.6
+2021-11-17,"Roseville, CA",30.5
+2021-11-24,"Roseville, CA",34.2
+2021-12-01,"Roseville, CA",28.1
+2021-12-08,"Roseville, CA",27.8
+2021-12-15,"Roseville, CA",22.5
+2021-12-22,"Roseville, CA",28.3
+2021-12-29,"Roseville, CA",34.0
+2022-01-05,"Roseville, CA",42.5
+2022-01-12,"Roseville, CA",28.4
+2022-01-19,"Roseville, CA",27.3
+2022-01-26,"Roseville, CA",29.7
+2022-02-02,"Roseville, CA",36.8
+2022-02-09,"Roseville, CA",27.9
+2022-02-16,"Roseville, CA",26.4
+2022-02-23,"Roseville, CA",31.3
+2022-03-02,"Roseville, CA",30.3
+2022-03-09,"Roseville, CA",30.5
+2022-03-16,"Roseville, CA",30.2
+2022-03-23,"Roseville, CA",33.1
+2022-03-30,"Roseville, CA",34.9
+2022-04-06,"Roseville, CA",34.9
+2022-04-13,"Roseville, CA",33.9
+2022-04-20,"Roseville, CA",31.8
+2022-04-27,"Roseville, CA",28.5
+2022-05-04,"Roseville, CA",30.7
+2022-05-11,"Roseville, CA",31.3
+2022-05-18,"Roseville, CA",35.2
+2022-05-25,"Roseville, CA",32.1
+2022-06-01,"Roseville, CA",32.9
+2022-06-08,"Roseville, CA",29.4
+2022-06-15,"Roseville, CA",25.8
+2022-06-22,"Roseville, CA",29.5
+2022-06-29,"Roseville, CA",30.4
+2022-07-06,"Roseville, CA",36.9
+2022-07-13,"Roseville, CA",29.5
+2022-07-20,"Roseville, CA",24.9
+2022-07-27,"Roseville, CA",29.7
+2022-08-03,"Roseville, CA",29.8
+2022-08-10,"Roseville, CA",28.6
+2022-08-17,"Roseville, CA",30.0
+2022-08-24,"Roseville, CA",25.7
+2022-08-31,"Roseville, CA",26.5
+2022-09-07,"Roseville, CA",28.4
+2022-09-14,"Roseville, CA",29.9
+2022-09-21,"Roseville, CA",28.5
+2022-09-28,"Roseville, CA",29.2
+2022-10-05,"Roseville, CA",25.5
+2022-10-12,"Roseville, CA",22.4
+2022-10-19,"Roseville, CA",25.3
+2022-10-26,"Roseville, CA",23.7
+2022-11-02,"Roseville, CA",22.5
+2022-11-09,"Roseville, CA",23.9
+2022-11-16,"Roseville, CA",23.6
+2022-11-23,"Roseville, CA",33.1
+2022-11-30,"Roseville, CA",39.7
+2022-12-07,"Roseville, CA",30.6
+2022-12-14,"Roseville, CA",28.6
+2022-12-21,"Roseville, CA",38.1
+2022-12-28,"Roseville, CA",30.3
+2023-01-04,"Roseville, CA",35.7
+2023-01-11,"Roseville, CA",31.0
+2023-01-18,"Roseville, CA",28.1
+2023-01-25,"Roseville, CA",29.6
+2023-02-01,"Roseville, CA",30.0
+2023-02-08,"Roseville, CA",30.7
+2023-02-15,"Roseville, CA",34.1
+2023-02-22,"Roseville, CA",32.9
+2023-03-01,"Roseville, CA",33.7
+2023-03-08,"Roseville, CA",33.0
+2023-03-15,"Roseville, CA",33.0
+2023-03-22,"Roseville, CA",35.8
+2023-03-29,"Roseville, CA",27.3
+2023-04-05,"Roseville, CA",28.1
+2023-04-12,"Roseville, CA",30.7
+2023-04-19,"Roseville, CA",27.2
+2023-04-26,"Roseville, CA",27.6
+2023-05-03,"Roseville, CA",29.9
+2023-05-10,"Roseville, CA",30.8
+2023-05-17,"Roseville, CA",24.6
+2023-05-24,"Roseville, CA",23.7
+2023-05-31,"Roseville, CA",24.6
+2023-06-07,"Roseville, CA",24.3
+2023-06-14,"Roseville, CA",24.3
+2023-06-21,"Roseville, CA",24.0
+2023-06-28,"Roseville, CA",25.1
+2023-07-05,"Roseville, CA",28.0
+2023-07-12,"Roseville, CA",27.9
+2023-07-19,"Roseville, CA",24.2
+2023-07-26,"Roseville, CA",24.5
+2023-08-02,"Roseville, CA",24.4
+2023-08-09,"Roseville, CA",24.7
+2023-08-16,"Roseville, CA",23.6
+2023-08-23,"Roseville, CA",24.5
+2023-08-30,"Roseville, CA",24.2
+2023-09-06,"Roseville, CA",23.4
+2023-09-13,"Roseville, CA",23.4
+2023-09-20,"Roseville, CA",22.9
+2023-09-27,"Roseville, CA",22.5
+2023-10-04,"Roseville, CA",22.5
+2023-10-11,"Roseville, CA",25.2
+2023-10-18,"Roseville, CA",23.6
+2023-10-25,"Roseville, CA",26.0
+2023-11-01,"Roseville, CA",26.5
+2023-11-08,"Roseville, CA",24.7
+2023-11-15,"Roseville, CA",24.9
+2023-11-22,"Roseville, CA",24.1
+2023-11-29,"Roseville, CA",25.1
+2023-12-06,"Roseville, CA",21.8
+2023-12-13,"Roseville, CA",22.3
+2023-12-20,"Roseville, CA",23.3
+2023-12-27,"Roseville, CA",22.1
+2024-01-03,"Roseville, CA",26.3
+2024-01-10,"Roseville, CA",21.6
+2024-01-17,"Roseville, CA",23.1
+2024-01-24,"Roseville, CA",23.7
+2024-01-31,"Roseville, CA",23.3
+2024-02-07,"Roseville, CA",22.0
+2024-02-14,"Roseville, CA",20.9
+2024-02-21,"Roseville, CA",21.7
+2024-02-28,"Roseville, CA",20.0
+2024-03-06,"Roseville, CA",20.8
+2024-03-13,"Roseville, CA",25.2
+2024-03-20,"Roseville, CA",23.2
+2024-03-27,"Roseville, CA",21.5
+2024-04-03,"Roseville, CA",19.1
+2024-04-10,"Roseville, CA",25.7
+2024-04-17,"Roseville, CA",21.9
+2024-04-24,"Roseville, CA",20.0
+2024-05-01,"Roseville, CA",20.5
+2024-05-08,"Roseville, CA",20.4
+2024-05-15,"Roseville, CA",22.3
+2024-05-22,"Roseville, CA",21.6
+2024-05-29,"Roseville, CA",21.3
+2024-06-05,"Roseville, CA",21.2
+2024-06-12,"Roseville, CA",19.7
+2024-06-19,"Roseville, CA",19.6
+2024-06-26,"Roseville, CA",19.6
+2024-07-03,"Roseville, CA",20.5
+2024-07-10,"Roseville, CA",19.5
+2024-07-17,"Roseville, CA",19.0
+2024-07-24,"Roseville, CA",22.0
+2024-07-31,"Roseville, CA",22.7
+2024-08-07,"Roseville, CA",20.0
+2024-08-14,"Roseville, CA",20.1
+2024-08-21,"Roseville, CA",19.7
+2024-08-28,"Roseville, CA",18.3
+2024-09-04,"Roseville, CA",18.9
+2024-09-11,"Roseville, CA",19.7
+2024-09-18,"Roseville, CA",18.7
+2024-09-25,"Roseville, CA",19.2
+2024-10-02,"Roseville, CA",18.5
+2024-10-09,"Roseville, CA",19.0
+2024-10-16,"Roseville, CA",21.0
+2024-10-23,"Roseville, CA",20.5
+2024-10-30,"Roseville, CA",21.2
+2024-11-06,"Roseville, CA",22.2
+2024-11-13,"Roseville, CA",23.5
+2024-11-20,"Roseville, CA",22.9
+2024-11-27,"Roseville, CA",22.7
+2024-12-04,"Roseville, CA",23.8
+2024-12-11,"Roseville, CA",21.2
+2024-12-18,"Roseville, CA",23.7
+2024-12-25,"Roseville, CA",25.1
+2025-01-01,"Roseville, CA",26.1
+2025-01-08,"Roseville, CA",19.8
+2025-01-15,"Roseville, CA",20.4
+2025-01-22,"Roseville, CA",22.0
+2025-01-29,"Roseville, CA",22.3
+2025-02-05,"Roseville, CA",20.8
+2025-02-12,"Roseville, CA",21.2
+2025-02-19,"Roseville, CA",21.8
+2025-02-26,"Roseville, CA",20.3
+2025-03-05,"Roseville, CA",20.9
+2025-03-12,"Roseville, CA",20.4
+2025-03-19,"Roseville, CA",21.6
+2025-03-26,"Roseville, CA",21.8
+2025-04-02,"Roseville, CA",23.0
+2025-04-09,"Roseville, CA",21.0
+2025-04-16,"Roseville, CA",21.0
+2025-04-23,"Roseville, CA",20.5
+2025-04-30,"Roseville, CA",20.3
+2025-05-07,"Roseville, CA",23.3
+2025-05-14,"Roseville, CA",21.6
+2025-05-21,"Roseville, CA",21.5
+2025-05-28,"Roseville, CA",21.4
+2025-06-04,"Roseville, CA",19.8
+2025-06-11,"Roseville, CA",19.7
+2025-06-18,"Roseville, CA",21.5
+2025-06-25,"Roseville, CA",20.6
+2025-07-02,"Roseville, CA",20.9
+2025-07-09,"Roseville, CA",20.3
+2025-07-16,"Roseville, CA",19.8
+2025-07-23,"Roseville, CA",20.0
+2025-07-30,"Roseville, CA",21.4
+2025-08-06,"Roseville, CA",22.1
+2025-08-13,"Roseville, CA",20.0
+2025-08-20,"Roseville, CA",20.1
+2025-08-27,"Roseville, CA",20.0
+2025-09-03,"Roseville, CA",20.2
+2025-09-10,"Roseville, CA",19.0
+2025-09-17,"Roseville, CA",19.3
+2025-09-24,"Roseville, CA",20.8
+2025-10-01,"Roseville, CA",19.6
+2025-10-08,"Roseville, CA",19.3
+2025-10-15,"Roseville, CA",18.7
+2025-10-22,"Roseville, CA",19.3
+2025-10-29,"Roseville, CA",19.8
+2025-11-05,"Roseville, CA",19.3
+2025-11-12,"Roseville, CA",19.4
+2025-11-19,"Roseville, CA",18.7
+2025-11-26,"Roseville, CA",18.9
+2025-12-03,"Roseville, CA",19.7
+2025-12-10,"Roseville, CA",19.0
+2025-12-17,"Roseville, CA",19.6
+2025-12-24,"Roseville, CA",20.8
+2025-12-31,"Roseville, CA",22.5
+2026-01-07,"Roseville, CA",20.0
+2026-01-14,"Roseville, CA",18.6
+2026-01-21,"Roseville, CA",19.3
+2026-01-28,"Roseville, CA",19.3
+2026-02-04,"Roseville, CA",22.1
+2026-02-11,"Roseville, CA",20.8
+2026-02-18,"Roseville, CA",20.2
+2026-02-25,"Roseville, CA",20.8
+2026-03-04,"Roseville, CA",20.6
+2026-03-11,"Roseville, CA",21.1
+2026-03-18,"Roseville, CA",20.1
+2026-03-25,"Roseville, CA",20.4
+2026-04-01,"Roseville, CA",20.6
+2026-04-08,"Roseville, CA",21.1
+2026-04-15,"Roseville, CA",20.8
+2026-04-22,"Roseville, CA",20.7
+2026-04-29,"Roseville, CA",28.4
+2026-05-06,"Roseville, CA",22.7
+2026-05-13,"Roseville, CA",21.5
+2026-05-20,"Roseville, CA",20.9
+2026-05-27,"Roseville, CA",20.5
+2026-06-03,"Roseville, CA",19.1
+2026-06-10,"Roseville, CA",19.8
+2026-06-17,"Roseville, CA",21.1
+2026-06-24,"Roseville, CA",20.9
+2026-07-01,"Roseville, CA",20.3
+2026-07-08,"Roseville, CA",19.3
+2026-07-15,"Roseville, CA",18.7
+2026-07-22,"Roseville, CA",19.0
+2026-07-29,"Roseville, CA",19.6
+2026-08-05,"Roseville, CA",20.0
+2026-08-12,"Roseville, CA",19.8
+2026-08-19,"Roseville, CA",21.1
+2026-08-26,"Roseville, CA",19.8
+2026-09-02,"Roseville, CA",18.8
+2026-09-09,"Roseville, CA",19.3
+2026-09-16,"Roseville, CA",19.5
+2026-09-23,"Roseville, CA",19.2
+2026-09-30,"Roseville, CA",19.3
+2026-10-07,"Roseville, CA",18.9
+2020-10-07,Santa Teresa,13.0
+2020-10-14,Santa Teresa,14.6
+2020-10-21,Santa Teresa,15.1
+2020-10-28,Santa Teresa,15.9
+2020-11-04,Santa Teresa,16.5
+2020-11-11,Santa Teresa,17.2
+2020-11-18,Santa Teresa,17.7
+2020-11-25,Santa Teresa,11.7
+2020-12-02,Santa Teresa,10.9
+2020-12-09,Santa Teresa,12.3
+2020-12-16,Santa Teresa,14.0
+2020-12-23,Santa Teresa,16.2
+2020-12-30,Santa Teresa,15.9
+2021-01-06,Santa Teresa,16.0
+2021-01-13,Santa Teresa,15.2
+2021-01-20,Santa Teresa,17.0
+2021-01-27,Santa Teresa,15.8
+2021-02-03,Santa Teresa,16.4
+2021-02-10,Santa Teresa,13.7
+2021-02-17,Santa Teresa,16.0
+2021-02-24,Santa Teresa,15.9
+2021-03-03,Santa Teresa,14.7
+2021-03-10,Santa Teresa,16.9
+2021-03-17,Santa Teresa,14.5
+2021-03-24,Santa Teresa,14.9
+2021-03-31,Santa Teresa,15.3
+2021-04-07,Santa Teresa,15.5
+2021-04-14,Santa Teresa,15.2
+2021-04-21,Santa Teresa,15.6
+2021-04-28,Santa Teresa,15.2
+2021-05-05,Santa Teresa,16.8
+2021-05-12,Santa Teresa,15.0
+2021-05-19,Santa Teresa,17.9
+2021-05-26,Santa Teresa,19.2
+2021-06-02,Santa Teresa,21.2
+2021-06-09,Santa Teresa,19.8
+2021-06-16,Santa Teresa,17.6
+2021-06-23,Santa Teresa,24.4
+2021-06-30,Santa Teresa,20.8
+2021-07-07,Santa Teresa,20.0
+2021-07-14,Santa Teresa,18.3
+2021-07-21,Santa Teresa,17.7
+2021-07-28,Santa Teresa,16.9
+2021-08-04,Santa Teresa,13.5
+2021-08-11,Santa Teresa,16.4
+2021-08-18,Santa Teresa,16.0
+2021-08-25,Santa Teresa,16.8
+2021-09-01,Santa Teresa,19.4
+2021-09-08,Santa Teresa,17.9
+2021-09-15,Santa Teresa,15.1
+2021-09-22,Santa Teresa,16.0
+2021-09-29,Santa Teresa,17.9
+2021-10-06,Santa Teresa,21.6
+2021-10-13,Santa Teresa,15.3
+2021-10-20,Santa Teresa,15.1
+2021-10-27,Santa Teresa,17.0
+2021-11-03,Santa Teresa,15.2
+2021-11-10,Santa Teresa,16.6
+2021-11-17,Santa Teresa,15.8
+2021-11-24,Santa Teresa,14.9
+2021-12-01,Santa Teresa,14.9
+2021-12-08,Santa Teresa,15.3
+2021-12-15,Santa Teresa,16.5
+2021-12-22,Santa Teresa,17.2
+2021-12-29,Santa Teresa,18.7
+2022-01-05,Santa Teresa,18.3
+2022-01-12,Santa Teresa,15.7
+2022-01-19,Santa Teresa,12.7
+2022-01-26,Santa Teresa,15.4
+2022-02-02,Santa Teresa,12.3
+2022-02-09,Santa Teresa,15.5
+2022-02-16,Santa Teresa,12.4
+2022-02-23,Santa Teresa,15.1
+2022-03-02,Santa Teresa,14.6
+2022-03-09,Santa Teresa,13.7
+2022-03-16,Santa Teresa,14.7
+2022-03-23,Santa Teresa,18.4
+2022-03-30,Santa Teresa,22.1
+2022-04-06,Santa Teresa,18.9
+2022-04-13,Santa Teresa,16.8
+2022-04-20,Santa Teresa,19.4
+2022-04-27,Santa Teresa,23.4
+2022-05-04,Santa Teresa,19.4
+2022-05-11,Santa Teresa,17.9
+2022-05-18,Santa Teresa,15.6
+2022-05-25,Santa Teresa,17.7
+2022-06-01,Santa Teresa,24.3
+2022-06-08,Santa Teresa,22.3
+2022-06-15,Santa Teresa,25.3
+2022-06-22,Santa Teresa,21.4
+2022-06-29,Santa Teresa,19.9
+2022-07-06,Santa Teresa,16.3
+2022-07-13,Santa Teresa,17.1
+2022-07-20,Santa Teresa,20.4
+2022-07-27,Santa Teresa,19.1
+2022-08-03,Santa Teresa,23.2
+2022-08-10,Santa Teresa,22.2
+2022-08-17,Santa Teresa,22.1
+2022-08-24,Santa Teresa,23.5
+2022-08-31,Santa Teresa,23.5
+2022-09-07,Santa Teresa,31.0
+2022-09-14,Santa Teresa,21.4
+2022-09-21,Santa Teresa,16.8
+2022-09-28,Santa Teresa,25.9
+2022-10-05,Santa Teresa,24.0
+2022-10-12,Santa Teresa,19.6
+2022-10-19,Santa Teresa,21.8
+2022-10-26,Santa Teresa,23.3
+2022-11-02,Santa Teresa,20.7
+2022-11-09,Santa Teresa,25.1
+2022-11-16,Santa Teresa,22.5
+2022-11-23,Santa Teresa,25.4
+2022-11-30,Santa Teresa,25.0
+2022-12-07,Santa Teresa,19.8
+2022-12-14,Santa Teresa,25.0
+2022-12-21,Santa Teresa,27.5
+2022-12-28,Santa Teresa,26.9
+2023-01-04,Santa Teresa,22.5
+2023-01-11,Santa Teresa,19.3
+2023-01-18,Santa Teresa,20.4
+2023-01-25,Santa Teresa,16.0
+2023-02-01,Santa Teresa,16.7
+2023-02-08,Santa Teresa,18.6
+2023-02-15,Santa Teresa,16.5
+2023-02-22,Santa Teresa,22.7
+2023-03-01,Santa Teresa,19.5
+2023-03-08,Santa Teresa,23.8
+2023-03-15,Santa Teresa,24.2
+2023-03-22,Santa Teresa,27.1
+2023-03-29,Santa Teresa,19.8
+2023-04-05,Santa Teresa,16.6
+2023-04-12,Santa Teresa,17.8
+2023-04-19,Santa Teresa,20.5
+2023-04-26,Santa Teresa,23.4
+2023-05-03,Santa Teresa,22.8
+2023-05-10,Santa Teresa,23.5
+2023-05-17,Santa Teresa,25.1
+2023-05-24,Santa Teresa,28.1
+2023-05-31,Santa Teresa,21.9
+2023-06-07,Santa Teresa,18.3
+2023-06-14,Santa Teresa,24.1
+2023-06-21,Santa Teresa,23.6
+2023-06-28,Santa Teresa,23.3
+2023-07-05,Santa Teresa,15.9
+2023-07-12,Santa Teresa,24.2
+2023-07-19,Santa Teresa,19.0
+2023-07-26,Santa Teresa,18.0
+2023-08-02,Santa Teresa,24.9
+2023-08-09,Santa Teresa,22.6
+2023-08-16,Santa Teresa,21.9
+2023-08-23,Santa Teresa,16.6
+2023-08-30,Santa Teresa,25.4
+2023-09-06,Santa Teresa,27.0
+2023-09-13,Santa Teresa,25.3
+2023-09-20,Santa Teresa,22.4
+2023-09-27,Santa Teresa,19.4
+2023-10-04,Santa Teresa,18.6
+2023-10-11,Santa Teresa,14.6
+2023-10-18,Santa Teresa,25.5
+2023-10-25,Santa Teresa,21.9
+2023-11-01,Santa Teresa,23.0
+2023-11-08,Santa Teresa,20.4
+2023-11-15,Santa Teresa,21.9
+2023-11-22,Santa Teresa,17.4
+2023-11-29,Santa Teresa,15.7
+2023-12-06,Santa Teresa,17.8
+2023-12-13,Santa Teresa,17.2
+2023-12-20,Santa Teresa,19.6
+2023-12-27,Santa Teresa,20.0
+2024-01-03,Santa Teresa,19.0
+2024-01-10,Santa Teresa,17.6
+2024-01-17,Santa Teresa,24.8
+2024-01-24,Santa Teresa,18.8
+2024-01-31,Santa Teresa,20.3
+2024-02-07,Santa Teresa,20.6
+2024-02-14,Santa Teresa,25.1
+2024-02-21,Santa Teresa,21.0
+2024-02-28,Santa Teresa,22.8
+2024-03-06,Santa Teresa,21.9
+2024-03-13,Santa Teresa,24.3
+2024-03-20,Santa Teresa,22.7
+2024-03-27,Santa Teresa,20.2
+2024-04-03,Santa Teresa,20.7
+2024-04-10,Santa Teresa,20.8
+2024-04-17,Santa Teresa,21.5
+2024-04-24,Santa Teresa,18.6
+2024-05-01,Santa Teresa,16.9
+2024-05-08,Santa Teresa,21.2
+2024-05-15,Santa Teresa,16.4
+2024-05-22,Santa Teresa,17.2
+2024-05-29,Santa Teresa,18.5
+2024-06-05,Santa Teresa,21.1
+2024-06-12,Santa Teresa,17.3
+2024-06-19,Santa Teresa,20.5
+2024-06-26,Santa Teresa,19.7
+2024-07-03,Santa Teresa,20.5
+2024-07-10,Santa Teresa,17.2
+2024-07-17,Santa Teresa,19.8
+2024-07-24,Santa Teresa,19.5
+2024-07-31,Santa Teresa,20.4
+2024-08-07,Santa Teresa,22.5
+2024-08-14,Santa Teresa,17.1
+2024-08-21,Santa Teresa,20.1
+2024-08-28,Santa Teresa,15.7
+2024-09-04,Santa Teresa,19.9
+2024-09-11,Santa Teresa,27.3
+2024-09-18,Santa Teresa,19.5
+2024-09-25,Santa Teresa,25.9
+2024-10-02,Santa Teresa,23.6
+2024-10-09,Santa Teresa,23.0
+2024-10-16,Santa Teresa,20.8
+2024-10-23,Santa Teresa,24.1
+2024-10-30,Santa Teresa,18.8
+2024-11-06,Santa Teresa,19.8
+2024-11-13,Santa Teresa,20.4
+2024-11-20,Santa Teresa,24.8
+2024-11-27,Santa Teresa,17.4
+2024-12-04,Santa Teresa,16.3
+2024-12-11,Santa Teresa,15.3
+2024-12-18,Santa Teresa,19.0
+2024-12-25,Santa Teresa,21.0
+2025-01-01,Santa Teresa,21.5
+2025-01-08,Santa Teresa,16.3
+2025-01-15,Santa Teresa,18.7
+2025-01-22,Santa Teresa,21.0
+2025-01-29,Santa Teresa,21.8
+2025-02-05,Santa Teresa,24.6
+2025-02-12,Santa Teresa,21.1
+2025-02-19,Santa Teresa,23.1
+2025-02-26,Santa Teresa,26.1
+2025-03-05,Santa Teresa,21.2
+2025-03-12,Santa Teresa,22.0
+2025-03-19,Santa Teresa,16.3
+2025-03-26,Santa Teresa,19.8
+2025-04-02,Santa Teresa,20.2
+2025-04-09,Santa Teresa,22.2
+2025-04-16,Santa Teresa,19.8
+2025-04-23,Santa Teresa,24.5
+2025-04-30,Santa Teresa,18.4
+2025-05-07,Santa Teresa,17.6
+2025-05-14,Santa Teresa,20.4
+2025-05-21,Santa Teresa,20.4
+2025-05-28,Santa Teresa,21.8
+2025-06-04,Santa Teresa,15.7
+2025-06-11,Santa Teresa,15.9
+2025-06-18,Santa Teresa,17.6
+2025-06-25,Santa Teresa,19.5
+2025-07-02,Santa Teresa,24.5
+2025-07-09,Santa Teresa,23.1
+2025-07-16,Santa Teresa,22.2
+2025-07-23,Santa Teresa,22.8
+2025-07-30,Santa Teresa,17.7
+2025-08-06,Santa Teresa,27.5
+2025-08-13,Santa Teresa,27.2
+2025-08-20,Santa Teresa,22.3
+2025-08-27,Santa Teresa,23.0
+2025-09-03,Santa Teresa,24.8
+2025-09-10,Santa Teresa,21.3
+2025-09-17,Santa Teresa,21.6
+2025-09-24,Santa Teresa,25.6
+2025-10-01,Santa Teresa,27.2
+2025-10-08,Santa Teresa,20.9
+2025-10-15,Santa Teresa,22.6
+2025-10-22,Santa Teresa,23.5
+2025-10-29,Santa Teresa,18.8
+2025-11-05,Santa Teresa,24.9
+2025-11-12,Santa Teresa,18.6
+2025-11-19,Santa Teresa,19.1
+2025-11-26,Santa Teresa,20.9
+2025-12-03,Santa Teresa,19.2
+2025-12-10,Santa Teresa,16.5
+2025-12-17,Santa Teresa,19.6
+2025-12-24,Santa Teresa,20.2
+2025-12-31,Santa Teresa,20.7
+2026-01-07,Santa Teresa,18.9
+2026-01-14,Santa Teresa,17.4
+2026-01-21,Santa Teresa,20.8
+2026-01-28,Santa Teresa,18.7
+2026-02-04,Santa Teresa,16.8
+2026-02-11,Santa Teresa,19.1
+2026-02-18,Santa Teresa,21.2
+2026-02-25,Santa Teresa,21.5
+2026-03-04,Santa Teresa,18.4
+2026-03-11,Santa Teresa,25.8
+2026-03-18,Santa Teresa,20.3
+2026-03-25,Santa Teresa,22.6
+2026-04-01,Santa Teresa,21.0
+2026-04-08,Santa Teresa,18.7
+2026-04-15,Santa Teresa,19.5
+2026-04-22,Santa Teresa,18.3
+2026-04-29,Santa Teresa,20.5
+2026-05-06,Santa Teresa,21.0
+2026-05-13,Santa Teresa,18.1
+2026-05-20,Santa Teresa,17.8
+2026-05-27,Santa Teresa,16.9
+2026-06-03,Santa Teresa,18.7
+2026-06-10,Santa Teresa,16.7
+2026-06-17,Santa Teresa,20.7
+2026-06-24,Santa Teresa,21.3
+2026-07-01,Santa Teresa,25.3
+2026-07-08,Santa Teresa,19.0
+2026-07-15,Santa Teresa,18.7
+2026-07-22,Santa Teresa,20.6
+2026-07-29,Santa Teresa,15.1
+2026-08-05,Santa Teresa,18.2
+2026-08-12,Santa Teresa,27.9
+2026-08-19,Santa Teresa,25.2
+2026-08-26,Santa Teresa,25.7
+2026-09-02,Santa Teresa,16.4
+2026-09-09,Santa Teresa,19.8
+2026-09-16,Santa Teresa,20.3
+2026-09-23,Santa Teresa,19.4
+2026-09-30,Santa Teresa,19.0
+2026-10-07,Santa Teresa,20.6
+2017-03-29,System,28.5
+2017-04-05,System,28.7
+2017-04-12,System,28.1
+2017-04-19,System,28.2
+2017-04-26,System,27.6
+2017-05-03,System,27.7
+2017-05-10,System,28.2
+2017-05-17,System,27.9
+2017-05-24,System,27.6
+2017-05-31,System,27.8
+2017-06-07,System,31.3
+2017-06-14,System,27.9
+2017-06-21,System,28.0
+2017-06-28,System,28.5
+2017-07-05,System,28.7
+2017-07-12,System,32.6
+2017-07-19,System,28.5
+2017-07-26,System,29.0
+2017-08-02,System,28.7
+2017-08-09,System,28.6
+2017-08-16,System,29.2
+2017-08-23,System,29.1
+2017-08-30,System,29.5
+2017-09-06,System,31.8
+2017-09-13,System,34.1
+2017-09-20,System,29.2
+2017-09-27,System,29.8
+2017-10-04,System,29.8
+2017-10-11,System,30.2
+2017-10-18,System,30.9
+2017-10-25,System,30.4
+2017-11-01,System,30.2
+2017-11-08,System,30.4
+2017-11-15,System,30.4
+2017-11-22,System,30.4
+2017-11-29,System,30.4
+2017-12-06,System,37.6
+2017-12-13,System,32.0
+2017-12-20,System,32.5
+2017-12-27,System,31.9
+2018-01-03,System,43.0
+2018-01-10,System,42.4
+2018-01-17,System,42.4
+2018-01-24,System,34.2
+2018-01-31,System,32.8
+2018-02-07,System,32.0
+2018-02-14,System,31.9
+2018-02-21,System,33.2
+2018-02-28,System,33.3
+2018-03-07,System,32.5
+2018-03-14,System,32.3
+2018-03-21,System,32.5
+2018-03-28,System,31.7
+2018-04-04,System,30.6
+2018-04-11,System,30.3
+2018-04-18,System,29.7
+2018-04-25,System,30.4
+2018-05-02,System,29.2
+2018-05-09,System,29.6
+2018-05-16,System,29.5
+2018-05-23,System,29.2
+2018-05-30,System,28.9
+2018-06-06,System,29.4
+2018-06-13,System,28.4
+2018-06-20,System,29.5
+2018-06-27,System,30.3
+2018-07-04,System,29.6
+2018-07-11,System,31.0
+2018-07-18,System,29.3
+2018-07-25,System,28.9
+2018-08-01,System,29.1
+2018-08-08,System,29.0
+2018-08-15,System,29.1
+2018-08-22,System,29.6
+2018-08-29,System,29.6
+2018-09-05,System,28.9
+2018-09-12,System,30.4
+2018-09-19,System,28.6
+2018-09-26,System,28.1
+2018-10-03,System,28.3
+2018-10-10,System,28.1
+2018-10-17,System,27.9
+2018-10-24,System,27.6
+2018-10-31,System,26.9
+2018-11-07,System,26.6
+2018-11-14,System,26.3
+2018-11-21,System,25.8
+2018-11-28,System,26.5
+2018-12-05,System,26.8
+2018-12-12,System,25.2
+2018-12-19,System,25.7
+2018-12-26,System,25.4
+2019-01-02,System,28.7
+2019-01-09,System,25.8
+2019-01-16,System,23.7
+2019-01-23,System,24.3
+2019-01-30,System,24.6
+2019-02-06,System,25.3
+2019-02-13,System,26.2
+2019-02-20,System,27.2
+2019-02-27,System,27.2
+2019-03-06,System,27.4
+2019-03-13,System,28.9
+2019-03-20,System,28.2
+2019-03-27,System,27.7
+2019-04-03,System,27.1
+2019-04-10,System,27.2
+2019-04-17,System,26.5
+2019-04-24,System,25.6
+2019-05-01,System,25.4
+2019-05-08,System,25.6
+2019-05-15,System,25.6
+2019-05-22,System,25.4
+2019-05-29,System,25.6
+2019-06-05,System,25.0
+2019-06-12,System,24.4
+2019-06-19,System,25.3
+2019-06-26,System,25.4
+2019-07-03,System,24.8
+2019-07-10,System,25.1
+2019-07-17,System,23.8
+2019-07-24,System,24.0
+2019-07-31,System,23.6
+2019-08-07,System,23.0
+2019-08-14,System,22.9
+2019-08-21,System,22.9
+2019-08-28,System,23.3
+2019-09-04,System,23.2
+2019-09-11,System,23.8
+2019-09-18,System,22.6
+2019-09-25,System,22.9
+2019-10-02,System,22.4
+2019-10-09,System,22.5
+2019-10-16,System,22.4
+2019-10-23,System,22.3
+2019-10-30,System,22.4
+2019-11-06,System,22.7
+2019-11-13,System,22.8
+2019-11-20,System,22.8
+2019-11-27,System,22.5
+2019-12-04,System,23.2
+2019-12-11,System,22.7
+2019-12-18,System,22.2
+2019-12-25,System,23.8
+2020-01-01,System,28.3
+2020-01-08,System,24.4
+2020-01-15,System,21.7
+2020-01-22,System,23.7
+2020-01-29,System,24.4
+2020-02-05,System,24.2
+2020-02-12,System,24.7
+2020-02-19,System,25.1
+2020-02-26,System,24.4
+2020-03-04,System,23.8
+2020-03-11,System,23.7
+2020-03-18,System,23.8
+2020-03-25,System,23.7
+2020-04-01,System,22.9
+2020-04-08,System,22.1
+2020-04-15,System,21.4
+2020-04-22,System,21.0
+2020-04-29,System,20.8
+2020-05-06,System,20.9
+2020-05-13,System,21.3
+2020-05-20,System,21.3
+2020-05-27,System,21.1
+2020-06-03,System,21.5
+2020-06-10,System,21.4
+2020-06-17,System,21.8
+2020-06-24,System,22.4
+2020-07-01,System,22.9
+2020-07-08,System,23.0
+2020-07-15,System,23.0
+2020-07-22,System,22.3
+2020-07-29,System,22.5
+2020-08-05,System,22.7
+2020-08-12,System,22.8
+2020-08-19,System,23.0
+2020-08-26,System,22.8
+2020-09-02,System,23.2
+2020-09-09,System,22.8
+2020-09-16,System,22.7
+2020-09-23,System,22.3
+2020-09-30,System,23.0
+2020-10-07,System,23.2
+2020-10-14,System,23.0
+2020-10-21,System,22.7
+2020-10-28,System,22.3
+2020-11-04,System,22.6
+2020-11-11,System,22.2
+2020-11-18,System,21.9
+2020-11-25,System,22.0
+2020-12-02,System,22.4
+2020-12-09,System,21.6
+2020-12-16,System,21.5
+2020-12-23,System,22.1
+2020-12-30,System,22.8
+2021-01-06,System,24.8
+2021-01-13,System,21.3
+2021-01-20,System,21.7
+2021-01-27,System,21.7
+2021-02-03,System,22.5
+2021-02-10,System,23.3
+2021-02-17,System,24.8
+2021-02-24,System,29.7
+2021-03-03,System,25.3
+2021-03-10,System,23.2
+2021-03-17,System,22.9
+2021-03-24,System,23.4
+2021-03-31,System,23.0
+2021-04-07,System,23.4
+2021-04-14,System,22.9
+2021-04-21,System,22.0
+2021-04-28,System,22.7
+2021-05-05,System,22.5
+2021-05-12,System,22.5
+2021-05-19,System,22.5
+2021-05-26,System,23.1
+2021-06-02,System,23.5
+2021-06-09,System,23.2
+2021-06-16,System,22.6
+2021-06-23,System,23.5
+2021-06-30,System,23.4
+2021-07-07,System,23.8
+2021-07-14,System,23.9
+2021-07-21,System,23.2
+2021-07-28,System,23.7
+2021-08-04,System,23.4
+2021-08-11,System,24.7
+2021-08-18,System,24.9
+2021-08-25,System,25.0
+2021-09-01,System,24.7
+2021-09-08,System,25.4
+2021-09-15,System,24.1
+2021-09-22,System,23.1
+2021-09-29,System,22.9
+2021-10-06,System,23.1
+2021-10-13,System,24.1
+2021-10-20,System,24.5
+2021-10-27,System,25.0
+2021-11-03,System,24.7
+2021-11-10,System,24.9
+2021-11-17,System,24.3
+2021-11-24,System,24.7
+2021-12-01,System,25.4
+2021-12-08,System,23.6
+2021-12-15,System,23.3
+2021-12-22,System,24.0
+2021-12-29,System,24.1
+2022-01-05,System,25.1
+2022-01-12,System,23.5
+2022-01-19,System,22.4
+2022-01-26,System,22.8
+2022-02-02,System,23.2
+2022-02-09,System,23.6
+2022-02-16,System,23.4
+2022-02-23,System,23.7
+2022-03-02,System,23.6
+2022-03-09,System,23.9
+2022-03-16,System,24.9
+2022-03-23,System,24.9
+2022-03-30,System,25.7
+2022-04-06,System,25.7
+2022-04-13,System,26.3
+2022-04-20,System,26.3
+2022-04-27,System,25.6
+2022-05-04,System,25.1
+2022-05-11,System,24.9
+2022-05-18,System,24.3
+2022-05-25,System,24.0
+2022-06-01,System,24.3
+2022-06-08,System,23.7
+2022-06-15,System,22.9
+2022-06-22,System,23.6
+2022-06-29,System,24.2
+2022-07-06,System,24.5
+2022-07-13,System,24.4
+2022-07-20,System,23.7
+2022-07-27,System,24.4
+2022-08-03,System,24.4
+2022-08-10,System,24.3
+2022-08-17,System,24.2
+2022-08-24,System,24.6
+2022-08-31,System,24.9
+2022-09-07,System,24.7
+2022-09-14,System,24.7
+2022-09-21,System,24.1
+2022-09-28,System,24.6
+2022-10-05,System,24.0
+2022-10-12,System,23.9
+2022-10-19,System,23.8
+2022-10-26,System,24.1
+2022-11-02,System,24.1
+2022-11-09,System,24.0
+2022-11-16,System,24.3
+2022-11-23,System,24.9
+2022-11-30,System,25.3
+2022-12-07,System,23.8
+2022-12-14,System,23.6
+2022-12-21,System,24.1
+2022-12-28,System,25.2
+2023-01-04,System,28.5
+2023-01-11,System,23.5
+2023-01-18,System,22.1
+2023-01-25,System,23.1
+2023-02-01,System,23.6
+2023-02-08,System,25.0
+2023-02-15,System,24.5
+2023-02-22,System,24.0
+2023-03-01,System,23.9
+2023-03-08,System,24.4
+2023-03-15,System,24.3
+2023-03-22,System,24.4
+2023-03-29,System,24.2
+2023-04-05,System,24.2
+2023-04-12,System,24.2
+2023-04-19,System,23.8
+2023-04-26,System,23.5
+2023-05-03,System,23.0
+2023-05-10,System,23.2
+2023-05-17,System,23.0
+2023-05-24,System,23.2
+2023-05-31,System,23.3
+2023-06-07,System,23.1
+2023-06-14,System,22.8
+2023-06-21,System,22.9
+2023-06-28,System,23.7
+2023-07-05,System,23.6
+2023-07-12,System,24.4
+2023-07-19,System,23.5
+2023-07-26,System,23.5
+2023-08-02,System,23.5
+2023-08-09,System,23.8
+2023-08-16,System,24.1
+2023-08-23,System,23.5
+2023-08-30,System,23.8
+2023-09-06,System,23.7
+2023-09-13,System,23.1
+2023-09-20,System,22.5
+2023-09-27,System,23.2
+2023-10-04,System,23.3
+2023-10-11,System,23.3
+2023-10-18,System,23.0
+2023-10-25,System,22.7
+2023-11-01,System,22.9
+2023-11-08,System,22.9
+2023-11-15,System,22.6
+2023-11-22,System,22.3
+2023-11-29,System,22.5
+2023-12-06,System,21.5
+2023-12-13,System,21.9
+2023-12-20,System,22.3
+2023-12-27,System,22.4
+2024-01-03,System,25.1
+2024-01-10,System,21.3
+2024-01-17,System,23.1
+2024-01-24,System,27.6
+2024-01-31,System,25.3
+2024-02-07,System,23.3
+2024-02-14,System,23.3
+2024-02-21,System,23.3
+2024-02-28,System,23.1
+2024-03-06,System,23.0
+2024-03-13,System,23.2
+2024-03-20,System,23.2
+2024-03-27,System,22.9
+2024-04-03,System,22.9
+2024-04-10,System,23.2
+2024-04-17,System,22.3
+2024-04-24,System,22.6
+2024-05-01,System,22.5
+2024-05-08,System,22.8
+2024-05-15,System,22.9
+2024-05-22,System,22.4
+2024-05-29,System,22.4
+2024-06-05,System,23.0
+2024-06-12,System,22.7
+2024-06-19,System,22.7
+2024-06-26,System,22.8
+2024-07-03,System,22.7
+2024-07-10,System,22.4
+2024-07-17,System,22.2
+2024-07-24,System,21.9
+2024-07-31,System,22.4
+2024-08-07,System,23.1
+2024-08-14,System,23.3
+2024-08-21,System,23.0
+2024-08-28,System,22.7
+2024-09-04,System,22.3
+2024-09-11,System,22.2
+2024-09-18,System,21.6
+2024-09-25,System,21.7
+2024-10-02,System,21.8
+2024-10-09,System,21.4
+2024-10-16,System,21.5
+2024-10-23,System,21.6
+2024-10-30,System,21.5
+2024-11-06,System,22.0
+2024-11-13,System,22.1
+2024-11-20,System,21.7
+2024-11-27,System,22.0
+2024-12-04,System,21.8
+2024-12-11,System,20.8
+2024-12-18,System,21.0
+2024-12-25,System,21.5
+2025-01-01,System,24.8
+2025-01-08,System,20.9
+2025-01-15,System,20.4
+2025-01-22,System,21.1
+2025-01-29,System,23.3
+2025-02-05,System,21.6
+2025-02-12,System,21.9
+2025-02-19,System,22.7
+2025-02-26,System,23.2
+2025-03-05,System,22.3
+2025-03-12,System,22.6
+2025-03-19,System,22.1
+2025-03-26,System,22.2
+2025-04-02,System,22.4
+2025-04-09,System,22.4
+2025-04-16,System,22.0
+2025-04-23,System,21.6
+2025-04-30,System,20.9
+2025-05-07,System,21.2
+2025-05-14,System,21.0
+2025-05-21,System,20.7
+2025-05-28,System,21.0
+2025-06-04,System,20.8
+2025-06-11,System,20.7
+2025-06-18,System,21.4
+2025-06-25,System,21.4
+2025-07-02,System,21.4
+2025-07-09,System,21.5
+2025-07-16,System,21.2
+2025-07-23,System,20.4
+2025-07-30,System,20.8
+2025-08-06,System,20.8
+2025-08-13,System,20.7
+2025-08-20,System,20.5
+2025-08-27,System,20.4
+2025-09-03,System,20.1
+2025-09-10,System,20.1
+2025-09-17,System,19.7
+2025-09-24,System,20.0
+2025-10-01,System,19.9
+2025-10-08,System,20.0
+2025-10-15,System,20.1
+2025-10-22,System,19.8
+2025-10-29,System,19.9
+2025-11-05,System,20.0
+2025-11-12,System,19.6
+2025-11-19,System,19.5
+2025-11-26,System,19.3
+2025-12-03,System,19.7
+2025-12-10,System,19.3
+2025-12-17,System,19.2
+2025-12-24,System,19.8
+2025-12-31,System,21.6
+2026-01-07,System,19.9
+2026-01-14,System,18.1
+2026-01-21,System,18.9
+2026-01-28,System,19.5
+2026-02-04,System,21.1
+2026-02-11,System,19.7
+2026-02-18,System,19.3
+2026-02-25,System,19.4
+2026-03-04,System,19.5
+2026-03-11,System,19.8
+2026-03-18,System,20.2
+2026-03-25,System,20.3
+2026-04-01,System,20.1
+2026-04-08,System,19.9
+2026-04-15,System,19.6
+2026-04-22,System,19.4
+2026-04-29,System,20.0
+2026-05-06,System,20.0
+2026-05-13,System,19.9
+2026-05-20,System,19.5
+2026-05-27,System,19.8
+2026-06-03,System,19.7
+2026-06-10,System,19.4
+2026-06-17,System,19.9
+2026-06-24,System,19.7
+2026-07-01,System,19.5
+2026-07-08,System,19.6
+2026-07-15,System,19.8
+2026-07-22,System,19.8
+2026-07-29,System,19.9
+2026-08-05,System,20.0
+2026-08-12,System,20.2
+2026-08-19,System,20.4
+2026-08-26,System,19.8
+2026-09-02,System,20.0
+2026-09-09,System,20.2
+2026-09-16,System,19.8
+2026-09-23,System,19.5
+2026-09-30,System,19.8
+2026-10-07,System,20.0
+2017-03-29,"West Colton, CA",41.8
+2017-04-05,"West Colton, CA",37.8
+2017-04-12,"West Colton, CA",35.4
+2017-04-19,"West Colton, CA",36.6
+2017-04-26,"West Colton, CA",33.3
+2017-05-03,"West Colton, CA",33.5
+2017-05-10,"West Colton, CA",36.0
+2017-05-17,"West Colton, CA",37.8
+2017-05-24,"West Colton, CA",43.2
+2017-05-31,"West Colton, CA",39.9
+2017-06-07,"West Colton, CA",42.4
+2017-06-14,"West Colton, CA",33.3
+2017-06-21,"West Colton, CA",36.6
+2017-06-28,"West Colton, CA",39.3
+2017-07-05,"West Colton, CA",37.8
+2017-07-12,"West Colton, CA",47.1
+2017-07-19,"West Colton, CA",39.9
+2017-07-26,"West Colton, CA",40.3
+2017-08-02,"West Colton, CA",37.6
+2017-08-09,"West Colton, CA",36.8
+2017-08-16,"West Colton, CA",38.5
+2017-08-23,"West Colton, CA",39.6
+2017-08-30,"West Colton, CA",38.8
+2017-09-06,"West Colton, CA",42.3
+2017-09-13,"West Colton, CA",47.3
+2017-09-20,"West Colton, CA",41.0
+2017-09-27,"West Colton, CA",38.1
+2017-10-04,"West Colton, CA",39.2
+2017-10-11,"West Colton, CA",40.8
+2017-10-18,"West Colton, CA",43.7
+2017-10-25,"West Colton, CA",37.6
+2017-11-01,"West Colton, CA",35.3
+2017-11-08,"West Colton, CA",40.4
+2017-11-15,"West Colton, CA",35.8
+2017-11-22,"West Colton, CA",36.6
+2017-11-29,"West Colton, CA",34.9
+2017-12-06,"West Colton, CA",49.8
+2017-12-13,"West Colton, CA",38.3
+2017-12-20,"West Colton, CA",45.1
+2017-12-27,"West Colton, CA",43.9
+2018-01-03,"West Colton, CA",61.7
+2018-01-10,"West Colton, CA",62.6
+2018-01-17,"West Colton, CA",54.7
+2018-01-24,"West Colton, CA",56.1
+2018-01-31,"West Colton, CA",51.2
+2018-02-07,"West Colton, CA",47.9
+2018-02-14,"West Colton, CA",47.4
+2018-02-21,"West Colton, CA",46.3
+2018-02-28,"West Colton, CA",46.2
+2018-03-07,"West Colton, CA",41.8
+2018-03-14,"West Colton, CA",41.0
+2018-03-21,"West Colton, CA",36.5
+2018-03-28,"West Colton, CA",37.1
+2018-04-04,"West Colton, CA",36.0
+2018-04-11,"West Colton, CA",35.2
+2018-04-18,"West Colton, CA",34.9
+2018-04-25,"West Colton, CA",34.8
+2018-05-02,"West Colton, CA",36.5
+2018-05-09,"West Colton, CA",40.6
+2018-05-16,"West Colton, CA",39.0
+2018-05-23,"West Colton, CA",36.5
+2018-05-30,"West Colton, CA",38.2
+2018-06-06,"West Colton, CA",35.8
+2018-06-13,"West Colton, CA",30.2
+2018-06-20,"West Colton, CA",34.4
+2018-06-27,"West Colton, CA",31.8
+2018-07-04,"West Colton, CA",35.4
+2018-07-11,"West Colton, CA",45.2
+2018-07-18,"West Colton, CA",39.0
+2018-07-25,"West Colton, CA",35.3
+2018-08-01,"West Colton, CA",35.9
+2018-08-08,"West Colton, CA",38.0
+2018-08-15,"West Colton, CA",36.0
+2018-08-22,"West Colton, CA",37.6
+2018-08-29,"West Colton, CA",36.5
+2018-09-05,"West Colton, CA",36.8
+2018-09-12,"West Colton, CA",36.1
+2018-09-19,"West Colton, CA",33.0
+2018-09-26,"West Colton, CA",35.0
+2018-10-03,"West Colton, CA",34.6
+2018-10-10,"West Colton, CA",37.7
+2018-10-17,"West Colton, CA",33.2
+2018-10-24,"West Colton, CA",33.8
+2018-10-31,"West Colton, CA",32.6
+2018-11-07,"West Colton, CA",32.2
+2018-11-14,"West Colton, CA",31.6
+2018-11-21,"West Colton, CA",28.8
+2018-11-28,"West Colton, CA",34.0
+2018-12-05,"West Colton, CA",29.6
+2018-12-12,"West Colton, CA",29.5
+2018-12-19,"West Colton, CA",25.9
+2018-12-26,"West Colton, CA",28.5
+2019-01-02,"West Colton, CA",26.7
+2019-01-09,"West Colton, CA",22.7
+2019-01-16,"West Colton, CA",24.0
+2019-01-23,"West Colton, CA",25.3
+2019-01-30,"West Colton, CA",25.5
+2019-02-06,"West Colton, CA",26.8
+2019-02-13,"West Colton, CA",26.7
+2019-02-20,"West Colton, CA",27.1
+2019-02-27,"West Colton, CA",28.0
+2019-03-06,"West Colton, CA",27.7
+2019-03-13,"West Colton, CA",31.1
+2019-03-20,"West Colton, CA",27.2
+2019-03-27,"West Colton, CA",31.8
+2019-04-03,"West Colton, CA",29.2
+2019-04-10,"West Colton, CA",27.0
+2019-04-17,"West Colton, CA",28.4
+2019-04-24,"West Colton, CA",28.9
+2019-05-01,"West Colton, CA",27.0
+2019-05-08,"West Colton, CA",30.9
+2019-05-15,"West Colton, CA",29.2
+2019-05-22,"West Colton, CA",28.4
+2019-05-29,"West Colton, CA",27.1
+2019-06-05,"West Colton, CA",27.4
+2019-06-12,"West Colton, CA",29.1
+2019-06-19,"West Colton, CA",31.3
+2019-06-26,"West Colton, CA",29.1
+2019-07-03,"West Colton, CA",27.8
+2019-07-10,"West Colton, CA",28.4
+2019-07-17,"West Colton, CA",25.3
+2019-07-24,"West Colton, CA",23.8
+2019-07-31,"West Colton, CA",25.6
+2019-08-07,"West Colton, CA",25.8
+2019-08-14,"West Colton, CA",24.9
+2019-08-21,"West Colton, CA",25.0
+2019-08-28,"West Colton, CA",26.9
+2019-09-04,"West Colton, CA",28.5
+2019-09-11,"West Colton, CA",27.0
+2019-09-18,"West Colton, CA",26.5
+2019-09-25,"West Colton, CA",25.1
+2019-10-02,"West Colton, CA",29.4
+2019-10-09,"West Colton, CA",25.6
+2019-10-16,"West Colton, CA",26.0
+2019-10-23,"West Colton, CA",30.4
+2019-10-30,"West Colton, CA",29.1
+2019-11-06,"West Colton, CA",26.1
+2019-11-13,"West Colton, CA",28.9
+2019-11-20,"West Colton, CA",26.9
+2019-11-27,"West Colton, CA",28.1
+2019-12-04,"West Colton, CA",29.3
+2019-12-11,"West Colton, CA",25.2
+2019-12-18,"West Colton, CA",26.1
+2019-12-25,"West Colton, CA",33.9
+2020-01-01,"West Colton, CA",34.1
+2020-01-08,"West Colton, CA",26.4
+2020-01-15,"West Colton, CA",25.3
+2020-01-22,"West Colton, CA",26.9
+2020-01-29,"West Colton, CA",26.2
+2020-02-05,"West Colton, CA",26.1
+2020-02-12,"West Colton, CA",28.5
+2020-02-19,"West Colton, CA",28.6
+2020-02-26,"West Colton, CA",27.7
+2020-03-04,"West Colton, CA",25.5
+2020-03-11,"West Colton, CA",25.4
+2020-03-18,"West Colton, CA",34.2
+2020-03-25,"West Colton, CA",35.3
+2020-04-01,"West Colton, CA",27.3
+2020-04-08,"West Colton, CA",27.8
+2020-04-15,"West Colton, CA",31.3
+2020-04-22,"West Colton, CA",23.2
+2020-04-29,"West Colton, CA",21.3
+2020-05-06,"West Colton, CA",22.6
+2020-05-13,"West Colton, CA",20.4
+2020-05-20,"West Colton, CA",21.7
+2020-05-27,"West Colton, CA",22.1
+2020-06-03,"West Colton, CA",18.9
+2020-06-10,"West Colton, CA",20.4
+2020-06-17,"West Colton, CA",21.2
+2020-06-24,"West Colton, CA",21.7
+2020-07-01,"West Colton, CA",25.2
+2020-07-08,"West Colton, CA",25.5
+2020-07-15,"West Colton, CA",24.4
+2020-07-22,"West Colton, CA",24.6
+2020-07-29,"West Colton, CA",23.9
+2020-08-05,"West Colton, CA",25.9
+2020-08-12,"West Colton, CA",24.1
+2020-08-19,"West Colton, CA",24.9
+2020-08-26,"West Colton, CA",24.2
+2020-09-02,"West Colton, CA",22.0
+2020-09-09,"West Colton, CA",23.1
+2020-09-16,"West Colton, CA",22.4
+2020-09-23,"West Colton, CA",21.6
+2020-09-30,"West Colton, CA",20.8
+2020-10-07,"West Colton, CA",22.8
+2020-10-14,"West Colton, CA",23.5
+2020-10-21,"West Colton, CA",21.8
+2020-10-28,"West Colton, CA",21.5
+2020-11-04,"West Colton, CA",22.1
+2020-11-11,"West Colton, CA",23.0
+2020-11-18,"West Colton, CA",20.5
+2020-11-25,"West Colton, CA",22.1
+2020-12-02,"West Colton, CA",23.9
+2020-12-09,"West Colton, CA",24.4
+2020-12-16,"West Colton, CA",24.1
+2020-12-23,"West Colton, CA",30.0
+2020-12-30,"West Colton, CA",32.5
+2021-01-06,"West Colton, CA",29.9
+2021-01-13,"West Colton, CA",24.5
+2021-01-20,"West Colton, CA",26.4
+2021-01-27,"West Colton, CA",28.8
+2021-02-03,"West Colton, CA",26.0
+2021-02-10,"West Colton, CA",27.0
+2021-02-17,"West Colton, CA",30.2
+2021-02-24,"West Colton, CA",27.9
+2021-03-03,"West Colton, CA",26.9
+2021-03-10,"West Colton, CA",26.4
+2021-03-17,"West Colton, CA",28.0
+2021-03-24,"West Colton, CA",29.8
+2021-03-31,"West Colton, CA",28.5
+2021-04-07,"West Colton, CA",33.7
+2021-04-14,"West Colton, CA",34.0
+2021-04-21,"West Colton, CA",33.7
+2021-04-28,"West Colton, CA",29.0
+2021-05-05,"West Colton, CA",29.1
+2021-05-12,"West Colton, CA",30.7
+2021-05-19,"West Colton, CA",29.6
+2021-05-26,"West Colton, CA",31.8
+2021-06-02,"West Colton, CA",34.8
+2021-06-09,"West Colton, CA",35.2
+2021-06-16,"West Colton, CA",32.1
+2021-06-23,"West Colton, CA",32.3
+2021-06-30,"West Colton, CA",34.2
+2021-07-07,"West Colton, CA",33.9
+2021-07-14,"West Colton, CA",38.3
+2021-07-21,"West Colton, CA",35.7
+2021-07-28,"West Colton, CA",41.4
+2021-08-04,"West Colton, CA",42.4
+2021-08-11,"West Colton, CA",48.6
+2021-08-18,"West Colton, CA",34.0
+2021-08-25,"West Colton, CA",29.4
+2021-09-01,"West Colton, CA",30.0
+2021-09-08,"West Colton, CA",30.0
+2021-09-15,"West Colton, CA",27.8
+2021-09-22,"West Colton, CA",22.6
+2021-09-29,"West Colton, CA",24.0
+2021-10-06,"West Colton, CA",24.5
+2021-10-13,"West Colton, CA",26.0
+2021-10-20,"West Colton, CA",23.4
+2021-10-27,"West Colton, CA",25.1
+2021-11-03,"West Colton, CA",25.3
+2021-11-10,"West Colton, CA",24.3
+2021-11-17,"West Colton, CA",24.5
+2021-11-24,"West Colton, CA",24.6
+2021-12-01,"West Colton, CA",26.6
+2021-12-08,"West Colton, CA",27.8
+2021-12-15,"West Colton, CA",27.0
+2021-12-22,"West Colton, CA",30.4
+2021-12-29,"West Colton, CA",25.0
+2022-01-05,"West Colton, CA",26.4
+2022-01-12,"West Colton, CA",23.7
+2022-01-19,"West Colton, CA",26.0
+2022-01-26,"West Colton, CA",23.7
+2022-02-02,"West Colton, CA",25.3
+2022-02-09,"West Colton, CA",24.7
+2022-02-16,"West Colton, CA",27.9
+2022-02-23,"West Colton, CA",25.7
+2022-03-02,"West Colton, CA",25.0
+2022-03-09,"West Colton, CA",24.1
+2022-03-16,"West Colton, CA",23.3
+2022-03-23,"West Colton, CA",25.5
+2022-03-30,"West Colton, CA",27.1
+2022-04-06,"West Colton, CA",26.7
+2022-04-13,"West Colton, CA",26.2
+2022-04-20,"West Colton, CA",26.4
+2022-04-27,"West Colton, CA",26.9
+2022-05-04,"West Colton, CA",24.2
+2022-05-11,"West Colton, CA",25.7
+2022-05-18,"West Colton, CA",27.6
+2022-05-25,"West Colton, CA",25.7
+2022-06-01,"West Colton, CA",24.6
+2022-06-08,"West Colton, CA",26.6
+2022-06-15,"West Colton, CA",24.3
+2022-06-22,"West Colton, CA",24.8
+2022-06-29,"West Colton, CA",26.8
+2022-07-06,"West Colton, CA",28.6
+2022-07-13,"West Colton, CA",24.9
+2022-07-20,"West Colton, CA",26.6
+2022-07-27,"West Colton, CA",24.1
+2022-08-03,"West Colton, CA",25.5
+2022-08-10,"West Colton, CA",25.9
+2022-08-17,"West Colton, CA",28.1
+2022-08-24,"West Colton, CA",31.2
+2022-08-31,"West Colton, CA",28.8
+2022-09-07,"West Colton, CA",27.5
+2022-09-14,"West Colton, CA",26.8
+2022-09-21,"West Colton, CA",28.2
+2022-09-28,"West Colton, CA",30.4
+2022-10-05,"West Colton, CA",28.4
+2022-10-12,"West Colton, CA",28.1
+2022-10-19,"West Colton, CA",26.9
+2022-10-26,"West Colton, CA",26.4
+2022-11-02,"West Colton, CA",27.5
+2022-11-09,"West Colton, CA",31.8
+2022-11-16,"West Colton, CA",27.8
+2022-11-23,"West Colton, CA",22.9
+2022-11-30,"West Colton, CA",23.1
+2022-12-07,"West Colton, CA",20.9
+2022-12-14,"West Colton, CA",23.0
+2022-12-21,"West Colton, CA",22.0
+2022-12-28,"West Colton, CA",23.9
+2023-01-04,"West Colton, CA",23.0
+2023-01-11,"West Colton, CA",21.5
+2023-01-18,"West Colton, CA",20.2
+2023-01-25,"West Colton, CA",21.3
+2023-02-01,"West Colton, CA",22.7
+2023-02-08,"West Colton, CA",22.6
+2023-02-15,"West Colton, CA",21.0
+2023-02-22,"West Colton, CA",23.1
+2023-03-01,"West Colton, CA",21.8
+2023-03-08,"West Colton, CA",24.6
+2023-03-15,"West Colton, CA",24.5
+2023-03-22,"West Colton, CA",26.8
+2023-03-29,"West Colton, CA",27.2
+2023-04-05,"West Colton, CA",24.9
+2023-04-12,"West Colton, CA",24.2
+2023-04-19,"West Colton, CA",23.8
+2023-04-26,"West Colton, CA",25.4
+2023-05-03,"West Colton, CA",24.9
+2023-05-10,"West Colton, CA",26.1
+2023-05-17,"West Colton, CA",24.2
+2023-05-24,"West Colton, CA",23.5
+2023-05-31,"West Colton, CA",24.8
+2023-06-07,"West Colton, CA",24.7
+2023-06-14,"West Colton, CA",26.3
+2023-06-21,"West Colton, CA",27.0
+2023-06-28,"West Colton, CA",27.5
+2023-07-05,"West Colton, CA",26.6
+2023-07-12,"West Colton, CA",26.7
+2023-07-19,"West Colton, CA",26.4
+2023-07-26,"West Colton, CA",28.3
+2023-08-02,"West Colton, CA",31.6
+2023-08-09,"West Colton, CA",29.2
+2023-08-16,"West Colton, CA",31.5
+2023-08-23,"West Colton, CA",29.5
+2023-08-30,"West Colton, CA",32.0
+2023-09-06,"West Colton, CA",32.0
+2023-09-13,"West Colton, CA",29.1
+2023-09-20,"West Colton, CA",24.6
+2023-09-27,"West Colton, CA",25.6
+2023-10-04,"West Colton, CA",24.5
+2023-10-11,"West Colton, CA",26.6
+2023-10-18,"West Colton, CA",24.1
+2023-10-25,"West Colton, CA",24.4
+2023-11-01,"West Colton, CA",23.7
+2023-11-08,"West Colton, CA",22.8
+2023-11-15,"West Colton, CA",26.5
+2023-11-22,"West Colton, CA",27.7
+2023-11-29,"West Colton, CA",30.0
+2023-12-06,"West Colton, CA",21.6
+2023-12-13,"West Colton, CA",24.4
+2023-12-20,"West Colton, CA",23.3
+2023-12-27,"West Colton, CA",24.4
+2024-01-03,"West Colton, CA",24.1
+2024-01-10,"West Colton, CA",21.7
+2024-01-17,"West Colton, CA",24.2
+2024-01-24,"West Colton, CA",25.7
+2024-01-31,"West Colton, CA",24.4
+2024-02-07,"West Colton, CA",24.9
+2024-02-14,"West Colton, CA",24.4
+2024-02-21,"West Colton, CA",24.4
+2024-02-28,"West Colton, CA",22.6
+2024-03-06,"West Colton, CA",25.0
+2024-03-13,"West Colton, CA",25.4
+2024-03-20,"West Colton, CA",28.9
+2024-03-27,"West Colton, CA",26.5
+2024-04-03,"West Colton, CA",24.1
+2024-04-10,"West Colton, CA",24.4
+2024-04-17,"West Colton, CA",22.9
+2024-04-24,"West Colton, CA",23.2
+2024-05-01,"West Colton, CA",22.6
+2024-05-08,"West Colton, CA",22.7
+2024-05-15,"West Colton, CA",21.0
+2024-05-22,"West Colton, CA",20.1
+2024-05-29,"West Colton, CA",21.4
+2024-06-05,"West Colton, CA",21.4
+2024-06-12,"West Colton, CA",20.1
+2024-06-19,"West Colton, CA",22.6
+2024-06-26,"West Colton, CA",24.5
+2024-07-03,"West Colton, CA",23.0
+2024-07-10,"West Colton, CA",23.2
+2024-07-17,"West Colton, CA",22.5
+2024-07-24,"West Colton, CA",24.8
+2024-07-31,"West Colton, CA",23.1
+2024-08-07,"West Colton, CA",28.5
+2024-08-14,"West Colton, CA",25.8
+2024-08-21,"West Colton, CA",26.6
+2024-08-28,"West Colton, CA",25.4
+2024-09-04,"West Colton, CA",26.5
+2024-09-11,"West Colton, CA",27.6
+2024-09-18,"West Colton, CA",25.3
+2024-09-25,"West Colton, CA",27.1
+2024-10-02,"West Colton, CA",27.1
+2024-10-09,"West Colton, CA",23.3
+2024-10-16,"West Colton, CA",25.9
+2024-10-23,"West Colton, CA",29.6
+2024-10-30,"West Colton, CA",25.8
+2024-11-06,"West Colton, CA",26.1
+2024-11-13,"West Colton, CA",25.8
+2024-11-20,"West Colton, CA",26.5
+2024-11-27,"West Colton, CA",29.6
+2024-12-04,"West Colton, CA",25.2
+2024-12-11,"West Colton, CA",20.6
+2024-12-18,"West Colton, CA",23.8
+2024-12-25,"West Colton, CA",21.8
+2025-01-01,"West Colton, CA",25.0
+2025-01-08,"West Colton, CA",21.6
+2025-01-15,"West Colton, CA",20.8
+2025-01-22,"West Colton, CA",22.8
+2025-01-29,"West Colton, CA",28.2
+2025-02-05,"West Colton, CA",25.1
+2025-02-12,"West Colton, CA",24.3
+2025-02-19,"West Colton, CA",26.2
+2025-02-26,"West Colton, CA",25.1
+2025-03-05,"West Colton, CA",24.5
+2025-03-12,"West Colton, CA",26.3
+2025-03-19,"West Colton, CA",28.1
+2025-03-26,"West Colton, CA",24.3
+2025-04-02,"West Colton, CA",30.5
+2025-04-09,"West Colton, CA",29.0
+2025-04-16,"West Colton, CA",28.2
+2025-04-23,"West Colton, CA",25.7
+2025-04-30,"West Colton, CA",22.0
+2025-05-07,"West Colton, CA",19.9
+2025-05-14,"West Colton, CA",22.1
+2025-05-21,"West Colton, CA",20.5
+2025-05-28,"West Colton, CA",19.3
+2025-06-04,"West Colton, CA",19.9
+2025-06-11,"West Colton, CA",20.8
+2025-06-18,"West Colton, CA",20.9
+2025-06-25,"West Colton, CA",19.8
+2025-07-02,"West Colton, CA",20.8
+2025-07-09,"West Colton, CA",22.9
+2025-07-16,"West Colton, CA",21.4
+2025-07-23,"West Colton, CA",20.2
+2025-07-30,"West Colton, CA",20.5
+2025-08-06,"West Colton, CA",21.5
+2025-08-13,"West Colton, CA",19.9
+2025-08-20,"West Colton, CA",21.5
+2025-08-27,"West Colton, CA",21.7
+2025-09-03,"West Colton, CA",19.8
+2025-09-10,"West Colton, CA",20.4
+2025-09-17,"West Colton, CA",19.7
+2025-09-24,"West Colton, CA",19.8
+2025-10-01,"West Colton, CA",19.6
+2025-10-08,"West Colton, CA",20.7
+2025-10-15,"West Colton, CA",21.7
+2025-10-22,"West Colton, CA",20.2
+2025-10-29,"West Colton, CA",19.9
+2025-11-05,"West Colton, CA",20.2
+2025-11-12,"West Colton, CA",20.3
+2025-11-19,"West Colton, CA",20.3
+2025-11-26,"West Colton, CA",20.6
+2025-12-03,"West Colton, CA",19.5
+2025-12-10,"West Colton, CA",18.4
+2025-12-17,"West Colton, CA",19.4
+2025-12-24,"West Colton, CA",20.0
+2025-12-31,"West Colton, CA",21.5
+2026-01-07,"West Colton, CA",18.0
+2026-01-14,"West Colton, CA",18.9
+2026-01-21,"West Colton, CA",20.0
+2026-01-28,"West Colton, CA",19.8
+2026-02-04,"West Colton, CA",20.6
+2026-02-11,"West Colton, CA",19.8
+2026-02-18,"West Colton, CA",20.3
+2026-02-25,"West Colton, CA",19.7
+2026-03-04,"West Colton, CA",21.3
+2026-03-11,"West Colton, CA",20.7
+2026-03-18,"West Colton, CA",23.5
+2026-03-25,"West Colton, CA",20.4
+2026-04-01,"West Colton, CA",21.7
+2026-04-08,"West Colton, CA",23.3
+2026-04-15,"West Colton, CA",20.8
+2026-04-22,"West Colton, CA",19.9
+2026-04-29,"West Colton, CA",21.3
+2026-05-06,"West Colton, CA",20.5
+2026-05-13,"West Colton, CA",20.5
+2026-05-20,"West Colton, CA",22.1
+2026-05-27,"West Colton, CA",19.8
+2026-06-03,"West Colton, CA",21.5
+2026-06-10,"West Colton, CA",22.2
+2026-06-17,"West Colton, CA",20.3
+2026-06-24,"West Colton, CA",20.6
+2026-07-01,"West Colton, CA",20.8
+2026-07-08,"West Colton, CA",21.2
+2026-07-15,"West Colton, CA",20.3
+2026-07-22,"West Colton, CA",21.3
+2026-07-29,"West Colton, CA",24.9
+2026-08-05,"West Colton, CA",23.1
+2026-08-12,"West Colton, CA",21.4
+2026-08-19,"West Colton, CA",22.3
+2026-08-26,"West Colton, CA",22.6
+2026-09-02,"West Colton, CA",22.1
+2026-09-09,"West Colton, CA",22.3
+2026-09-16,"West Colton, CA",22.2
+2026-09-23,"West Colton, CA",20.2
+2026-09-30,"West Colton, CA",22.0
+2026-10-07,"West Colton, CA",21.2
